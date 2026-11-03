@@ -1,0 +1,21 @@
+# 本机密钥与私有文件，绝不提交
+tools/secrets.json
+tools/logs/
+data/reports/
+data/build/
+qa/
+.collector_tmp/
+tools/tests/_tmp/
+
+# 本地产物
+发布包-*.zip
+.edge-profile/
+.codex/
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
