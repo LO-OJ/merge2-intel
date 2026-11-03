@@ -1,1 +1,75 @@
+name: build-and-deploy
 
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # 北京时间 07:00（UTC 23:00）每天更新版本与榜单
+    - cron: "0 23 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect live data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python tools/collect.py --ci --ai
+
+      - name: Validate
+        run: python tools/validate.py
+
+      - name: Build site data
+        run: python tools/build.py
+
+      - name: Commit refreshed data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          if git diff --quiet -- data site/data; then
+            echo "No data changes"
+            exit 0
+          fi
+          git config user.name "merge2-radar-bot"
+          git config user.email "merge2-radar-bot@users.noreply.github.com"
+          git add data site/data
+          git commit -m "chore: refresh intel data"
+          git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
