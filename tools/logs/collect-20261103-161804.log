@@ -1,0 +1,14 @@
+============================================================
+二合情报站采集 2026-11-03T16:18:04+08:00（dry-run=False offline=False ai=on）
+日志：D:\Downloads\二合游戏DSH\tools\logs\collect-20261103-161804.log
+  AI 降级：未配置 key，未调用（drafts 保持 aiStatus=none）
+采集摘要：
+  版本：抓取 0 条，新增 0 条，累计 17 条
+  榜单：成功快照 0 个，latest 12 条，top5 12 条，rankHistory 覆盖游戏 9 款
+  告警：新增 0 条，累计 0 条
+  线索：RSS 0/0 个源成功，新增 0 条，累计 drafts 1 条；AI 情报累计 0 条
+  源：成功 0，失败 0，跳过 1
+    跳过 ai：跳过：未配置 DeepSeek key（AI 降级，drafts 保持 aiStatus=none）
+  跟踪游戏 16 款；日期 2026-11-03；榜单国家 us/cn/jp
+  构建：--no-build 跳过
+退出码 1

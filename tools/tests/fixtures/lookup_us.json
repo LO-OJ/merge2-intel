@@ -1,0 +1,31 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "trackId": 1623318294,
+      "trackName": "Gossip Harbor",
+      "sellerName": "Microfun Limited",
+      "version": "4.11.0",
+      "currentVersionReleaseDate": "2026-10-27T07:00:00Z",
+      "releaseNotes": "新增限时活动「秋日庆典」与赛季通行证，修复若干问题。",
+      "averageUserRating": 4.72,
+      "userRatingCount": 12345,
+      "trackViewUrl": "https://apps.apple.com/us/app/gossip-harbor/id1623318294?uo=4",
+      "price": 0.0,
+      "genres": ["Games", "Casual"]
+    },
+    {
+      "trackId": 1484442152,
+      "trackName": "Merge Mansion",
+      "sellerName": "Metacore Games Oy",
+      "version": "26.10.2",
+      "currentVersionReleaseDate": "2026-10-25T07:00:00Z",
+      "releaseNotes": "",
+      "averageUserRating": 4.62,
+      "userRatingCount": 98765,
+      "trackViewUrl": "https://apps.apple.com/us/app/merge-mansion/id1484442152?uo=4",
+      "price": 0.0,
+      "genres": ["Games", "Puzzle"]
+    }
+  ]
+}

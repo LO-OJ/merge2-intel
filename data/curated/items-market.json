@@ -1,0 +1,810 @@
+{
+  "items": [
+    {
+      "id": "mkt-0001",
+      "title": "2026上半年全球合成手游收入破21亿美元，二合贡献超九成",
+      "summary": "Sensor Tower《2026全球合成游戏市场洞察》显示，2026年上半年全球合成手游内购收入突破21亿美元；二季度首次突破10亿美元、同比增长70%；二合产品贡献96%的下载和93%的收入，已成为合成赛道的绝对主力（口径为App Store与Google Play估算，不含第三方安卓渠道）。",
+      "takeaway": "把二合列为年度预算里的“确定性赛道”：新项目按二合盘面+订单+剧情/经营副玩法立项；存量产品参照“Q2收入增速70%”校准活动密度与付费点节奏。",
+      "dimensions": [
+        "market",
+        "economy"
+      ],
+      "gameIds": [],
+      "sourceId": "sohu",
+      "url": "https://www.sohu.com/a/1058663678_99900743",
+      "publishedAt": "2026-08-04",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "赛道规模",
+        "Sensor Tower",
+        "二合"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0002",
+      "title": "AppMagic：二合是解谜旧三强中唯一仍在涨份额的品类",
+      "summary": "GameLook编译AppMagic报告：三消、二合、爆破合计仍占解谜内购约75%，但只有二合的市场份额继续增长；三者下载份额十年间从75%以上跌至25%以下，份额流向分类、方块、打螺丝等混合休闲新品类。相比新品类，二合越来越向头部集中，新品突围空间收窄。",
+      "takeaway": "把分类/方块/打螺丝等混合休闲玩法当作“副玩法库”，选1-2个模块嵌进二合活动盘；新品立项优先做题材与人群差异化，而不是复制成熟二合框架。",
+      "dimensions": [
+        "market"
+      ],
+      "gameIds": [],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/07/598251/",
+      "publishedAt": "2026-07-27",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "AppMagic",
+        "解谜",
+        "混合休闲"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0003",
+      "title": "8月出海收入榜：Gossip Harbor收入创新高、连续8个月第一",
+      "summary": "北京商报引Sensor Tower 2026年8月中国手游出海榜：Gossip Harbor海外收入创历史新高、环比增长11%，连续8个月居首；点点互动《Whiteout Survival》海外收入超1亿美元列第三；三七互娱《Last Asylum: Plague》突破2500万美元、环比增长37%。（仅IAP估算，不含广告与大陆第三方安卓）",
+      "takeaway": "把“连续霸榜”当活动节奏体检指标：对照头部月更活动密度检查自家版本空窗；用同榜中腰部产品的环比变化做竞品活动效果预警。",
+      "dimensions": [
+        "market"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "bbtnews",
+      "url": "https://www.bbtnews.com.cn/2026/0915/605962.shtml",
+      "publishedAt": "2026-09-15",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "出海榜",
+        "Gossip Harbor",
+        "月度榜单"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0004",
+      "title": "9月出海榜：Gossip Harbor九连冠，Tasty Travels累计4.5亿美元",
+      "summary": "游戏那点事引Sensor Tower 2026年9月出海收入榜：Gossip Harbor连续9个月第一；点点互动三款包揽2-4名；Tasty Travels累计海外收入突破4.5亿美元，9月以秋季岛屿装饰活动提供新目标。Playliner数据显示，头部合成产品月均活动数从2024Q1约69场升至2026Q2约244场。",
+      "takeaway": "给“装饰/收集”活动排固定月度档期，并把装饰目标挂到主线进度上；用“月均活动数/并行活动数”作为运营产能KPI（参考244场/月）。",
+      "dimensions": [
+        "market",
+        "activity"
+      ],
+      "gameIds": [
+        "tasty-travels"
+      ],
+      "sourceId": "nadianshi",
+      "url": "http://www.nadianshi.com/2026/10/423145",
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "出海榜",
+        "LiveOps",
+        "Tasty Travels"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0005",
+      "title": "出海收入Top15二合从2款到6款：一年新增四个席位",
+      "summary": "白鲸出海（原Enjoy出海）盘点：2025年9月出海收入Top15仅两款二合，2026年9月增至六款、二合厂商从1家到4家。AppMagic数据显示，2026H1全球二合内购约12.39亿美元，上年同期约6.36亿；下载从2.27亿次增至2.73亿次、同比约+20%，收入增速明显快于下载。",
+      "takeaway": "把“收入增速远高于下载”当作品类信号：增量主要来自存量经营而非新增安装，优先补活动、赛季、卡册等长线目标，而不是只加买量预算。",
+      "dimensions": [
+        "market"
+      ],
+      "gameIds": [],
+      "sourceId": "baijing",
+      "url": "https://www.baijing.cn/article/57170",
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "AppMagic",
+        "赛道规模",
+        "出海"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0006",
+      "title": "柠檬微趣月流水稳超10亿：GH单款内购8.3亿、Seaside近2亿",
+      "summary": "GameLook据三方数据：2025年12月Gossip Harbor内购月流水已破8.3亿元，Seaside Escape接近2亿元，两款合计使柠檬微趣月流水稳超10亿元（不含小游戏与广告）。出海TOP30中休闲游戏占6席、柠檬微趣占3席；GH玩家同时参与活动4-5个、峰值可达8-10个。",
+      "takeaway": "用双产品矩阵分摊买量与活动产能：主产品吃高付费剧情盘，副产品做同题材轻量版；并行活动数按玩家认知负荷设上限，先把4-5个跑顺。",
+      "dimensions": [
+        "market",
+        "activity"
+      ],
+      "gameIds": [
+        "gossip-harbor",
+        "seaside-escape"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/01/585800/",
+      "publishedAt": "2026-01-13",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "柠檬微趣",
+        "月流水",
+        "矩阵"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0007",
+      "title": "7月出海榜：点点三款会师Top5，Tasty Travels下载环比+59%",
+      "summary": "GameLook引Sensor Tower 2026年7月出海榜：点点互动《Kingshot》《Whiteout Survival》《Tasty Travels》同时进入收入Top5；Gossip Harbor连续7个月居首，并位列出海下载榜第四；Tasty Travels 7月海外下载环比增长59%，说明IAP二合开始同时拿到收入与下载增长。",
+      "takeaway": "给IAP二合补“下载→付费”转化模型：把下载当作活动/素材的先行指标，为高价值活动配套可被下载转化的素材，别把下载增长只归因于买量。",
+      "dimensions": [
+        "market",
+        "ua"
+      ],
+      "gameIds": [
+        "tasty-travels"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/08/599626/",
+      "publishedAt": "2026-08-10",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "Sensor Tower",
+        "出海榜",
+        "Tasty Travels"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0008",
+      "title": "世纪华通二合“大小王”：Tasty Travels月流水超3亿、Hotel Legacy加速",
+      "summary": "GameLook据三方数据：Tasty Travels近30天预估内购流水超3亿元；Hotel Legacy 6月约1000万元、7月环比+200%至3000万元，被视为候选“小王”。点点互动已公开5款在营二合，包括Tasty Travels、Hotel Legacy、Just Desserts、Family Farm Merge、Family Tales（第三方估算口径）。",
+      "takeaway": "把“题材×副玩法”做成矩阵而非单押：酒店、甜点、农场分别覆盖不同人群；同一二合框架复用合成链与活动模板，压缩研发与测试成本。",
+      "dimensions": [
+        "market",
+        "launch"
+      ],
+      "gameIds": [],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/08/600193/",
+      "publishedAt": "2026-08-19",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "点点互动",
+        "产品矩阵",
+        "流水估算"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0009",
+      "title": "SLG厂商VoyagerOne入场：Hollywood Merge 7月流水环比+300%",
+      "summary": "GameLook引Appark：原SLG厂商VoyagerOne的二合新作Hollywood Merge 7月预估流水约8000万元、环比6月增长300%；以好莱坞换装与短剧逆袭题材切入，换装系统同时做进二合棋子，基本每周上线多个新活动。文章称二合与SLG一样回本周期普遍在10个月以上。",
+      "takeaway": "有SLG发行积累的团队可用“高情绪题材+副玩法”切二合：先用三消/换装老素材验证题材，再迁移到二合；预算按不低于10个月回本做现金流压力测试。",
+      "dimensions": [
+        "market",
+        "ua"
+      ],
+      "gameIds": [],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/08/600264/",
+      "publishedAt": "2026-08-20",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "VoyagerOne",
+        "Hollywood Merge",
+        "题材"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0010",
+      "title": "二合厂商加速新游测试：柠檬微趣押惊悚奇幻，点点三款广撒网",
+      "summary": "17173/点点出海：柠檬微趣Whisper Castle走惊悚奇幻与Love & Pies式剧情合成，已上线170个国家及地区，测试期累计下载约29万、总流水约8.7万美元，仍处调优期；点点互动Hotel Legacy 4月流水约15万美元、环比+392%，另有Just Desserts、Family Farm Merge分题材测试。",
+      "takeaway": "新题材测试别只看下载：按“下载→可统计流水→日流水爬坡”设三道验收线；单款测试预算可控，题材验证通过后再放大投放。",
+      "dimensions": [
+        "launch",
+        "publisher"
+      ],
+      "gameIds": [],
+      "sourceId": "17173",
+      "url": "https://news.17173.com/content/05152026/151350946.shtml",
+      "publishedAt": "2026-05-15",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "新游测试",
+        "柠檬微趣",
+        "点点互动"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0011",
+      "title": "肥鹅美食街上线iOS免费榜TOP1：限时活动串成“差一点完成”链",
+      "summary": "17173/游戏价值论：肥鹅美食街6月1日上线iOS后登免费榜TOP1，3月起小游戏端稳定在微信畅销25名左右。开局用4×7小棋盘教发射、合成、解锁与交单，完整盘后礼包和活动全部限时；“时空追逐”做进度比拼，“芝士漂流”大奖五星卡包与“甜蜜季节”互通。微信小游戏大会称女性付费用户同比+20%、ARPPU+10%，模拟经营年增速210%、二合70%。",
+      "takeaway": "新手期先做干净UI与小棋盘，第一次体力耗尽后再上首个小额限时体力包；把2-3个限时活动用同一奖励物串起来，用A活动产出推B活动。",
+      "dimensions": [
+        "activity",
+        "system"
+      ],
+      "gameIds": [
+        "feige-meishi"
+      ],
+      "sourceId": "17173",
+      "url": "https://news.17173.com/content/06052026/170613989.shtml",
+      "publishedAt": "2026-06-05",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "肥鹅美食街",
+        "限时活动",
+        "小游戏"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0013",
+      "title": "Merge Survival 1.53.0拆活动结构：主盘掉道具、活动盘破沙发电",
+      "summary": "Sticky Hands官方1.53.0公告（2026-05-28）：6月1-15日“陷入危机的营地”——主棋盘合成有概率掉维修镐，活动盘用镐破硬沙、集零件让发电设施运转领奖，剩余镐结算转金币；6月16-30日“今天吃什么”——合成次数换食谱、按序交菜、集料理卡后开无尽订单，厨师帽可在点数商店兑换；活动开始时间改为00:00，等级上限扩至150。",
+      "takeaway": "把“主盘产出→活动盘消耗→奖励回流主盘”做成闭环；活动结束把未用代币按比例转金币，减少囤积与负面反馈；固定活动开启时间以培养玩家预期。",
+      "dimensions": [
+        "activity",
+        "system"
+      ],
+      "gameIds": [
+        "merge-survival"
+      ],
+      "sourceId": "stickyhands",
+      "url": "https://stickyhands.oqupie.com/portals/3043/customer-news/9532",
+      "publishedAt": "2026-05-28",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "Merge Survival",
+        "活动结构",
+        "版本公告"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0014",
+      "title": "Gossip Harbor活动分层拆解：签到、周榜、集卡、赛季四层嵌套",
+      "summary": "网易号“一枚游戏干饭人”梳理：Gossip Harbor用签到/日常稳住每日登录，周排行榜/周订单挑战维持一周活跃，集卡、赛季通行证、节日主题装修提供中长期目标；不同周期活动互相穿插，并与主线剧情、棋盘进度绑定。引NAAVIK数据：GH周更剧情、月均近百场活动，研发运营人力约占柠檬微趣400多名员工的50%-75%。",
+      "takeaway": "按“日-周-月-赛季”四层排活动日历，每层只设一个主目标；用主线进度做活动解锁门槛，避免活动与主线两张皮；先算内容产能再定活动数量。",
+      "dimensions": [
+        "activity",
+        "system"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "netease",
+      "url": "https://www.163.com/dy/article/LANENNMK055697R1_pdya11y.html",
+      "publishedAt": "2026-11-02",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "LiveOps",
+        "活动分层",
+        "NAAVIK"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0015",
+      "title": "DoF对比Just Desserts与Gossip Harbor：体力阶梯与生成器冷却",
+      "summary": "GameLook编译Deconstructor of Fun：两款二合均以能量驱动，2分钟回1点、上限100点、耗尽约3小时20分回满；体力购买阶梯为10/20/40宝石且每日重置；生成器有冷却，可等待或花宝石跳过；GH把低级生成器移到独立区域以降低棋盘压迫；Rave Review（好评订单）4级解锁，是行业标配的早期留存钩子。",
+      "takeaway": "用“体力阶梯每日重置”做低门槛高频付费，而不是只卖大包；把低级生成器移出主盘以降低卡位、加快体力消耗；4级前后放一个高反馈的“好评订单”保早期留存。",
+      "dimensions": [
+        "system",
+        "monetization"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/09/602057/",
+      "publishedAt": "2026-09-14",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "系统设计",
+        "体力",
+        "生成器"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0016",
+      "title": "Tasty Travels对Flambé：删掉烹饪步骤换来的节奏与付费差异",
+      "summary": "17173/白鲸出海对比：Tasty Travels删掉做菜加工，点顾客后绿色高亮可交付物、订单快速结算；前期免费体力充足可维持200+，并插入依赖单一生成器的大额订单。Flambé保留厨具加工与“日历天数”机制，第13天起每天需完成5-7单，易被迫等体力；集卡开放（绑定Facebook换卡）对封闭，内购主力1.99-4.99美元对19.99美元套餐。",
+      "takeaway": "明确“拟真”与“爽感”只能选一个主基调：走快节奏就删中间加工步并加可交付高亮；集卡要么开放社交换卡，要么把重复卡转化做顺，别让玩家卡在最后2-3张。",
+      "dimensions": [
+        "system",
+        "monetization"
+      ],
+      "gameIds": [
+        "tasty-travels",
+        "flambe"
+      ],
+      "sourceId": "17173",
+      "url": "https://news.17173.com/content/06032026/154910663.shtml",
+      "publishedAt": "2026-06-03",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "系统设计",
+        "集卡",
+        "定价"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0017",
+      "title": "二合棋盘是“经济体”：卖延续性而非解决方案",
+      "summary": "GameLook编译Aylin Yazıcı（dof）分析：三消棋盘每局重置、卖的是“过关解决方案”；二合棋盘持续存在，关掉游戏时订单、生成器充能、半成品都还在，卖的是“让已投入的进度继续运转”。生成器加速（多倍体力换高阶产出）约2023年成为品类标配，单位体力期望收益不变但消耗更快，因此二合的销售机会没有天然上限。",
+      "takeaway": "付费点围绕“保护已投入进度”而不是“救关卡”：在活动倒计时、订单差最后一件、生成器满充能时给补给或加速；加速档位设2/4/8倍，并同步评估经济承受力。",
+      "dimensions": [
+        "system",
+        "economy"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/07/597450/",
+      "publishedAt": "2026-07-14",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "变现逻辑",
+        "生成器加速",
+        "二合"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0018",
+      "title": "2026H1二合下载榜Top10中IAP主导产品占比升至80%",
+      "summary": "GameLook引Sensor Tower：IAP仍是二合主要收入，IAA成为重要补充；Tasty Travels广告展示随用户规模增长，在美国、日本、印度、巴西形成稳定广告库存，除游戏广告外还接到Temu、SHEIN等电商预算。2026H1二合下载榜Top10中，以IAP为主要收入的产品占比升至80%，高于2025年同期的60%。",
+      "takeaway": "给低付费用户保留激励视频（能量/额外奖励），同时把广告入口做成动态可见；高价值用户侧用礼包、通行证承接；别把IAA当主收入，它更多是拉LTV和承接电商预算。",
+      "dimensions": [
+        "monetization",
+        "ua"
+      ],
+      "gameIds": [
+        "tasty-travels"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/08/599103/",
+      "publishedAt": "2026-08-04",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "混合变现",
+        "IAA",
+        "IAP"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0019",
+      "title": "Hollywood Merge：20级后绑社交账号进官网会员俱乐部领奖励",
+      "summary": "白鲸出海/游戏新知：VoyagerOne的Hollywood Merge今年2月上线海外，近一个月收入超500万美元、Google Play下载超500万次；游戏把内容与社交平台深度绑定，玩家等级超过20级后可绑定社交账号，并通过官网加入LOYALTY CLUB会员俱乐部赢取额外奖励，用来承接中度、重度玩家的归属感与长期活跃。",
+      "takeaway": "在20级左右设“官网会员俱乐部”承接核心玩家：绑定社媒+官网领专属奖励，把游戏外流量沉淀为可反复触达的私域；会员权益与游戏内进度、活动挂钩，别只发兑换码。",
+      "dimensions": [
+        "monetization",
+        "activity"
+      ],
+      "gameIds": [],
+      "sourceId": "baijing",
+      "url": "https://www.baijing.cn/article/id-57068",
+      "publishedAt": "2026-10-20",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "会员体系",
+        "Hollywood Merge",
+        "私域"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0020",
+      "title": "Gossip Harbor早期变现序列：先做价格探针，再上转化压力",
+      "summary": "GameLook编译Balancy拆解：Gossip Harbor从第一次游玩就引入运营，早期用一系列价格与构成不同的小额促销做“价格敏感度探针”，而非追求即时收入；未开放活动先以锁定图标和倒计时可见，当路线图用；赛季通行证作为动态活动日历中的稳定层；推进后切换到更短计时、更大折扣的转化压力，属教科书式转化升级。",
+      "takeaway": "前3天用2-3档小额促销测价格带并记录分群；把未开放活动“可见化”做预期管理；用赛季通行证做稳定层，限时高折扣只放在进度卡点，避免全程高压。",
+      "dimensions": [
+        "monetization",
+        "activity"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/03/589772/",
+      "publishedAt": "2026-03-18",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "新手变现",
+        "价格探针",
+        "通行证"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0021",
+      "title": "华泰研报：二合长期空间73-115亿美元，中国厂商已占约70%",
+      "summary": "华泰证券2026年9月13日研报（老虎社区转载）：2025年全球二合收入14亿美元、同比+80%，下载5.07亿次、+9%；测算长期潜在空间73-115亿美元。中国厂商约占全球二合收入70%，2025年畅销榜Top10占7席；CR10超80%、Gossip Harbor单款份额近40%；2025年200余款二合新品仅6款月流水破10万美元，成功率不足3%。",
+      "takeaway": "立项前先算“成功率<3%”的期望值，把预算留给已验证团队/题材；用CR10>80%、单款近40%判断这是头部集中市场，新进入者优先做差异化题材或区域。",
+      "dimensions": [
+        "economy",
+        "market"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "huatai",
+      "url": "https://www.laohunote.com/news/2667549611",
+      "publishedAt": "2026-09-15",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "华泰证券",
+        "市场空间",
+        "集中度"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0022",
+      "title": "2025解谜IAP超100亿美元：二合贡献六成增量，GH ARPDAU 0.31美元",
+      "summary": "GameLook编译Naavik（引Sensor Tower）：2025年全球解谜手游IAP超100亿美元、同比+14%，下载超97亿次；Gossip Harbor 2025年收入超6.5亿美元、列解谜第三；其IAP ARPDAU约0.31美元，接近Royal Match（0.17）的两倍、Candy Crush（0.11）的近三倍；GH约15%-20%收入来自广告（估算约1亿美元）；Mistplay调查称84%解谜玩家为放松、81%为女性。",
+      "takeaway": "用ARPDAU而非总收入评估二合变现效率；把广告收入按15%-20%纳入LTV模型；针对“放松+女性”的核心动机控制界面与活动压力，别用重度PVP节奏。",
+      "dimensions": [
+        "economy",
+        "monetization"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/01/586251/",
+      "publishedAt": "2026-01-20",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "ARPDAU",
+        "解谜",
+        "混合变现"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0023",
+      "title": "Merge Cooking拆解：能量墙+7种厨具拉长中后期",
+      "summary": "LIGHT GAME 2026年7月3日拆解：Merge Cooking采用标准二合框架，棋盘生成器产食材、两两合成、交顾客订单换货币装修主题餐厅；七种厨具与新食材链拉长中后期深度；核心变量是能量条，早期够用、中期消耗快形成体力墙。变现为纯F2P内购，能量礼包6.99-19.99美元、钻石包2.99-13.99美元；韩国是高付费区，安装量500万+（拆解站汇总，建议核对原始来源）。",
+      "takeaway": "中期用“新厨具/新食材链”而不是单纯加数值来续命；按区域做定价与投放（韩国ARPPU高但下载不大）；能量墙要配可预期的免费补充点，避免长时段玩家流失。",
+      "dimensions": [
+        "economy",
+        "monetization"
+      ],
+      "gameIds": [
+        "merge-cooking"
+      ],
+      "sourceId": "lightgame",
+      "url": "https://www.lightgame.cc/game/ios-abd40ef457.html",
+      "publishedAt": "2026-07-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "medium",
+      "summaryBy": "editor",
+      "tags": [
+        "Merge Cooking",
+        "能量",
+        "区域定价"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0024",
+      "title": "8月买量月报：Gossip Harbor广告量环比+317%，靠新活动放大投放",
+      "summary": "AppGrowing 2026年8月手游月报：Gossip Harbor广告量环比增长317.21%、跃居产品投放榜第三，柠檬微趣进入开发者投放榜Top10；8月广告量基本维持2万组以上，下旬单日一度接近5万组，投放爆发主因新版本活动“逃离浣熊沙滩”。素材仍以“解救受困母女”为主，叠加真人吐槽与短剧包装，强调无广告、免费、解压，末段推新手礼包。",
+      "takeaway": "大版本活动前2-3周就同步放大素材，而不是上线后才投；素材用“短剧钩子→玩法展示→新手礼包”三段式；给新活动单独做素材批次并回收CTR/转化对比。",
+      "dimensions": [
+        "ua",
+        "launch"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "appgrowing",
+      "url": "https://appgrowing.net/blog/aug_game-2/",
+      "publishedAt": "2026-09-04",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "买量",
+        "素材",
+        "AppGrowing"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0025",
+      "title": "9月买量月报：解谜仍是广告量第一，素材向15s内和46-60s两头扩",
+      "summary": "AppGrowing 2026年9月手游月报：益智解谜仍是广告量投放第一品类；视频素材占比71.93%，16-30秒占35.1%但继续下降，15秒以内与46-60秒素材占比分别升至20.08%、20.45%；产品投放榜几乎全为熟面孔，仅Drive to Deliver环比增长超100%；开发者投放榜前三为乐信圣文、Hungry Studio、Voodoo。",
+      "takeaway": "二合素材配比向“15秒内钩子版+46-60秒剧情版”两头扩，中间16-30秒保留基础量；每月做一次素材时长结构复盘，别只堆同一长度素材。",
+      "dimensions": [
+        "ua"
+      ],
+      "gameIds": [],
+      "sourceId": "appgrowing",
+      "url": "https://appgrowing.net/blog/sept_game-3/",
+      "publishedAt": "2026-10-16",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "素材时长",
+        "买量月报",
+        "AppGrowing"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0026",
+      "title": "二合+换装靠AI素材破局：短剧、AI服装细节与ASMR三条线",
+      "summary": "17173/广大大出海笔记：二合+换装成为二合赛道继装修经营后的延伸。Merge Fashion上月Android下载预估204万、收入30万美元；Hollywood Merge下载41万、收入49万美元；Merge Studio以ASMR美容模式做差异化。素材三条线：狗血逆袭短剧、AI生成的精致服装细节、近距离特写配触发音。",
+      "takeaway": "换装/颜值题材用AI生成服装细节做素材差异化；把ASMR/疗愈音做成一类可复用素材模板；短剧冲突开头+真实玩法收尾仍是基础款。",
+      "dimensions": [
+        "ua",
+        "launch"
+      ],
+      "gameIds": [],
+      "sourceId": "17173",
+      "url": "https://news.17173.com/content/04142026/174832090.shtml",
+      "publishedAt": "2026-04-14",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "AI素材",
+        "换装",
+        "短剧"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0027",
+      "title": "Merge Cooking买量拆解：AppLovin占六成，视频+试玩为主",
+      "summary": "网易号/游戏客栈引Insightrackr与七麦数据：Merge Cooking双端预估收入美国均居首；投放国家iOS端日本37.03%、美国32.16%，安卓端美国34.91%；媒体渠道iOS端AppLovin占64.96%、安卓61.3%；素材类型视频占69.96%（iOS）、78.73%（安卓），试玩广告占29.24%、19.9%；创意分纯玩法展示、真人痛点、文字直述三类，变现为IAA+IAP混合。",
+      "takeaway": "休闲二合优先押AppLovin+Meta，素材以视频与试玩为主；创意至少跑“玩法展示/真人痛点/文字直述”三条线；按美日双市场拆投放预算与素材。",
+      "dimensions": [
+        "ua",
+        "monetization"
+      ],
+      "gameIds": [
+        "merge-cooking"
+      ],
+      "sourceId": "netease",
+      "url": "https://www.163.com/dy/article/KTILDGG105466ZM9_pdya11y.html",
+      "publishedAt": "2026-05-22",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "买量渠道",
+        "Merge Cooking",
+        "试玩广告"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0028",
+      "title": "微恐二合Haunted Merge：90天收入5000万，恐怖剧情素材开路",
+      "summary": "腾讯新闻/游戏新知：出海二合Haunted Merge在中国港台iOS畅销榜TOP100停留2个多月；据Sensor Tower最近90天收入约5000万元、累计营收超6000万元，美国与中国台湾合计贡献超4成、美国约3成。广告素材通常为“恐怖剧情片段+解谜玩法”，用理发店、公园等惊悚桥段开头，再接到真实解谜与合成。",
+      "takeaway": "用“微恐/悬疑”题材切非传统二合人群；素材把强视觉冲击的剧情片段放开头，再接真实解谜/合成；先在中国港澳台验证，再放大美国市场。",
+      "dimensions": [
+        "ua",
+        "market"
+      ],
+      "gameIds": [],
+      "sourceId": "qqnews",
+      "url": "https://view.inews.qq.com/k/20260506A07OMQ00",
+      "publishedAt": "2026-05-06",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "微恐题材",
+        "素材",
+        "Haunted Merge"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0029",
+      "title": "Supercell宣布Merge Mansion加入：交易已签署、9月底交割",
+      "summary": "Supercell官方公告（2026-08-31）：Merge Mansion加入Supercell的交易已签署，预计9月底完成交割，交易条款不披露；交割后游戏正式进入Supercell长线游戏组合，双方已与Metacore开始规划过渡。公告称对玩家游戏继续照常运营，团队仍将服务社区。",
+      "takeaway": "把交割后Merge Mansion的内容节奏、买量与活动改造列为Q4竞品跟踪重点，作为“成熟二合+大厂运营”的对照样本；同时评估其对二合买量成本的抬升。",
+      "dimensions": [
+        "publisher"
+      ],
+      "gameIds": [
+        "merge-mansion"
+      ],
+      "sourceId": "supercell",
+      "url": "https://supercell.com/en/news/merge-mansion-is-joining-supercell/",
+      "publishedAt": "2026-08-31",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "Supercell",
+        "Merge Mansion",
+        "收购"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0030",
+      "title": "Supercell完成对Metacore全资收购，Merge Mansion团队并入",
+      "summary": "21世纪经济报道（2026-10-23）援引IT桔子：腾讯系游戏企业Supercell已完成对芬兰休闲厂商Metacore的全资收购，《Merge Mansion》（庄园合合）研发团队正式并入Supercell。此前Supercell已是Metacore大股东，交易金额未披露。",
+      "takeaway": "收购完成后Metacore团队并入，观察其是否获得Supercell的买量与LiveOps资源；把Merge Mansion的版本、活动与经济系统变化列为Q4竞品跟踪重点。",
+      "dimensions": [
+        "publisher"
+      ],
+      "gameIds": [
+        "merge-mansion"
+      ],
+      "sourceId": "sfccn",
+      "url": "https://www.sfccn.com/2026/10-23/5NMDE0NDlfMjI4MDA5NA.html",
+      "publishedAt": "2026-10-23",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "Supercell",
+        "Metacore",
+        "资本"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0031",
+      "title": "Supercell八年押注Metacore：累计投入1.8亿欧元、持股约70%",
+      "summary": "GameLook梳理Supercell与Metacore的八年关系：2018年前后首投约500万欧元，2020年Merge Mansion上线时追加1500万欧元投资和1000万欧元信贷额度，2021年再提供1.5亿欧元信用额度，收购前累计投入1.8亿欧元、持股约70%。Merge Mansion累计下载超6000万、生命周期收入约7亿美元；2025年Metacore有15款测试游戏下架。",
+      "takeaway": "用“老产品翻盘”逻辑看二合：优先投已被验证的长线产品与团队，而不是只赌新爆款；并购或投资前先评估新项目试错成本与现金储备。",
+      "dimensions": [
+        "publisher",
+        "market"
+      ],
+      "gameIds": [
+        "merge-mansion"
+      ],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/05/592669/",
+      "publishedAt": "2026-05-08",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "Supercell",
+        "Metacore",
+        "长线运营"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0032",
+      "title": "7亿美元收购案拆解：Merge Mansion为何卖了、Supercell买什么",
+      "summary": "17173/罗斯基：5月5日Metacore与Supercell公布收购计划，Metacore同步重组、芬兰最多160个岗位面临裁撤。Supercell 2025年收入26.5亿欧元、同比-4%，EBITDA 9.32亿欧元、+6%，月活约2.9亿；Merge Mansion 2020年9月上线，下载超6000万、生命周期收入超7亿美元，曾用Kathy Bates、Pedro Pascal拍真人短片，三支视频播放约3800万。",
+      "takeaway": "二合成熟产品可复用“明星真人短片+悬疑钩子”做品牌声量；并购整合期先看裁员/重组对内容产能的影响，再判断产品后续版本节奏。",
+      "dimensions": [
+        "publisher",
+        "ua"
+      ],
+      "gameIds": [
+        "merge-mansion"
+      ],
+      "sourceId": "17173",
+      "url": "https://news.17173.com/content/05072026/171536001.shtml",
+      "publishedAt": "2026-05-07",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "Merge Mansion",
+        "品牌广告",
+        "收购"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "mkt-0033",
+      "title": "莉莉丝入局二合：重生流+80年代复古时尚的Totally Mall开测",
+      "summary": "GameLook：莉莉丝5月底在海外测试二合新游Totally Mall，选题为国内女频常见的“重生流”——中年女性因火灾回到16岁、回到上世纪80年代，主线是调查好友被谋杀；美术走复古欧美时尚+3D质感，棋子换成柠檬、冰淇淋、运动鞋等商品，订单驱动店铺装修与升级。文章同时提到国内女性向休闲《我的花园世界》曾进iOS畅销Top3。",
+      "takeaway": "二合题材还可往“重生/悬疑/年代”切，用剧情钩子做留存；国内小游戏与女性向休闲的成功题材，可反向输出到海外二合立项。",
+      "dimensions": [
+        "publisher",
+        "launch"
+      ],
+      "gameIds": [],
+      "sourceId": "gamelook",
+      "url": "http://www.gamelook.com.cn/2026/07/596841/",
+      "publishedAt": "2026-07-07",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "莉莉丝",
+        "Totally Mall",
+        "题材创新"
+      ],
+      "createdAt": "2026-11-03"
+    }
+  ]
+}

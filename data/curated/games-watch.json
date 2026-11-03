@@ -1,0 +1,442 @@
+{
+  "games": [
+    {
+      "id": "merge-mansion",
+      "name": "Merge Mansion",
+      "nameZh": "Merge Mansion",
+      "publisher": "Metacore",
+      "country": "FI",
+      "role": "competitor",
+      "genre": "剧情向二合 · 庄园装修",
+      "stores": { "us": "1484442152" },
+      "positioning": "悬疑剧情驱动的庄园装修二合，Metacore 的长线运营代表，2026 年并入 Supercell。",
+      "coreLoop": ["合成庄园/花园道具", "交任务修复房间", "解锁家族悬疑剧情", "开放新区域与新合成链"],
+      "monetization": ["体力", "宝石/金币", "限时礼包", "活动通行证（结构待核实）"],
+      "eventCadence": "以节日/节气主题活动与限时合成活动为主；被 Supercell 收购后的节奏是否加密待核实（据 Supercell 公告与 GameLook 梳理）。",
+      "notableSystems": [
+        "剧情+装修元游戏，谜题式家族故事驱动长线",
+        "累计下载超 6000 万、生命周期收入约 7 亿美元（三方估算）",
+        "明星真人短片品牌营销（Kathy Bates、Pedro Pascal）"
+      ],
+      "borrow": [
+        "成熟二合可复用“明星真人短片+悬疑钩子”做品牌声量，而不只靠买量素材",
+        "把装修目标挂到主线剧情，避免活动与主线两张皮"
+      ],
+      "risks": [
+        "Supercell 收购整合期（芬兰最多 160 岗位面临裁撤）可能影响内容产能与版本节奏",
+        "大厂入场后二合买量成本抬升，投产比承压"
+      ],
+      "matrix": {
+        "energy": "体力驱动；回复速度与上限待核实",
+        "events": "节日主题活动与限时合成活动，频率待核实",
+        "pass": "有赛季/通行证类付费，结构待核实",
+        "offers": "限时礼包与宝石包，档位待核实",
+        "ads": "以内购为主，广告占比待核实",
+        "collab": "以明星品牌广告为主，游戏内 IP 联动待核实",
+        "cadence": "版本+节日活动更新；交割后节奏待核实"
+      },
+      "tags": ["剧情", "庄园", "二合"],
+      "color": "#9333EA",
+      "logoText": "MM",
+      "sourceUrls": [
+        "https://supercell.com/en/news/merge-mansion-is-joining-supercell/",
+        "https://news.17173.com/content/05072026/171536001.shtml",
+        "https://apps.apple.com/us/app/id1484442152"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "travel-town",
+      "name": "Travel Town",
+      "nameZh": "Travel Town",
+      "publisher": "Moon Active",
+      "country": "IL",
+      "role": "competitor",
+      "genre": "合成 + 旅行建造",
+      "stores": { "us": "1521236603" },
+      "positioning": "轻度旅行建造二合，用短周期收集与活动保持高频率 LiveOps。",
+      "coreLoop": ["合成道具交付订单", "赚金币/星星", "建造旅行目的地并收集", "解锁新目的地与活动目标"],
+      "monetization": ["体力", "金币/宝石", "限时礼包", "广告（结构待核实）"],
+      "eventCadence": "以短周期活动/收集活动为主、频率较高；具体排期待核实。",
+      "notableSystems": [
+        "旅行目的地收集作为中长期目标",
+        "短周期、奖励密集的 LiveOps 风格（结构待核实）"
+      ],
+      "borrow": [
+        "用“目的地收集+短周期活动”把长线目标切成周级里程碑",
+        "订单结算做快、减少中间加工步，把单局压到分钟级"
+      ],
+      "risks": [
+        "轻度二合赛道拥挤，题材与素材同质化严重",
+        "具体活动与付费结构公开资料有限，需自行拆包核实"
+      ],
+      "matrix": {
+        "energy": "体力驱动；回复与上限待核实",
+        "events": "短周期收集/建造活动，类型与频率待核实",
+        "pass": "待核实",
+        "offers": "限时礼包为主，档位待核实",
+        "ads": "有广告变现，占比待核实",
+        "collab": "待核实",
+        "cadence": "高频小版本+活动，具体节奏待核实"
+      },
+      "tags": ["旅行", "建造", "二合"],
+      "color": "#0891B2",
+      "logoText": "TT",
+      "sourceUrls": [
+        "https://apps.apple.com/us/app/id1521236603"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "seaside-escape",
+      "name": "Seaside Escape",
+      "nameZh": "Seaside Escape",
+      "publisher": "Microfun / 柠檬微趣",
+      "country": "CN",
+      "role": "competitor",
+      "genre": "剧情向二合 · 海岛重建",
+      "stores": { "us": "6443755785" },
+      "positioning": "Microfun 双产品矩阵中的海岛重建二合，与 Gossip Harbor 共用活动与付费范式。",
+      "coreLoop": ["合成道具交订单", "赚金币与星星", "重建海岛建筑与场景", "推进剧情与活动目标"],
+      "monetization": ["体力与钻石礼包", "通行证（结构待核实）", "广告（结构待核实）"],
+      "eventCadence": "与 Gossip Harbor 同源的多层活动体系；具体排期待核实。",
+      "notableSystems": [
+        "剧情+重建元游戏",
+        "双产品矩阵分摊买量与活动产能（据 GameLook 2026-01 转述三方数据）"
+      ],
+      "borrow": [
+        "同题材做“主产品吃高付费剧情盘、副产品做同题材轻量版”的矩阵分摊",
+        "并行活动数按玩家认知负荷设上限，先把 4-5 个跑顺"
+      ],
+      "risks": [
+        "与 Gossip Harbor 内部同题材，存在用户与买量分流",
+        "月流水体量（近 2 亿元）与 GH（8.3 亿元）差距大，资源天然偏向主产品"
+      ],
+      "matrix": {
+        "energy": "体力驱动，机制与 GH 同源（具体参数待核实）",
+        "events": "多层活动体系（签到/榜单/集卡/赛季），具体排期待核实",
+        "pass": "待核实",
+        "offers": "限时礼包与钻石包，档位待核实",
+        "ads": "有广告变现，占比待核实",
+        "collab": "待核实",
+        "cadence": "跟随柠檬微趣版本节奏，具体待核实"
+      },
+      "tags": ["剧情", "海岛", "二合"],
+      "color": "#0D9488",
+      "logoText": "SE",
+      "sourceUrls": [
+        "http://www.gamelook.com.cn/2026/01/585800/",
+        "https://apps.apple.com/us/app/id6443755785"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "merge-gardens",
+      "name": "Merge Gardens",
+      "nameZh": "Merge Gardens",
+      "publisher": "Futureplay",
+      "country": "FI",
+      "role": "competitor",
+      "genre": "花园合成 + 解谜",
+      "stores": { "us": "1464675244" },
+      "positioning": "花园合成 + 三消解谜的双玩法二合，用解谜关卡给合成主盘供给资源与节奏变化。",
+      "coreLoop": ["合成花园道具", "完成花园任务与修复", "三消关卡获取资源/体力", "解锁新花园区域"],
+      "monetization": ["体力", "金币与关卡生命", "礼包（结构待核实）"],
+      "eventCadence": "待核实",
+      "notableSystems": [
+        "合成盘与三消关卡双玩法并行",
+        "花园区域分阶段解锁（结构待核实）"
+      ],
+      "borrow": [
+        "用三消关卡做“资源产出副玩法”，给二合主盘补节奏变化",
+        "双玩法入口要分主次，避免新手同时学两套规则导致漏斗流失"
+      ],
+      "risks": [
+        "双玩法学习成本高，新手漏斗易流失",
+        "公开活动与付费结构资料少，待核实"
+      ],
+      "matrix": {
+        "energy": "体力驱动，体力与关卡生命并存（结构待核实）",
+        "events": "待核实",
+        "pass": "待核实",
+        "offers": "待核实",
+        "ads": "待核实",
+        "collab": "待核实",
+        "cadence": "待核实"
+      },
+      "tags": ["花园", "解谜", "二合"],
+      "color": "#16A34A",
+      "logoText": "MG",
+      "sourceUrls": [
+        "https://apps.apple.com/us/app/id1464675244",
+        "https://play.google.com/store/apps/details?id=com.futureplay.mergematch"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "merge-hotel",
+      "name": "Merge Hotel Empire",
+      "nameZh": "Merge Hotel Empire",
+      "publisher": "Moon Active",
+      "country": "IL",
+      "role": "competitor",
+      "genre": "酒店合成 + 经营",
+      "stores": { "us": "1577970257" },
+      "positioning": "酒店翻新题材的二合+设计经营，Moon Active 在 Travel Town 之后的题材延展（玩法结构待核实）。",
+      "coreLoop": ["合成道具交付订单", "赚金币与设计资源", "翻新酒店房间与区域", "解锁剧情/客人目标（结构待核实）"],
+      "monetization": ["体力", "金币/宝石", "礼包（结构待核实）"],
+      "eventCadence": "待核实",
+      "notableSystems": [
+        "以酒店翻新+设计为元游戏（据商店分类与产品名）",
+        "具体系统待核实"
+      ],
+      "borrow": [
+        "题材延展复用同一二合框架，压缩研发与测试成本（矩阵式立项）",
+        "把装修目标与客人/剧情绑定，让合成产出有明确用途"
+      ],
+      "risks": [
+        "酒店题材已有多个竞品，差异化不足",
+        "公开资料少，活动与付费结构待核实"
+      ],
+      "matrix": {
+        "energy": "体力驱动（参数待核实）",
+        "events": "待核实",
+        "pass": "待核实",
+        "offers": "待核实",
+        "ads": "待核实",
+        "collab": "待核实",
+        "cadence": "待核实"
+      },
+      "tags": ["酒店", "经营", "二合"],
+      "color": "#B45309",
+      "logoText": "MH",
+      "sourceUrls": [
+        "https://apps.apple.com/us/app/id1577970257",
+        "https://apps.apple.com/hk/app/id1577970257"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "merge-county",
+      "name": "Merge County",
+      "nameZh": "Merge County",
+      "publisher": "Microfun / 柠檬微趣",
+      "country": "CN",
+      "role": "competitor",
+      "genre": "小镇合成 + 建造",
+      "stores": { "us": "1586279379" },
+      "positioning": "小镇建造题材二合，Microfun 在剧情二合之外做“建造+收集”向的题材覆盖（结构待核实）。",
+      "coreLoop": ["合成道具交订单", "赚金币与建造材料", "建造小镇建筑、解锁区域", "收集与剧情目标（结构待核实）"],
+      "monetization": ["体力", "礼包与钻石", "广告（结构待核实）"],
+      "eventCadence": "待核实",
+      "notableSystems": [
+        "小镇建造/区域解锁作为长线目标",
+        "具体系统待核实"
+      ],
+      "borrow": [
+        "按“题材×副玩法”做矩阵，同一二合框架复用合成链与活动模板",
+        "建造目标分阶段投放，避免长线目标悬空"
+      ],
+      "risks": [
+        "建造类二合与 Travel Town/Merge County 等成熟产品正面竞争",
+        "公开资料少，活动与付费结构待核实"
+      ],
+      "matrix": {
+        "energy": "体力驱动（参数待核实）",
+        "events": "待核实",
+        "pass": "待核实",
+        "offers": "待核实",
+        "ads": "待核实",
+        "collab": "待核实",
+        "cadence": "待核实"
+      },
+      "tags": ["小镇", "建造", "二合"],
+      "color": "#65A30D",
+      "logoText": "MC",
+      "sourceUrls": [
+        "https://apps.apple.com/us/app/id1586279379"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "merge-survival",
+      "name": "Merge Survival: Wasteland",
+      "nameZh": "Merge Survival",
+      "publisher": "Sticky Hands",
+      "country": "KR",
+      "role": "competitor",
+      "genre": "末日生存合成",
+      "stores": { "us": "6443908990" },
+      "positioning": "末日生存题材二合，靠“主盘产出→活动盘消耗→奖励回流”的强闭环做半月一期活动。",
+      "coreLoop": ["主棋盘合成，概率掉落活动专用道具", "活动盘消耗道具（如维修镐破硬沙）", "集零件/按序交菜完成阶段目标领奖", "剩余代币与奖励回流主盘"],
+      "monetization": ["体力与道具内购", "活动礼包", "点数商店兑换", "广告（结构待核实）"],
+      "eventCadence": "半月一期活动（如 6/1-6/15“陷入危机的营地”、6/16-6/30“今天吃什么”），活动统一 00:00 开启（据 1.53.0 公告 2026-05-28）。",
+      "notableSystems": [
+        "活动盘专用道具 + 阶段目标（破沙/集零件/按序交菜）",
+        "活动结束未用代币按比例结算转金币",
+        "等级上限扩至 150、活动开启时间固定为 00:00",
+        "厨师帽等代币在点数商店兑换"
+      ],
+      "borrow": [
+        "把“主盘产出→活动盘消耗→奖励回流主盘”做成闭环，活动不与主线脱节",
+        "活动结束把未用代币按比例转金币，减少囤积与负面反馈",
+        "固定活动开启时间培养玩家预期，降低公告解释成本"
+      ],
+      "risks": [
+        "末日生存题材受众较窄，买量素材与创意受限",
+        "半月一期高频活动对内容产能要求高"
+      ],
+      "matrix": {
+        "energy": "体力驱动主盘合成（回复与上限待核实）",
+        "events": "半月一期活动：营地维修（破沙集零件）、料理（合成次数换食谱、按序交菜）",
+        "pass": "待核实",
+        "offers": "活动礼包与点数商店兑换并存，档位待核实",
+        "ads": "有广告变现，占比待核实",
+        "collab": "待核实",
+        "cadence": "每半月一期活动，固定 00:00 开启；等级上限已扩至 150"
+      },
+      "tags": ["生存", "末日", "二合"],
+      "color": "#78716C",
+      "logoText": "MS",
+      "sourceUrls": [
+        "https://stickyhands.oqupie.com/portals/3043/customer-news/9532",
+        "https://apps.apple.com/us/app/id6443908990"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "merge-cafe",
+      "name": "Merge Cafe",
+      "nameZh": "Merge Cafe",
+      "publisher": "CSC Mobi",
+      "country": "VN",
+      "role": "competitor",
+      "genre": "咖啡馆合成",
+      "stores": { "us": "1596896014" },
+      "positioning": "越南厂商面向欧美市场的咖啡馆装修二合，用题材差异化切入细分人群（结构待核实）。",
+      "coreLoop": ["合成咖啡/甜点道具", "交付顾客订单", "赚货币装修咖啡馆", "解锁新区域/剧情（结构待核实）"],
+      "monetization": ["体力与道具礼包", "广告（结构待核实）"],
+      "eventCadence": "待核实",
+      "notableSystems": [
+        "咖啡馆装修 + 订单主循环（据商店描述/分类）",
+        "具体系统待核实"
+      ],
+      "borrow": [
+        "咖啡馆/餐厅题材可复用“装修+订单”基础盘，用题材细分人群",
+        "小厂可用同一框架做多题材快速试水，单款测试预算可控"
+      ],
+      "risks": [
+        "咖啡/餐厅题材已高度同质化（Merge Cooking、Merge Restaurant 等）",
+        "公开数据少，付费与活动结构待核实"
+      ],
+      "matrix": {
+        "energy": "体力驱动（参数待核实）",
+        "events": "待核实",
+        "pass": "待核实",
+        "offers": "待核实",
+        "ads": "待核实",
+        "collab": "待核实",
+        "cadence": "待核实"
+      },
+      "tags": ["咖啡", "餐厅", "二合"],
+      "color": "#A16207",
+      "logoText": "MC",
+      "sourceUrls": [
+        "https://apps.apple.com/us/app/id1596896014",
+        "https://www.bluestacks.com/apps/simulation/merge-cafe-restaurant-decor-on-pc.html"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "merge-restaurant",
+      "name": "Merge Restaurant",
+      "nameZh": "Merge Restaurant",
+      "publisher": "Potato Play",
+      "country": "SG",
+      "role": "competitor",
+      "genre": "餐厅改造合成",
+      "stores": { "us": "1561931423" },
+      "positioning": "以“餐厅改造+订单”为主循环的轻量二合（结构待核实）。",
+      "coreLoop": ["合成食材/道具", "交付订单赚货币", "改造餐厅与解锁区域", "新菜品/新改造目标"],
+      "monetization": ["体力", "金币/钻石礼包", "广告（结构待核实）"],
+      "eventCadence": "待核实",
+      "notableSystems": [
+        "餐厅改造（Makeover）作为元游戏目标（据产品名与商店分类）",
+        "具体系统待核实"
+      ],
+      "borrow": [
+        "用“改造前后对比”做素材与进度反馈，把翻新目标拆成小步快反馈",
+        "订单交付加可交付高亮，压缩单局节奏"
+      ],
+      "risks": [
+        "餐厅改造题材与 Merge Cooking/Merge Cafe 正面竞争",
+        "公开资料少，活动与付费结构待核实"
+      ],
+      "matrix": {
+        "energy": "体力驱动（参数待核实）",
+        "events": "待核实",
+        "pass": "待核实",
+        "offers": "待核实",
+        "ads": "待核实",
+        "collab": "待核实",
+        "cadence": "待核实"
+      },
+      "tags": ["餐厅", "改造", "二合"],
+      "color": "#C2410C",
+      "logoText": "MR",
+      "sourceUrls": [
+        "https://apps.apple.com/us/app/id1561931423",
+        "https://apps.apple.com/fi/app/merge-restaurant-makeover/id1561931423"
+      ],
+      "updatedAt": "2026-11-03"
+    },
+    {
+      "id": "tasty-travels",
+      "name": "Tasty Travels",
+      "nameZh": "Tasty Travels",
+      "publisher": "Century Games",
+      "country": "CN",
+      "role": "competitor",
+      "genre": "美食旅行合成",
+      "stores": { "us": "6471045672" },
+      "positioning": "快节奏美食旅行二合，删掉烹饪加工步换取结算爽感，IAP 为主、IAA 补位。",
+      "coreLoop": ["合成食材与道具", "点顾客后绿色高亮可交付物、快速交单", "赚货币解锁旅行目的地与装修", "大额订单依赖单一生成器，驱动加速付费"],
+      "monetization": ["IAP 为主（内购主导）", "大额订单与生成器加速", "IAA 广告作为重要补充（含电商预算）", "限时礼包（档位待核实）"],
+      "eventCadence": "月度主题装饰活动（如 9 月秋季岛屿装饰活动提供新目标），另有常规活动；具体排期待核实（据 Sensor Tower/游戏那点事 2026-10）。",
+      "notableSystems": [
+        "可交付物绿色高亮、订单快速结算",
+        "前期免费体力充足（可维持 200+）",
+        "依赖单一生成器的大额订单，制造加速付费点",
+        "广告库存规模化：美/日/印/巴，除游戏广告外接 Temu、SHEIN 等电商预算"
+      ],
+      "borrow": [
+        "走快节奏就删中间加工步、加可交付高亮，把单局压到分钟级",
+        "用“单一生成器的大额订单”制造加速付费点，同步评估经济承受力",
+        "给低付费用户保留激励视频，广告入口动态可见，并把广告收入纳入 LTV 模型"
+      ],
+      "risks": [
+        "删加工步导致拟真感弱，与 Flambé 类产品人群分化，需明确取舍",
+        "广告收入随用户规模与电商预算波动，外部市场影响大",
+        "累计海外收入已突破 4.5 亿美元，高基数下增速维系压力大"
+      ],
+      "matrix": {
+        "energy": "前期免费体力充足可维持 200+，大额订单推进后形成体力缺口（上限与回复待核实）",
+        "events": "月度主题装饰活动（如秋季岛屿装饰）+ 常规活动，频率待核实",
+        "pass": "待核实",
+        "offers": "以内购礼包为主，档位待核实",
+        "ads": "IAA 为重要补充，规模化广告库存并承接电商预算",
+        "collab": "以自有旅行/美食主题为主，IP 联动待核实",
+        "cadence": "月度主题活动 + 常规版本更新，具体节奏待核实"
+      },
+      "tags": ["美食", "旅行", "二合"],
+      "color": "#D97706",
+      "logoText": "TT",
+      "sourceUrls": [
+        "https://news.17173.com/content/06032026/154910663.shtml",
+        "http://www.nadianshi.com/2026/10/423145",
+        "https://apps.apple.com/us/app/id6471045672"
+      ],
+      "updatedAt": "2026-11-03"
+    }
+  ]
+}

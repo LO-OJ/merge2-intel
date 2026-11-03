@@ -1,0 +1,428 @@
+{
+  "checkedAt": "2026-11-03T16:26:37+08:00",
+  "total": 60,
+  "ok": 55,
+  "failed": 5,
+  "results": [
+    {
+      "url": "https://news.17173.com/content/05152026/151350946.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/05152026/151350946.shtml"
+    },
+    {
+      "url": "https://www.sohu.com/a/1058663678_99900743",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.sohu.com/a/1058663678_99900743"
+    },
+    {
+      "url": "https://news.17173.com/content/06052026/170613989.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/06052026/170613989.shtml"
+    },
+    {
+      "url": "http://www.nadianshi.com/2026/10/423145",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.nadianshi.com/2026/10/423145"
+    },
+    {
+      "url": "https://www.baijing.cn/article/57170",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.baijing.cn/article/57170"
+    },
+    {
+      "url": "https://www.bbtnews.com.cn/2026/0915/605962.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.bbtnews.com.cn/2026/0915/605962.shtml"
+    },
+    {
+      "url": "https://news.17173.com/content/06032026/154910663.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/06032026/154910663.shtml"
+    },
+    {
+      "url": "https://www.163.com/dy/article/LANENNMK055697R1_pdya11y.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.163.com/dy/article/LANENNMK055697R1_pdya11y.html"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/01/585800/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/01/585800/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/600193/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/08/600193/"
+    },
+    {
+      "url": "https://www.baijing.cn/article/id-57068",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.baijing.cn/article/id-57068"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/09/602057/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/09/602057/"
+    },
+    {
+      "url": "https://www.lightgame.cc/game/ios-abd40ef457.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.lightgame.cc/game/ios-abd40ef457.html"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/599626/",
+      "status": 502,
+      "ok": false,
+      "error": "HTTP 502",
+      "finalUrl": ""
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/600264/",
+      "status": 502,
+      "ok": false,
+      "error": "HTTP 502",
+      "finalUrl": ""
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/07/598251/",
+      "status": 502,
+      "ok": false,
+      "error": "HTTP 502",
+      "finalUrl": ""
+    },
+    {
+      "url": "https://news.17173.com/content/04142026/174832090.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/04142026/174832090.shtml"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/01/586251/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/01/586251/"
+    },
+    {
+      "url": "https://www.163.com/dy/article/KTILDGG105466ZM9_pdya11y.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.163.com/dy/article/KTILDGG105466ZM9_pdya11y.html"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/03/589772/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/03/589772/"
+    },
+    {
+      "url": "https://view.inews.qq.com/k/20260506A07OMQ00",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://view.inews.qq.com/k/20260506A07OMQ00"
+    },
+    {
+      "url": "https://www.sfccn.com/2026/10-23/5NMDE0NDlfMjI4MDA5NA.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.sfccn.com/2026/10-23/5NMDE0NDlfMjI4MDA5NA.html"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/07/597450/",
+      "status": 502,
+      "ok": false,
+      "error": "HTTP 502",
+      "finalUrl": ""
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/599103/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/08/599103/"
+    },
+    {
+      "url": "https://appgrowing.net/blog/sept_game-3/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://appgrowing.net/blog/sept_game-3/"
+    },
+    {
+      "url": "https://supercell.com/en/news/merge-mansion-is-joining-supercell/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://supercell.com/en/news/merge-mansion-is-joining-supercell/"
+    },
+    {
+      "url": "https://appgrowing.net/blog/aug_game-2/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://appgrowing.net/blog/aug_game-2/"
+    },
+    {
+      "url": "https://www.laohunote.com/news/2667549611",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.laohunote.com/news/2667549611"
+    },
+    {
+      "url": "https://stickyhands.oqupie.com/portals/3043/customer-news/9532",
+      "status": 200,
+      "ok": true,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "finalUrl": "https://stickyhands.oqupie.com/portals/3043/customer-news/9532"
+    },
+    {
+      "url": "https://news.17173.com/content/05072026/171536001.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/05072026/171536001.shtml"
+    },
+    {
+      "url": "https://itunes.apple.com/lookup?id=1623318294&country=us",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://itunes.apple.com/lookup?id=1623318294&country=us"
+    },
+    {
+      "url": "https://itunes.apple.com/lookup?id=6618142292&country=us",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://itunes.apple.com/lookup?id=6618142292&country=us"
+    },
+    {
+      "url": "https://itunes.apple.com/lookup?id=1643509748&country=us",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://itunes.apple.com/lookup?id=1643509748&country=us"
+    },
+    {
+      "url": "https://www.9game.cn/biji/1416405.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.9game.cn/biji/1416405.html"
+    },
+    {
+      "url": "http://www.nadianshi.com/2026/09/420031",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.nadianshi.com/2026/09/420031"
+    },
+    {
+      "url": "https://itunes.apple.com/lookup?id=6748513887&country=cn",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://itunes.apple.com/lookup?id=6748513887&country=cn"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/id6472696051",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/cn/app/%E6%B5%AA%E6%BC%AB%E9%A4%90%E5%8E%85-gossip-harbor/id6472696051"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/id6771265430",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/cn/app/%E7%A9%BA%E6%A0%BC%E4%B9%8B%E5%A2%83/id6771265430"
+    },
+    {
+      "url": "https://itunes.apple.com/lookup?id=6618142292&country=jp",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://itunes.apple.com/lookup?id=6618142292&country=jp"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id6618142292",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/flamb%C3%A9-merge-and-cook/id6618142292"
+    },
+    {
+      "url": "https://www.9game.cn/biji/1419551.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.9game.cn/biji/1419551.html"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/id6758614459",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/cn/app/%E8%82%A5%E9%B9%85%E7%BE%8E%E9%A3%9F%E8%A1%97/id6758614459"
+    },
+    {
+      "url": "https://itunes.apple.com/lookup?id=1643509748&country=jp",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://itunes.apple.com/lookup?id=1643509748&country=jp"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/07/596841/",
+      "status": 502,
+      "ok": false,
+      "error": "HTTP 502",
+      "finalUrl": ""
+    },
+    {
+      "url": "https://appgrowing.net/blog/gossip-harbor-ads-rose-while-creatives-fell/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://appgrowing.net/blog/gossip-harbor-ads-rose-while-creatives-fell/"
+    },
+    {
+      "url": "https://www.lightgame.cc/game/douyin-e2eaf5e96d.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.lightgame.cc/game/douyin-e2eaf5e96d.html"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/id6748513887",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E6%B6%88%E9%99%A4%E6%88%98/id6748513887"
+    },
+    {
+      "url": "https://beta.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/merge-cooking-collaborates-with-spongebob-squarepants-for-the-ultimate-food-fest-in-bikini-bottom/2405864",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://beta.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/merge-cooking-collaborates-with-spongebob-squarepants-for-the-ultimate-food-fest-in-bikini-bottom/2405864"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1484442152",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-mansion-mystery-story/id1484442152"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1596896014",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-cafe-merge-game-chef/id1596896014"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id6443755785",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/seaside-escape-merge-story/id6443755785"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1464675244",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-gardens/id1464675244"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1521236603",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/travel-town-merge-adventure/id1521236603"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id6443908990",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-survival-wasteland/id6443908990"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1586279379",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-county/id1586279379"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1577970257",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-hotel-empire-design-game/id1577970257"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/05/592669/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/05/592669/"
+    },
+    {
+      "url": "https://www.18183.com/gonglue/202610/rpl5gvo3.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.18183.com/gonglue/202610/rpl5gvo3.html"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id1561931423",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/merge-restaurant-makeover/id1561931423"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/id6471045672",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672"
+    }
+  ]
+}

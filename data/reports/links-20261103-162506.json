@@ -1,0 +1,218 @@
+{
+  "checkedAt": "2026-11-03T16:25:06+08:00",
+  "total": 30,
+  "ok": 26,
+  "failed": 4,
+  "results": [
+    {
+      "url": "https://www.sohu.com/a/1058663678_99900743",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.sohu.com/a/1058663678_99900743"
+    },
+    {
+      "url": "http://www.nadianshi.com/2026/10/423145",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.nadianshi.com/2026/10/423145"
+    },
+    {
+      "url": "https://www.bbtnews.com.cn/2026/0915/605962.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.bbtnews.com.cn/2026/0915/605962.shtml"
+    },
+    {
+      "url": "https://news.17173.com/content/05152026/151350946.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/05152026/151350946.shtml"
+    },
+    {
+      "url": "https://news.17173.com/content/06052026/170613989.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/06052026/170613989.shtml"
+    },
+    {
+      "url": "https://www.biubiu001.com/news/235873.html",
+      "status": 404,
+      "ok": false,
+      "error": "HTTP 404",
+      "finalUrl": ""
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/07/598251/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/07/598251/"
+    },
+    {
+      "url": "https://www.baijing.cn/article/57170",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.baijing.cn/article/57170"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/599626/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/08/599626/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/01/585800/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/01/585800/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/600264/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/08/600264/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/600193/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/08/600193/"
+    },
+    {
+      "url": "https://www.163.com/dy/article/LANENNMK055697R1_pdya11y.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.163.com/dy/article/LANENNMK055697R1_pdya11y.html"
+    },
+    {
+      "url": "https://news.17173.com/content/06032026/154910663.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/06032026/154910663.shtml"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/07/597450/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/07/597450/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/09/602057/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/09/602057/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/03/589772/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/03/589772/"
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/08/599103/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/08/599103/"
+    },
+    {
+      "url": "https://stickyhands.oqupie.com/portals/3043/customer-news/9532",
+      "status": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+      "finalUrl": ""
+    },
+    {
+      "url": "http://www.gamelook.com.cn/2026/01/586251/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "http://www.gamelook.com.cn/2026/01/586251/"
+    },
+    {
+      "url": "https://www.lightgame.cc/game/ios-abd40ef457.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.lightgame.cc/game/ios-abd40ef457.html"
+    },
+    {
+      "url": "https://www.baijing.cn/article/id-57068",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.baijing.cn/article/id-57068"
+    },
+    {
+      "url": "https://view.inews.qq.com/k/20260506A07OMQ00",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://view.inews.qq.com/k/20260506A07OMQ00"
+    },
+    {
+      "url": "https://www.163.com/dy/article/KTILDGG105466ZM9_pdya11y.html",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.163.com/dy/article/KTILDGG105466ZM9_pdya11y.html"
+    },
+    {
+      "url": "https://news.17173.com/content/04142026/174832090.shtml",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://news.17173.com/content/04142026/174832090.shtml"
+    },
+    {
+      "url": "https://4g.stockstar.com/detail/IG2026102100041228",
+      "status": 404,
+      "ok": false,
+      "error": "HTTP 404",
+      "finalUrl": ""
+    },
+    {
+      "url": "https://appgrowing.net/blog/aug_game-2/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://appgrowing.net/blog/aug_game-2/"
+    },
+    {
+      "url": "https://appgrowing.net/blog/sept_game-3/",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://appgrowing.net/blog/sept_game-3/"
+    },
+    {
+      "url": "https://www.laohunote.com/news/2667549611",
+      "status": 200,
+      "ok": true,
+      "error": "",
+      "finalUrl": "https://www.laohunote.com/news/2667549611"
+    },
+    {
+      "url": "https://supercell.com/en/news/merge-mansion-is-joining-supercell/",
+      "status": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+      "finalUrl": ""
+    }
+  ]
+}

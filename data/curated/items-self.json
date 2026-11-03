@@ -1,0 +1,468 @@
+{
+  "items": [
+    {
+      "id": "self-0001",
+      "title": "Gossip Harbor 国区 4.11.0：每周五剧情+神秘博物馆新活动",
+      "summary": "App Store 国区显示，《浪漫餐厅》（Gossip Harbor）4.11.0 于 2026-10-28 更新，说明写明“每周五更新剧情”，新活动为艾伦、露西和马克探索神秘博物馆新展览，收集积分解锁专属装饰；国区累计 2.75 万条评分、4.64 分。（口径：App Store 版本与评分）",
+      "takeaway": "把“周五剧情日”做成固定栏目并在活动页提前预告；博物馆这类“看展+集积分换装饰”模板可复制到国区节日档，用剧情角色做活动入口。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/cn/app/id6472696051",
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "剧情",
+        "活动"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0002",
+      "title": "Gossip Harbor 美区 4.11.0：21.26 万条评分、4.62 分",
+      "summary": "App Store 美区公开数据（2026-11-03 抓取）显示，Gossip Harbor 4.11.0 于 2026-10-27 发布，说明以“每周五更新一集剧情”为首要卖点，并以神秘博物馆展览做限时活动；美区累计 21.26 万条评分、4.62 分，版本比国区早一天。",
+      "takeaway": "美区版本说明把“weekly episode”放首行，说明剧情连载是成熟市场验证过的留存钩子；国内版沿用同一节奏时，活动素材与推送要按本地化文案单独出。",
+      "dimensions": [
+        "version",
+        "market"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://itunes.apple.com/lookup?id=1623318294&country=us",
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "评分",
+        "美区"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0003",
+      "title": "空格之境 10.2 版本更新：商店说明仅一句“活动更新”",
+      "summary": "App Store 国区显示，空格之境 10.2 于 2026-10-30 更新，版本说明仅“活动更新，快来玩吧”一句；游戏 2026-06-28 上线、约四个月迭代到 10.x，国区累计 1,374 条评分、4.89 分。商店页极简、活动信息全在游戏内承接，属买量驱动型做法。",
+      "takeaway": "活动信息放游戏内活动页、商店说明只提示“有新内容”；同时把其“4 个月到 10.x”的版本号增速当作小团队高频迭代的对照基线。",
+      "dimensions": [
+        "version"
+      ],
+      "gameIds": [
+        "kongge-zhijing"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/cn/app/id6771265430",
+      "publishedAt": "2026-10-30",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "迭代节奏"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0004",
+      "title": "空格之境玉兔游园会：专属棋盘只掉糕点，做订单攒点数换奖励",
+      "summary": "九游攻略（2026-10-14）介绍空格之境“玉兔游园会”：活动开专属棋盘、只掉糕点；同级两个合成高一级，首次合成可在图鉴领奖；棋盘有“虚影”，放对道具可直接得高一级产物；制作糕点不耗体力，靠日常做订单攒点数产出道具，点数越多奖励越多。",
+      "takeaway": "给活动盘加“虚影/预置半成品”降低试错成本；把活动产出道具绑在日常订单上，让主盘与活动盘互为燃料，并用首次合成图鉴奖励做正反馈。",
+      "dimensions": [
+        "activity",
+        "system"
+      ],
+      "gameIds": [
+        "kongge-zhijing"
+      ],
+      "sourceId": "9game",
+      "url": "https://www.9game.cn/biji/1416405.html",
+      "publishedAt": "2026-10-14",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "活动设计",
+        "副棋盘",
+        "空格之境"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0005",
+      "title": "Flambé 1.53.1 上新菜品、食材与新地点",
+      "summary": "App Store 美区显示，Flambé®: Merge and Cook 1.53.1 于 2026-10-21 更新：新增一批菜品与食材、新增可探索与装修的新地点，并修复问题；美区累计 1.56 万条评分、4.82 分。该作保留厨具加工步骤，与删掉加工步的快节奏同类形成差异。",
+      "takeaway": "用“新地点+新食材链”作为常规版本内容包，比单纯加数值更能撑中期目标；版本说明固定列三项内容，可直接复用为买量落地页与推送文案。",
+      "dimensions": [
+        "version",
+        "launch"
+      ],
+      "gameIds": [
+        "flambe"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id6618142292",
+      "publishedAt": "2026-10-21",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "烹饪",
+        "Flambé"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0006",
+      "title": "Flambé 美区 4.82 分：评分质量高于同题材，但评价量仍小",
+      "summary": "据 App Store 美区公开数据（2026-11-03 抓取），Flambé 累计 1.56 万条评分、4.82 分；同题材 Merge Cooking 为 5.19 万条、4.75 分。Flambé 分数更高、评价量更少，说明满意度好但规模仍小。",
+      "takeaway": "烹饪二合先追“评分质量”再放量：把真实烹饪感与新菜谱做深，稳住 4.8 分区间；放量前用素材测“做菜爽感 vs 拟真步骤”，避免高分被低留存稀释。",
+      "dimensions": [
+        "market",
+        "system"
+      ],
+      "gameIds": [
+        "flambe"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://itunes.apple.com/lookup?id=6618142292&country=us",
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "评分",
+        "烹饪",
+        "口碑"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0007",
+      "title": "Merge Cooking 与海绵宝宝联动：比奇堡美食节",
+      "summary": "据 Manila Times 转载 PR Newswire（2026-08-14），Merge Cooking 与海绵宝宝联动，在比奇堡办“美食节”主题内容，把动画角色与场景接入合成棋盘和餐厅经营；稿件为发行方新闻稿，属官方联动口径，主打 IP 熟悉度拉动下载与活动参与。",
+      "takeaway": "选联动 IP 优先“美食/餐厅场景能直接嵌入”的动画，把角色做成限定棋子与订单皮肤；联动前 2 周做素材预热，结束后保留角色装饰做长线陈列。",
+      "dimensions": [
+        "activity",
+        "launch"
+      ],
+      "gameIds": [
+        "merge-cooking"
+      ],
+      "sourceId": "manilatimes",
+      "url": "https://beta.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/merge-cooking-collaborates-with-spongebob-squarepants-for-the-ultimate-food-fest-in-bikini-bottom/2405864",
+      "publishedAt": "2026-08-14",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "联动",
+        "IP",
+        "Merge Cooking"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0008",
+      "title": "Merge Cooking 1.64.0：更新说明以性能优化为主，评分 4.75",
+      "summary": "据 App Store 美区公开数据（2026-11-03 抓取），Merge Cooking 1.64.0 于 2026-10-28 发布，说明以优化性能与“带来精彩内容”为主，未列具体玩法改动；美区累计 5.19 万条评分、4.75 分。海绵宝宝联动已在 8 月上线，版本节奏维持月度级别。",
+      "takeaway": "把“性能优化版本”与“联动/内容版本”拆开发布，避免商店页信息浪费；联动版本单独列内容清单，用版本说明承接买量落地页的期待。",
+      "dimensions": [
+        "version"
+      ],
+      "gameIds": [
+        "merge-cooking"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://itunes.apple.com/lookup?id=1643509748&country=us",
+      "publishedAt": "2026-10-28",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Merge Cooking",
+        "迭代节奏"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0009",
+      "title": "肥鹅美食街 1.8.0：版本说明写“新活动上线”",
+      "summary": "App Store 国区显示，肥鹅美食街 1.8.0 于 2026-09-17 更新，版本说明为修复问题、优化体验、新活动上线；游戏 2026-06-01 上线，国区累计 3.14 万条评分、4.50 分。版本号从 1.0 到 1.8 约三个半月，更新节奏与买量投放基本同步。",
+      "takeaway": "把“新活动上线”写进每个商店版本说明，让老用户知道有更新；4.50 分低于同类头部，放量前优先修早期体验（加载、引导、首日目标）。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "feige-meishi"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/cn/app/id6758614459",
+      "publishedAt": "2026-09-17",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "肥鹅美食街",
+        "活动"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0010",
+      "title": "肥鹅美食街免费榜第1、畅销60名：IP 化二合的差异化打法",
+      "summary": "游戏那点事（2026-09-09）拆解《肥鹅美食街》：6 月 1 日 iOS 上线曾登国区游戏免费榜第 1，畅销榜爬升后稳定在 60 名左右；微信小游戏长期在畅销 20 名附近，并不时进抖音小游戏 Top10。买量以 AI 短视频和伪实机解说为主；活动分一天、数日、数周三档限期，奖励互相嵌套。",
+      "takeaway": "小游戏端先用“网状叙事+肥鹅 IP 角色”建辨识度，再用三档限期活动把奖励串成链；买量素材用 AI 短视频拍伪实机，突出剧情钩子而非纯合成画面。",
+      "dimensions": [
+        "market",
+        "ua"
+      ],
+      "gameIds": [
+        "feige-meishi"
+      ],
+      "sourceId": "nadianshi",
+      "url": "http://www.nadianshi.com/2026/09/420031",
+      "publishedAt": "2026-09-09",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "榜单",
+        "IP",
+        "买量素材"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0011",
+      "title": "梦幻消除战 1.5.75：新增主线剧情，古风茶楼题材继续加内容",
+      "summary": "App Store 国区显示，梦幻消除战 1.5.75 于 2026-10-26 更新：新增主线剧情、优化运行稳定与加载速度、修复问题；游戏 2025-12-10 上线，国区累计 5,322 条评分、4.61 分。题材为“重生复仇+古风茶楼经营”的合成玩法。（口径：App Store）",
+      "takeaway": "古风/重生题材靠剧情更新维持留存，把新章节与家具、茶楼装修目标绑定；版本说明固定写“新增主线剧情”，形成可预期的更新承诺。",
+      "dimensions": [
+        "version",
+        "launch"
+      ],
+      "gameIds": [
+        "menghuan-xiaochuzhan"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/cn/app/id6748513887",
+      "publishedAt": "2026-10-26",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "剧情",
+        "古风"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0012",
+      "title": "梦幻消除战 4.61 分、5,322 条评分：题材有差异、体量仍小",
+      "summary": "据 App Store 国区公开数据（2026-11-03 抓取），梦幻消除战累计 5,322 条评分、4.61 分，版本已到 1.5.75；商店描述主打“重生复仇、重振百年茶坊”，含唐宋家具自由搭配、多线情缘与探案剧情，属女性向叙事切二合的差异化产品。",
+      "takeaway": "女性向二合可用“重生+复仇+经营”做题材差；评分量不足时优先补新手引导与首日目标感，再考虑买量放量，避免高分低量陷阱。",
+      "dimensions": [
+        "market",
+        "system"
+      ],
+      "gameIds": [
+        "menghuan-xiaochuzhan"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://itunes.apple.com/lookup?id=6748513887&country=cn",
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "评分",
+        "女性向",
+        "题材"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0013",
+      "title": "Gossip Harbor 8 月投放观察：广告记录 +17.5%、素材记录 -22.5%",
+      "summary": "AppGrowing 博客（2026-08-13）观察 Gossip Harbor 投放：官方包广告记录从 31,864 增至 37,456（+17.5%），素材记录从 4,865 降到 3,771（-22.5%）。表现为素材向少数长期跑量的“故事家族”集中，而非投放效率已被证明提升。",
+      "takeaway": "把素材库按“玩法证明/故事指纹”双层打标，统计长期跑量素材占比；若广告量涨、素材量跌，优先复用已验证的故事家族，而不是继续堆新概念。",
+      "dimensions": [
+        "ua"
+      ],
+      "gameIds": [
+        "gossip-harbor"
+      ],
+      "sourceId": "appgrowing",
+      "url": "https://appgrowing.net/blog/gossip-harbor-ads-rose-while-creatives-fell/",
+      "publishedAt": "2026-08-13",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "买量",
+        "素材集中度",
+        "Gossip Harbor"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0014",
+      "title": "空格之境体力经济：自动恢复+任务登录+商城活动三源补给",
+      "summary": "九游笔记（2026-10-19）梳理空格之境体力来源：一是随时间自动恢复；二是任务与固定登录奖励；三是商城/活动兑换，作者认为活动兑换更划算。前期应边推主线边种菜攒资源，体力同时服务作物与合成两条线，是卡进度的主要资源。",
+      "takeaway": "把体力补给拆成“免费恢复/任务登录/活动兑换”三档并标明性价比；活动兑换给明确折扣锚点，让玩家体力告急时先看活动再考虑内购。",
+      "dimensions": [
+        "economy",
+        "system"
+      ],
+      "gameIds": [
+        "kongge-zhijing"
+      ],
+      "sourceId": "9game",
+      "url": "https://www.9game.cn/biji/1419551.html",
+      "publishedAt": "2026-10-19",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "medium",
+      "summaryBy": "editor",
+      "tags": [
+        "体力",
+        "经济",
+        "玩家笔记"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0015",
+      "title": "Flambé 日本区 4.75 分、3,177 条评分：美区体量约为其 5 倍",
+      "summary": "据 App Store 日本区公开数据（2026-11-03 抓取），Flambé 1.53.1 于 2026-10-21 与美区同日更新，日本区累计 3,177 条评分、4.75 分；美区为 1.56 万条、4.82 分，评价量约为日本区 5 倍。日本区版本说明已完整本地化为日语。",
+      "takeaway": "日本区作为烹饪题材第二市场先做小规模验证：版本同步、文案日语化；评分质量接近美区但量小，投放预算按评价量级配比，别按美区同比例放大。",
+      "dimensions": [
+        "market",
+        "version"
+      ],
+      "gameIds": [
+        "flambe"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://itunes.apple.com/lookup?id=6618142292&country=jp",
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "日本市场",
+        "评分",
+        "Flambé"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0016",
+      "title": "Merge Cooking 日本区 4.36 分、1.28 万条：明显低于美区 4.75",
+      "summary": "据 App Store 日本区公开数据（2026-11-03 抓取），Merge Cooking 1.64.0 日本区累计 1.28 万条评分、4.36 分；美区为 5.19 万条、4.75 分。版本说明只写性能优化，评分却低 0.39 分，或与本地化体验、难度曲线有关。",
+      "takeaway": "区域评分差 0.39 分要落到本地化清单：检查日语引导、UI 断行与活动文案；上线日本前先跑小规模测试，按区域评分拆版本验收标准。",
+      "dimensions": [
+        "market",
+        "version"
+      ],
+      "gameIds": [
+        "merge-cooking"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://itunes.apple.com/lookup?id=1643509748&country=jp",
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "日本市场",
+        "评分",
+        "Merge Cooking"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0017",
+      "title": "肥鹅美食街 10 月兑换码矩阵：钻石+食谱券+装饰碎片",
+      "summary": "18183 攻略（2026-10-11）汇总肥鹅美食街 10 月十个兑换码，奖励覆盖钻石 240–480、十连食谱招募券、限定门店头像框、稀有装饰碎片、体力恢复药剂与订单扫荡券；同一批码同时服务抽卡、装修与体力三条线，属站外礼包码投放，用于回流与拉新。",
+      "takeaway": "把兑换码按“抽卡/装修/体力”三类打包成月度码池，投放到攻略站与社群；每批码设单账号限领与过期时间，回收各渠道兑换率做投放效果归因。",
+      "dimensions": [
+        "activity",
+        "monetization"
+      ],
+      "gameIds": [
+        "feige-meishi"
+      ],
+      "sourceId": "18183",
+      "url": "https://www.18183.com/gonglue/202610/rpl5gvo3.html",
+      "publishedAt": "2026-10-11",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "medium",
+      "summaryBy": "editor",
+      "tags": [
+        "兑换码",
+        "礼包",
+        "活动运营"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "self-0018",
+      "title": "梦幻消除战抖音小游戏拆解：IAA 为主、轻 IAP 为辅",
+      "summary": "LIGHT GAME 拆解（2026-06-03）：梦幻消除战位列抖音小游戏榜第 7，玩法为“合成消除+茶楼经营”缝合，外层套国风重生复仇剧情；变现以 IAA（看广告领体力/加速/翻倍）为主、轻 IAP（去广告、礼包、月卡）为辅，靠题材包装与剧情钩子走量，属买量驱动的现金流产品。",
+      "takeaway": "IAA 走量产品把广告位挂在体力/加速/翻倍三个高频节点，IAP 只做去广告与月卡；用题材皮肤+剧情钩子做素材差异，同时盯买量 ROI 与榜位周变化，转负即缩量。",
+      "dimensions": [
+        "monetization",
+        "market"
+      ],
+      "gameIds": [
+        "menghuan-xiaochuzhan"
+      ],
+      "sourceId": "lightgame",
+      "url": "https://www.lightgame.cc/game/douyin-e2eaf5e96d.html",
+      "publishedAt": "2026-06-03",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "medium",
+      "summaryBy": "editor",
+      "tags": [
+        "IAA",
+        "小游戏",
+        "拆解"
+      ],
+      "createdAt": "2026-11-03"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "id": "9game",
+      "name": "九游",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.9game.cn/",
+      "auto": false,
+      "note": "活动攻略与玩法笔记站；细节丰富，日期明确，但口径需与官方版本说明交叉核对。"
+    },
+    {
+      "id": "manilatimes",
+      "name": "The Manila Times（PR Newswire 转载）",
+      "type": "行业媒体",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.manilatimes.net/",
+      "auto": false,
+      "note": "转载厂商新闻稿，适合抓联动/上线等官方口径；非独立评测。"
+    },
+    {
+      "id": "18183",
+      "name": "18183 手游网",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.18183.com/",
+      "auto": false,
+      "note": "攻略与礼包码站；兑换码/奖励类信息需以官方公告核对。"
+    }
+  ]
+}

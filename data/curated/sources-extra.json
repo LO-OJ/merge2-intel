@@ -1,0 +1,114 @@
+{
+  "sources": [
+    {
+      "id": "sohu",
+      "name": "搜狐",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.sohu.com/",
+      "auto": false,
+      "note": "综合门户，常转载游戏产业数据与出海榜单。"
+    },
+    {
+      "id": "bbtnews",
+      "name": "北京商报",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.bbtnews.com.cn/",
+      "auto": false,
+      "note": "财经媒体，出海收入榜与公司动态。"
+    },
+    {
+      "id": "biubiu",
+      "name": "Biubiu 游戏资讯",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.biubiu001.com/",
+      "auto": false,
+      "note": "二合产品活动与玩法拆解。"
+    },
+    {
+      "id": "stickyhands",
+      "name": "Sticky Hands 官方",
+      "type": "官方",
+      "lang": "en",
+      "region": "韩国",
+      "url": "https://stickyhands.oqupie.com/",
+      "auto": false,
+      "note": "Merge Survival 开发商的版本/活动说明。"
+    },
+    {
+      "id": "netease",
+      "name": "网易号",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.163.com/",
+      "auto": false,
+      "note": "网易号作者的游戏拆解与买量分析。"
+    },
+    {
+      "id": "huatai",
+      "name": "华泰研报（老虎社区）",
+      "type": "拆解/分析",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.laohunote.com/",
+      "auto": false,
+      "note": "券商研报转述，含二合市场规模估算。"
+    },
+    {
+      "id": "lightgame",
+      "name": "LightGame",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.lightgame.cc/",
+      "auto": false,
+      "note": "产品拆解与榜单观察。"
+    },
+    {
+      "id": "qqnews",
+      "name": "腾讯新闻",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://view.inews.qq.com/",
+      "auto": false,
+      "note": "游戏产品报道与厂商动态。"
+    },
+    {
+      "id": "supercell",
+      "name": "Supercell 官方新闻",
+      "type": "官方",
+      "lang": "en",
+      "region": "芬兰",
+      "url": "https://supercell.com/en/news/",
+      "auto": false,
+      "note": "Supercell 收购 Metacore / Merge Mansion 的一手公告。"
+    },
+    {
+      "id": "stockstar",
+      "name": "证券之星",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.stockstar.com/",
+      "auto": false,
+      "note": "公司交易与并购快讯。"
+    },
+    {
+      "id": "sfccn",
+      "name": "21世纪经济报道",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.sfccn.com/",
+      "auto": false,
+      "note": "财经媒体，游戏公司资本与收购报道。"
+    }
+  ]
+}

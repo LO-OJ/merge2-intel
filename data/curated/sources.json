@@ -1,0 +1,330 @@
+{
+  "sources": [
+    {
+      "id": "apple-appstore",
+      "name": "App Store",
+      "type": "官方",
+      "lang": "多语言",
+      "region": "全球",
+      "url": "https://www.apple.com/app-store/",
+      "auto": true,
+      "note": "版本更新、release notes、评分与商店信息的第一手来源。"
+    },
+    {
+      "id": "apple-charts",
+      "name": "Apple App Store 榜单",
+      "type": "榜单",
+      "lang": "多语言",
+      "region": "US/CN/JP",
+      "url": "https://itunes.apple.com/",
+      "auto": true,
+      "note": "通过 iTunes RSS 接口自动采集 Top 50，每日一次。"
+    },
+    {
+      "id": "appgrowing",
+      "name": "AppGrowing 国际版",
+      "type": "数据/买量",
+      "lang": "zh",
+      "region": "中国/全球",
+      "url": "https://appgrowing.net/blog/",
+      "feed": "https://appgrowing.net/blog/feed/",
+      "auto": true,
+      "note": "手游买量与月报；二合同赛道信息出现频率中等。"
+    },
+    {
+      "id": "gamesindustry",
+      "name": "GamesIndustry.biz",
+      "type": "行业媒体",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.gamesindustry.biz/",
+      "feed": "https://www.gamesindustry.biz/feed",
+      "auto": true,
+      "note": "海外游戏产业新闻，适合捕捉厂商与资本动态。"
+    },
+    {
+      "id": "baijing",
+      "name": "白鲸出海",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国/全球",
+      "url": "https://www.baijing.cn/",
+      "feed": "https://www.baijing.cn/feed",
+      "auto": true,
+      "note": "出海资讯与产品拆解；Feed 内容较杂，需要过滤。"
+    },
+    {
+      "id": "17173",
+      "name": "17173",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.17173.com/",
+      "feed": "https://news.17173.com/rss/news.xml",
+      "auto": true,
+      "note": "国内游戏新闻；泛资讯，二合相关需要严格关键词过滤。"
+    },
+    {
+      "id": "gamewower",
+      "name": "Gamewower",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.gamewower.com/",
+      "feed": "https://www.gamewower.com/feed",
+      "auto": false,
+      "note": "电竞与产业评论为主，二合覆盖较少。"
+    },
+    {
+      "id": "199it",
+      "name": "199IT 数据报告",
+      "type": "数据",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.199it.com/",
+      "feed": "https://www.199it.com/feed",
+      "auto": false,
+      "note": "行业数据报告聚合；RSS 偶有解析异常。"
+    },
+    {
+      "id": "36kr",
+      "name": "36氪",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://36kr.com/",
+      "auto": false,
+      "note": "科技/消费/游戏商业报道；可通过 RSSHub 镜像订阅。"
+    },
+    {
+      "id": "huxiu",
+      "name": "虎嗅",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.huxiu.com/",
+      "auto": false,
+      "note": "商业分析；二合厂商与赛道文章值得关注。"
+    },
+    {
+      "id": "youxiputao",
+      "name": "游戏葡萄",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://youxiputao.com/",
+      "auto": false,
+      "note": "国内游戏行业深度报道。"
+    },
+    {
+      "id": "gamelook",
+      "name": "GameLook",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.gamelook.com.cn/",
+      "auto": false,
+      "note": "国内游戏产业新闻；当前网络访问受限。"
+    },
+    {
+      "id": "gameres",
+      "name": "GameRes 游资网",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.gameres.com/",
+      "auto": false,
+      "note": "研发/设计/运营类文章。"
+    },
+    {
+      "id": "taptap",
+      "name": "TapTap",
+      "type": "社区",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.taptap.cn/",
+      "auto": false,
+      "note": "玩家评价、版本讨论与活动反馈。"
+    },
+    {
+      "id": "diandian",
+      "name": "点点数据",
+      "type": "数据/榜单",
+      "lang": "zh",
+      "region": "中国/全球",
+      "url": "https://www.diandian.com/",
+      "auto": false,
+      "note": "移动应用收入/下载估算与榜单。"
+    },
+    {
+      "id": "qimai",
+      "name": "七麦数据",
+      "type": "数据/榜单",
+      "lang": "zh",
+      "region": "中国/全球",
+      "url": "https://www.qimai.cn/",
+      "auto": false,
+      "note": "App Store 榜单、关键词与版本记录。"
+    },
+    {
+      "id": "dataeye",
+      "name": "DataEye",
+      "type": "数据/买量",
+      "lang": "zh",
+      "region": "中国/全球",
+      "url": "https://www.dataeye.com/",
+      "auto": false,
+      "note": "买量素材与投放数据。"
+    },
+    {
+      "id": "sensortower",
+      "name": "Sensor Tower",
+      "type": "数据/榜单",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://sensortower.com/blog",
+      "auto": false,
+      "note": "收入/下载估算与市场报告；当前网络访问受限。"
+    },
+    {
+      "id": "appmagic",
+      "name": "AppMagic",
+      "type": "数据/榜单",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://appmagic.rocks/blog",
+      "auto": false,
+      "note": "手游收入/下载与产品洞察。"
+    },
+    {
+      "id": "gamerefinery",
+      "name": "GameRefinery",
+      "type": "拆解/分析",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.gamerefinery.com/",
+      "auto": false,
+      "note": "休闲/二合赛道的功能与变现拆解。"
+    },
+    {
+      "id": "liftoff",
+      "name": "Liftoff (GameRefinery)",
+      "type": "拆解/分析",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://liftoff.io/blog/",
+      "auto": false,
+      "note": "买量与休闲游戏洞察。"
+    },
+    {
+      "id": "deconstructor",
+      "name": "Deconstructor of Fun",
+      "type": "拆解/分析",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.deconstructoroffun.com/",
+      "auto": false,
+      "note": "手游产品、变现与 LiveOps 深度拆解。"
+    },
+    {
+      "id": "naavik",
+      "name": "Naavik",
+      "type": "拆解/分析",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://naavik.co/",
+      "auto": false,
+      "note": "游戏商业与产品分析。"
+    },
+    {
+      "id": "pocketgamer",
+      "name": "PocketGamer.biz",
+      "type": "行业媒体",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.pocketgamer.biz/",
+      "auto": false,
+      "note": "手游产业新闻；当前网络 403，需要代理。"
+    },
+    {
+      "id": "mobilegamer",
+      "name": "MobileGamer.biz",
+      "type": "行业媒体",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://mobilegamer.biz/",
+      "auto": false,
+      "note": "手游市场与厂商动态。"
+    },
+    {
+      "id": "reddit-merge",
+      "name": "Reddit r/MergeMansion",
+      "type": "社区",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.reddit.com/r/MergeMansion/",
+      "auto": false,
+      "note": "玩家对活动、数值、付费的即时反馈；当前网络超时。"
+    },
+    {
+      "id": "cyzone",
+      "name": "创业邦",
+      "type": "行业媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.cyzone.cn/",
+      "auto": false,
+      "note": "创业公司/产品报道，含二合团队访谈。"
+    },
+    {
+      "id": "nadianshi",
+      "name": "手游那点事",
+      "type": "游戏媒体",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://www.nadianshi.com/",
+      "auto": false,
+      "note": "国内手游榜单与产品动态。"
+    },
+    {
+      "id": "wechat",
+      "name": "微信公众号深拆",
+      "type": "拆解/分析",
+      "lang": "zh",
+      "region": "中国",
+      "url": "https://mp.weixin.qq.com/",
+      "auto": false,
+      "note": "大量一线二合产品的实测复盘；需按文章链接检索。"
+    },
+    {
+      "id": "gamigion",
+      "name": "Gamigion",
+      "type": "行业媒体",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://www.gamigion.com/",
+      "auto": false,
+      "note": "游戏产业新闻与厂商动态。"
+    },
+    {
+      "id": "gameindustrylibrary",
+      "name": "Game Industry Library",
+      "type": "数据/资料",
+      "lang": "en",
+      "region": "全球",
+      "url": "https://gameindustrylibrary.com/",
+      "auto": false,
+      "note": "行业报告与文章索引。"
+    },
+    {
+      "id": "googleplay",
+      "name": "Google Play",
+      "type": "官方",
+      "lang": "多语言",
+      "region": "全球",
+      "url": "https://play.google.com/store/apps",
+      "auto": false,
+      "note": "安卓版本与更新说明；当前网络访问受限。"
+    }
+  ]
+}

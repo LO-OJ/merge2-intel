@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "id": "cmp-0001",
+      "title": "Merge Mansion 26.09.01：冬雪版上线，新区域“工厂办公室”",
+      "summary": "App Store 美区显示，Merge Mansion 26.09.01 于 2026-11-03 更新：Hopewell Bay 进入冬季，与 Maddie 翻新新区域“工厂办公室”，全城切换雪景，并随节日季上线多种活动；美区累计 20.36 万条评分、4.56 分。",
+      "takeaway": "把季节换肤与“新区域+新装修目标”打包成大版本，年末直接用雪景承接节日活动；重点拆解其 Factory Office 的解锁门槛、装修资源与付费点。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "merge-mansion"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1484442152",
+      "publishedAt": "2026-11-03",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "季节活动",
+        "Merge Mansion"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0002",
+      "title": "Travel Town 2.12.1813：常规修 bug 版本，评分 4.81",
+      "summary": "App Store 美区显示，Travel Town 2.12.1813 于 2026-11-01 更新，版本说明只有“改进并修复问题”；美区累计 19.16 万条评分、4.81 分。该作以合成+旅行建造为核心，版本号已到 2.12.x，更新频率约每两周，具体内容由游戏内活动与卡册承接。",
+      "takeaway": "头部把商店版本说明写成“维护日志”、内容全放游戏内活动；对标时别只看版本说明，要跟它的活动日历、卡册与地图更新节奏。",
+      "dimensions": [
+        "version"
+      ],
+      "gameIds": [
+        "travel-town"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1521236603",
+      "publishedAt": "2026-11-01",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Travel Town",
+        "节奏"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0003",
+      "title": "Seaside Escape 2.8.0：把“每周新地点+新活动”写进版本说明",
+      "summary": "App Store 美区显示，Seaside Escape 2.8.0 于 2026-10-27 更新，版本说明称“每周新内容”，列明解锁新地点及其秘密、每周活动；美区累计 3.18 万条评分、4.63 分。作为柠檬微趣第二款剧情二合，其与 Gossip Harbor 形成双产品矩阵。",
+      "takeaway": "把“每周更新地点/活动”写进商店页做预期管理；副线产品可与主产品共用活动模板，但地点主题要错开，避免同题材自我分流。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "seaside-escape"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id6443755785",
+      "publishedAt": "2026-10-27",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Seaside Escape",
+        "周更"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0004",
+      "title": "Merge Gardens 1.57.0：50 个新关卡+万圣节四连活动",
+      "summary": "App Store 美区显示，Merge Gardens 1.57.0 于 2026-10-15 更新：新增 50 个解谜关卡、金刚鹦鹉，并上线四个活动（Roots of Neverbloom、Breezy Collection 及万圣节准备/礼包）；美区累计 4.31 万条评分、4.63 分。",
+      "takeaway": "把“关卡扩容+收集品+节日四连活动”放进同一个版本，一次性喂满一个月活跃；万圣节拆成准备期与礼包期两段，延长付费窗口。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "merge-gardens"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1464675244",
+      "publishedAt": "2026-10-15",
+      "datePrecision": "day",
+      "importance": 3,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "万圣节",
+        "Merge Gardens"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0005",
+      "title": "Merge Hotel Empire 1.1.46：稳定性与 bug 修复版本",
+      "summary": "App Store 美区显示，Merge Hotel Empire 1.1.46 于 2026-10-30 更新，版本说明为修复严重错误、细节问题与整体稳定性；美区累计 10.43 万条评分、4.63 分。该作由 Moon Active 发行，走酒店装修+合成路线，版本节奏约每月一次。",
+      "takeaway": "成熟产品用“稳定性版本”控技术债，内容压力交给活动系统；对标时重点看其活动入口与装修目标如何挂接，而不是版本说明本身。",
+      "dimensions": [
+        "version"
+      ],
+      "gameIds": [
+        "merge-hotel"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1577970257",
+      "publishedAt": "2026-10-30",
+      "datePrecision": "day",
+      "importance": 1,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Merge Hotel",
+        "稳定"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0006",
+      "title": "Merge County v5.10.0：新增故事线，小镇建造继续铺内容",
+      "summary": "App Store 美区显示，Merge County v5.10.0 于 2026-10-27 更新，版本说明称 Newburyton 有新故事可探索、可结识新角色；美区累计 2.44 万条评分、4.76 分。该作为柠檬微趣小镇建造二合，版本号已到 5.x，内容以剧情与角色任务驱动。",
+      "takeaway": "小镇/建造类二合用“新角色+新故事”做版本内容，比新建筑更能拉回老玩家；把角色任务与合成目标绑定，降低纯数值推进的疲劳。",
+      "dimensions": [
+        "version",
+        "launch"
+      ],
+      "gameIds": [
+        "merge-county"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1586279379",
+      "publishedAt": "2026-10-27",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Merge County",
+        "故事线"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0007",
+      "title": "Merge Survival 1.58.1 热修：末日题材靠活动而非版本拉活跃",
+      "summary": "App Store 美区显示，Merge Survival: Wasteland 1.58.1 于 2026-10-29 更新，版本说明为热修与问题修复；美区累计 5,034 条评分、4.74 分。该作由韩国 Sticky Hands 发行，此前靠 1.53.0 版本的双周活动节奏运转。",
+      "takeaway": "题材差异化产品可用高频热修保稳定、用双周活动保活跃；评分量小但分数高，说明核心用户粘性强，适合做小规模高 LTV 而非大买量。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "merge-survival"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id6443908990",
+      "publishedAt": "2026-10-29",
+      "datePrecision": "day",
+      "importance": 1,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Merge Survival",
+        "热修"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0008",
+      "title": "Merge Cafe 2.1.86：加五星厨师周赛与“每周美食”活动",
+      "summary": "App Store 美区显示，Merge Cafe 2.1.86 于 2026-06-10 更新：新增五星厨师周赛、每周主题活动（探索世界各地美食）、累积领大额奖励与五星菜谱；美区累计 1,868 条评分、4.60 分。该作由越南 CSC Mobi 发行，走咖啡馆合成+装修路线，活动结构向头部看齐。",
+      "takeaway": "中小团队可用“周赛+每周主题”低成本复制头部结构：一个排行榜活动加一个收集活动即可撑住一周；奖励做累积式，避免单次大奖透支付费。",
+      "dimensions": [
+        "activity",
+        "version"
+      ],
+      "gameIds": [
+        "merge-cafe"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1596896014",
+      "publishedAt": "2026-06-10",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "活动设计",
+        "Merge Cafe",
+        "周赛"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0009",
+      "title": "Merge Restaurant 2.40.27：万圣节主题装饰上线",
+      "summary": "App Store 美区显示，Merge Restaurant - Makeover 2.40.27 于 2026-10-29 更新，版本说明为万圣节主题装饰与 bug 修复；美区累计 1.86 万条评分、4.73 分。该作主打餐厅改造+合成，主线为 Mina 重开导师餐厅。",
+      "takeaway": "节日皮肤用“装饰包+版本更新”一次交付，成本低、感知强；把节日装饰绑定餐厅改造目标，可顺带拉动装修类付费。",
+      "dimensions": [
+        "version",
+        "activity"
+      ],
+      "gameIds": [
+        "merge-restaurant"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id1561931423",
+      "publishedAt": "2026-10-29",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "万圣节",
+        "Merge Restaurant"
+      ],
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "cmp-0010",
+      "title": "Tasty Travels 67.0：版本号高频迭代，商店说明仍只写修 bug",
+      "summary": "App Store 美区显示，Tasty Travels: Merge Game 67.0 于 2026-10-27 更新，版本说明为细节修复与优化；美区累计 6.02 万条评分、4.62 分。游戏 2024-04-11 上线，两年半版本号已到 67，属高频小步迭代。",
+      "takeaway": "高频小版本适合快速修体验、少写说明；但联动/大活动版本应单独写清内容，否则浪费一次商店页曝光。对标时看活动上新频率而非版本号。",
+      "dimensions": [
+        "version"
+      ],
+      "gameIds": [
+        "tasty-travels"
+      ],
+      "sourceId": "apple-appstore",
+      "url": "https://apps.apple.com/us/app/id6471045672",
+      "publishedAt": "2026-10-27",
+      "datePrecision": "day",
+      "importance": 2,
+      "confidence": "high",
+      "summaryBy": "editor",
+      "tags": [
+        "版本更新",
+        "Tasty Travels",
+        "迭代节奏"
+      ],
+      "createdAt": "2026-11-03"
+    }
+  ]
+}

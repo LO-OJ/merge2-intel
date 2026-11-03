@@ -1,0 +1,36 @@
+{
+  "feed": {
+    "author": { "name": { "label": "iTunes Store" }, "uri": { "label": "http://www.apple.com/itunes/" } },
+    "entry": [
+      {
+        "im:name": { "label": "Royal Match" },
+        "im:artist": { "label": "Dream Games, Ltd." },
+        "id": { "label": "https://apps.apple.com/us/app/royal-match/id1482155847", "attributes": { "im:id": "1482155847", "im:bundleid": "com.dreamgames.royalmatch" } },
+        "category": { "attributes": { "im:id": "7012", "term": "Games", "label": "Games" } },
+        "im:releaseDate": { "label": "2026-10-30T00:00:00-07:00" }
+      },
+      {
+        "im:name": { "label": "Gossip Harbor" },
+        "im:artist": { "label": "Microfun Limited" },
+        "id": { "label": "https://apps.apple.com/us/app/gossip-harbor/id1623318294", "attributes": { "im:id": "1623318294" } },
+        "category": { "attributes": { "im:id": "7012", "term": "Games" } }
+      },
+      {
+        "im:name": { "label": "Travel Town" },
+        "im:artist": { "label": "Moon Active" },
+        "id": { "label": "https://apps.apple.com/us/app/travel-town/id1521236603", "attributes": { "im:id": "1521236603" } }
+      },
+      {
+        "im:name": { "label": "Merge Mansion" },
+        "im:artist": { "label": "Metacore" },
+        "id": { "attributes": { "im:id": "1484442152" } }
+      },
+      {
+        "im:name": { "label": "Some Unknown Puzzle" },
+        "im:artist": { "label": "Unknown Studio" },
+        "id": { "label": "https://apps.apple.com/us/app/some-unknown-puzzle/id999999999" }
+      }
+    ],
+    "updated": { "label": "2026-11-03T08:00:00-07:00" }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "site": {
+    "name": "二合情报站",
+    "nameEn": "Merge-2 Radar",
+    "timezone": "Asia/Shanghai",
+    "disclaimer": "本页内容来自公开渠道的整理与摘要，数字为公开报道或第三方估算口径；做活动、系统、商业化与数值决策前，请点开原文核对。"
+  },
+  "games": [
+    {
+      "id": "gossip-harbor",
+      "name": "Gossip Harbor",
+      "stores": { "cn": "6472696051", "us": "1623318294" }
+    },
+    {
+      "id": "kongge-zhijing",
+      "name": "空格之境",
+      "stores": { "cn": "6771265430" }
+    },
+    {
+      "id": "flambe",
+      "name": "Flambé",
+      "stores": { "us": "6618142292" }
+    },
+    {
+      "id": "merge-cooking",
+      "name": "Merge Cooking",
+      "stores": { "us": "1643509748" }
+    },
+    {
+      "id": "feige-meishi",
+      "name": "肥鹅美食街",
+      "stores": { "cn": "6758614459" }
+    },
+    {
+      "id": "menghuan-xiaochuzhan",
+      "name": "梦幻消除战",
+      "stores": { "cn": "6748513887" }
+    },
+    {
+      "id": "merge-mansion",
+      "name": "Merge Mansion",
+      "stores": { "us": "1484442152" }
+    },
+    {
+      "id": "travel-town",
+      "name": "Travel Town",
+      "stores": { "us": "1521236603" }
+    },
+    {
+      "id": "seaside-escape",
+      "name": "Seaside Escape",
+      "stores": { "us": "6443755785" }
+    },
+    {
+      "id": "merge-gardens",
+      "name": "Merge Gardens",
+      "stores": { "us": "1464675244" }
+    },
+    {
+      "id": "merge-hotel",
+      "name": "Merge Hotel Empire",
+      "stores": { "us": "1577970257" }
+    },
+    {
+      "id": "merge-county",
+      "name": "Merge County",
+      "stores": { "us": "1586279379" }
+    },
+    {
+      "id": "merge-survival",
+      "name": "Merge Survival: Wasteland",
+      "stores": { "us": "6443908990" }
+    },
+    {
+      "id": "merge-cafe",
+      "name": "Merge Cafe",
+      "stores": { "us": "1596896014" }
+    },
+    {
+      "id": "merge-restaurant",
+      "name": "Merge Restaurant",
+      "stores": { "us": "1561931423" }
+    },
+    {
+      "id": "tasty-travels",
+      "name": "Tasty Travels",
+      "stores": { "us": "6471045672" }
+    }
+  ],
+  "charts": {
+    "countries": ["us", "cn", "jp"],
+    "kinds": [
+      { "id": "overall-grossing", "kind": "topgrossingapplications", "genre": null, "label": "综合畅销" },
+      { "id": "overall-free", "kind": "topfreeapplications", "genre": null, "label": "综合免费" },
+      { "id": "puzzle-grossing", "kind": "topgrossingapplications", "genre": 7012, "label": "Puzzle 畅销" },
+      { "id": "casual-grossing", "kind": "topgrossingapplications", "genre": 7003, "label": "Casual 畅销" }
+    ],
+    "limit": 50,
+    "historyDays": 90,
+    "top5Days": 90
+  },
+  "feeds": [
+    {
+      "id": "appgrowing",
+      "name": "AppGrowing 国际版",
+      "url": "https://appgrowing.net/blog/feed/",
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "gamesindustry",
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/feed",
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "id": "baijing",
+      "name": "白鲸出海",
+      "url": "https://www.baijing.cn/feed",
+      "lang": "zh",
+      "enabled": true
+    },
+    {
+      "id": "17173",
+      "name": "17173",
+      "url": "https://news.17173.com/rss/news.xml",
+      "lang": "zh",
+      "enabled": true
+    }
+  ],
+  "keywords": [
+    "merge",
+    "merge-2",
+    "merge2",
+    "合并",
+    "合成",
+    "二合",
+    "gossip harbor",
+    "浪漫餐厅",
+    "空格之境",
+    "flambé",
+    "flambe",
+    "火辣餐厅",
+    "merge cooking",
+    "肥鹅美食街",
+    "肥鹅",
+    "梦幻消除战",
+    "柠檬微趣",
+    "microfun",
+    "happibits",
+    "playdayy",
+    "天天玩家",
+    "豪腾",
+    "喜势",
+    "快游互动",
+    "cooking",
+    "restaurant",
+    "餐厅",
+    "美食街",
+    "消除"
+  ],
+  "ai": {
+    "enabled": false,
+    "baseUrl": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "maxCallsPerRun": 20,
+    "maxItemsPerCall": 8,
+    "temperature": 0.2,
+    "relevanceThreshold": 0.7
+  },
+  "collector": {
+    "timeoutSeconds": 20,
+    "retries": 2,
+    "userAgent": "Merge2Radar/1.0 (personal research; contact: local)",
+    "requestIntervalSeconds": 0.35,
+    "maxDraftsPerRun": 40
+  }
+}
