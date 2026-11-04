@@ -2,118 +2,118 @@
   "sources": {
     "itunes_lookup_cn": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:48+08:00",
+      "lastRun": "2026-11-04T10:51:30+08:00",
       "items": 4,
       "error": ""
     },
     "itunes_lookup_us": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:48+08:00",
+      "lastRun": "2026-11-04T10:51:30+08:00",
       "items": 13,
       "error": ""
     },
     "charts_us_overall-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:49+08:00",
+      "lastRun": "2026-11-04T10:51:32+08:00",
       "items": 50,
       "error": ""
     },
     "charts_us_overall-free": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:50+08:00",
+      "lastRun": "2026-11-04T10:51:33+08:00",
       "items": 50,
       "error": ""
     },
     "charts_us_puzzle-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:51+08:00",
+      "lastRun": "2026-11-04T10:51:33+08:00",
       "items": 50,
       "error": ""
     },
     "charts_us_casual-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:52+08:00",
+      "lastRun": "2026-11-04T10:51:34+08:00",
       "items": 50,
       "error": ""
     },
     "charts_cn_overall-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:52+08:00",
+      "lastRun": "2026-11-04T10:51:34+08:00",
       "items": 50,
       "error": ""
     },
     "charts_cn_overall-free": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:53+08:00",
+      "lastRun": "2026-11-04T10:51:35+08:00",
       "items": 50,
       "error": ""
     },
     "charts_cn_puzzle-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:53+08:00",
+      "lastRun": "2026-11-04T10:51:35+08:00",
       "items": 50,
       "error": ""
     },
     "charts_cn_casual-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:54+08:00",
+      "lastRun": "2026-11-04T10:51:35+08:00",
       "items": 50,
       "error": ""
     },
     "charts_jp_overall-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:54+08:00",
+      "lastRun": "2026-11-04T10:51:36+08:00",
       "items": 50,
       "error": ""
     },
     "charts_jp_overall-free": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:55+08:00",
+      "lastRun": "2026-11-04T10:51:37+08:00",
       "items": 50,
       "error": ""
     },
     "charts_jp_puzzle-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:56+08:00",
+      "lastRun": "2026-11-04T10:51:37+08:00",
       "items": 50,
       "error": ""
     },
     "charts_jp_casual-grossing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:56+08:00",
+      "lastRun": "2026-11-04T10:51:38+08:00",
       "items": 50,
       "error": ""
     },
     "ai": {
       "ok": false,
-      "lastRun": "2026-11-03T18:18:02+08:00",
+      "lastRun": "2026-11-04T10:51:46+08:00",
       "items": 0,
       "error": "跳过：未配置 DeepSeek key（AI 降级，drafts 保持 aiStatus=none）"
     },
     "rss_appgrowing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:57+08:00",
+      "lastRun": "2026-11-04T10:51:38+08:00",
       "items": 1,
       "error": ""
     },
     "rss_gamesindustry": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:57+08:00",
+      "lastRun": "2026-11-04T10:51:39+08:00",
       "items": 0,
       "error": ""
     },
     "rss_baijing": {
       "ok": true,
-      "lastRun": "2026-11-03T18:17:58+08:00",
+      "lastRun": "2026-11-04T10:51:41+08:00",
       "items": 0,
       "error": ""
     },
     "rss_17173": {
       "ok": true,
-      "lastRun": "2026-11-03T18:18:02+08:00",
+      "lastRun": "2026-11-04T10:51:46+08:00",
       "items": 0,
       "error": ""
     }
   },
-  "updatedAt": "2026-11-03T18:17:48+08:00"
+  "updatedAt": "2026-11-04T10:51:30+08:00"
 }
