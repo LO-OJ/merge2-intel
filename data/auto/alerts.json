@@ -1,4 +1,35 @@
 {
-  "alerts": [],
-  "updatedAt": "2026-11-04T10:51:30+08:00"
+  "alerts": [
+    {
+      "id": "alert-20261105-us-app-seaside-escape-2.8.5-version",
+      "date": "2026-11-05",
+      "type": "version",
+      "country": "us",
+      "gameId": "seaside-escape",
+      "appId": "6443755785",
+      "name": "Seaside Escape",
+      "version": "2.8.5",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Seaside Escape 发布新版本 2.8.5（美区），更新说明命中：event。",
+      "sourceUrl": "https://apps.apple.com/us/app/id6443755785"
+    },
+    {
+      "id": "alert-20261105-us-app-flambe-1.54.1-version",
+      "date": "2026-11-05",
+      "type": "version",
+      "country": "us",
+      "gameId": "flambe",
+      "appId": "6618142292",
+      "name": "Flambé",
+      "version": "1.54.1",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Flambé 发布新版本 1.54.1（美区），更新说明命中：update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
+    }
+  ],
+  "updatedAt": "2026-11-05T11:00:21+08:00"
 }

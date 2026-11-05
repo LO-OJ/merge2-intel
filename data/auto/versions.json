@@ -1,6 +1,45 @@
 {
   "versions": [
     {
+      "id": "version-merge-cooking-us-1.65.0-2026-11-04",
+      "gameId": "merge-cooking",
+      "store": "us",
+      "version": "1.65.0",
+      "releasedAt": "2026-11-04",
+      "notes": "Welcome back, Chef!\nA new version of Merge Cooking is available!\nTo provide a better experience, we're working hard to optimize the game performance as well as bring you exciting content.\nWe hope you can enjoy the time playing!\nNew to the game? Don't worry. We've prepared step-by-step instructions to guide you through. Join us and have some fun.",
+      "notesUrl": "https://apps.apple.com/us/app/merge-cooking/id1643509748?uo=4",
+      "ratingCount": 51999,
+      "averageRating": 4.74863,
+      "highlights": [],
+      "fetchedAt": "2026-11-05T11:00:21+08:00"
+    },
+    {
+      "id": "version-flambe-us-1.54.1-2026-11-04",
+      "gameId": "flambe",
+      "store": "us",
+      "version": "1.54.1",
+      "releasedAt": "2026-11-04",
+      "notes": "NEW CONTENT\nGet ready to spice up your kitchens because our latest update is here, and it's hotter than ever!\nNEW DISHES & INGREDIENTS: Dive into an array of fresh ingredients and delectable dishes!\nNEW LOCATION: We've added a new location for you to explore and renovate!\nBUG FIXES: We’ve been busy behind the scenes squashing pesky bugs!",
+      "notesUrl": "https://apps.apple.com/us/app/flamb%C3%A9-merge-and-cook/id6618142292?uo=4",
+      "ratingCount": 15691,
+      "averageRating": 4.81626,
+      "highlights": [],
+      "fetchedAt": "2026-11-05T11:00:21+08:00"
+    },
+    {
+      "id": "version-seaside-escape-us-2.8.5-2026-11-03",
+      "gameId": "seaside-escape",
+      "store": "us",
+      "version": "2.8.5",
+      "releasedAt": "2026-11-03",
+      "notes": "NEW CONTENT EVERY WEEK \n- Locations! Unlock a new location and its secrets!\n- Events! Spice up your gaming experience with this weeks' event!\n\nWe've also fixed bugs and added cool new features!",
+      "notesUrl": "https://apps.apple.com/us/app/seaside-escape-merge-story/id6443755785?uo=4",
+      "ratingCount": 31837,
+      "averageRating": 4.62594,
+      "highlights": [],
+      "fetchedAt": "2026-11-05T11:00:21+08:00"
+    },
+    {
       "id": "version-merge-mansion-us-26.09.01-2026-11-03",
       "gameId": "merge-mansion",
       "store": "us",
@@ -222,5 +261,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-04T10:51:30+08:00"
+  "updatedAt": "2026-11-05T11:00:21+08:00"
 }
