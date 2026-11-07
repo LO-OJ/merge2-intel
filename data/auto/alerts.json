@@ -1,6 +1,21 @@
 {
   "alerts": [
     {
+      "id": "alert-20261107-us-app-merge-gardens-1.57.4-version",
+      "date": "2026-11-07",
+      "type": "version",
+      "country": "us",
+      "gameId": "merge-gardens",
+      "appId": "1464675244",
+      "name": "Merge Gardens",
+      "version": "1.57.4",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Merge Gardens 发布新版本 1.57.4（美区），更新说明命中：event、update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1464675244"
+    },
+    {
       "id": "alert-20261105-us-app-seaside-escape-2.8.5-version",
       "date": "2026-11-05",
       "type": "version",
@@ -31,5 +46,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-06T11:02:15+08:00"
+  "updatedAt": "2026-11-07T10:29:44+08:00"
 }
