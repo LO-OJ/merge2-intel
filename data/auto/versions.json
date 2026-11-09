@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "id": "version-merge-restaurant-us-2.40.28-2026-11-09",
+      "gameId": "merge-restaurant",
+      "store": "us",
+      "version": "2.40.28",
+      "releasedAt": "2026-11-09",
+      "notes": "- Bug fixes and optimizations",
+      "notesUrl": "https://apps.apple.com/us/app/merge-restaurant-makeover/id1561931423?uo=4",
+      "ratingCount": 18569,
+      "averageRating": 4.72707,
+      "highlights": [],
+      "fetchedAt": "2026-11-09T10:18:26+08:00"
+    },
+    {
+      "id": "version-travel-town-us-2.12.1822-2026-11-08",
+      "gameId": "travel-town",
+      "store": "us",
+      "version": "2.12.1822",
+      "releasedAt": "2026-11-08",
+      "notes": "Welcome to the latest update of Travel Town!\nWe’ve been busy improving the game and addressing bugs for you. \nEnjoy!",
+      "notesUrl": "https://apps.apple.com/us/app/travel-town-merge-adventure/id1521236603?uo=4",
+      "ratingCount": 192335,
+      "averageRating": 4.81168,
+      "highlights": [],
+      "fetchedAt": "2026-11-09T10:18:26+08:00"
+    },
+    {
       "id": "version-merge-gardens-us-1.57.4-2026-11-06",
       "gameId": "merge-gardens",
       "store": "us",
@@ -274,5 +300,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-08T09:58:54+08:00"
+  "updatedAt": "2026-11-09T10:18:26+08:00"
 }

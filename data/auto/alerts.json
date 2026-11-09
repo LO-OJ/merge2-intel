@@ -1,6 +1,21 @@
 {
   "alerts": [
     {
+      "id": "alert-20261109-us-app-travel-town-2.12.1822-version",
+      "date": "2026-11-09",
+      "type": "version",
+      "country": "us",
+      "gameId": "travel-town",
+      "appId": "1521236603",
+      "name": "Travel Town",
+      "version": "2.12.1822",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Travel Town 发布新版本 2.12.1822（美区），更新说明命中：update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1521236603"
+    },
+    {
       "id": "alert-20261107-us-app-merge-gardens-1.57.4-version",
       "date": "2026-11-07",
       "type": "version",
@@ -46,5 +61,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-08T09:58:54+08:00"
+  "updatedAt": "2026-11-09T10:18:26+08:00"
 }
