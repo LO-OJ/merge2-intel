@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "id": "version-tasty-travels-us-68.0-2026-11-10",
+      "gameId": "tasty-travels",
+      "store": "us",
+      "version": "68.0",
+      "releasedAt": "2026-11-10",
+      "notes": "Minor bug fixes and improvements.",
+      "notesUrl": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=4",
+      "ratingCount": 61428,
+      "averageRating": 4.61703,
+      "highlights": [],
+      "fetchedAt": "2026-11-10T12:27:20+08:00"
+    },
+    {
       "id": "version-merge-restaurant-us-2.40.28-2026-11-09",
       "gameId": "merge-restaurant",
       "store": "us",
@@ -300,5 +313,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-09T10:18:26+08:00"
+  "updatedAt": "2026-11-10T12:27:20+08:00"
 }
