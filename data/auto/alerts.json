@@ -1,6 +1,22 @@
 {
   "alerts": [
     {
+      "id": "alert-20261111-cn-puzzle-grossing-gossip-harbor-top5",
+      "date": "2026-11-11",
+      "type": "top5",
+      "country": "cn",
+      "kindId": "puzzle-grossing",
+      "appId": "6472696051",
+      "name": "浪漫餐厅™-Gossip Harbor",
+      "rank": 5,
+      "prevRank": 6,
+      "confidence": "high",
+      "summary": "Gossip Harbor 进入中国区 Puzzle 畅销前 5，当前第 5（上次第 6）。",
+      "sourceUrl": "https://apps.apple.com/cn/app/id6472696051",
+      "gameId": "gossip-harbor",
+      "publisher": "柠檬曲奇"
+    },
+    {
       "id": "alert-20261109-us-app-travel-town-2.12.1822-version",
       "date": "2026-11-09",
       "type": "version",
@@ -61,5 +77,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-10T12:27:20+08:00"
+  "updatedAt": "2026-11-11T10:27:33+08:00"
 }
