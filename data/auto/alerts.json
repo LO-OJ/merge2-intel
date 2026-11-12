@@ -1,6 +1,66 @@
 {
   "alerts": [
     {
+      "id": "alert-20261112-us-app-seaside-escape-2.9.0-version",
+      "date": "2026-11-12",
+      "type": "version",
+      "country": "us",
+      "gameId": "seaside-escape",
+      "appId": "6443755785",
+      "name": "Seaside Escape",
+      "version": "2.9.0",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Seaside Escape 发布新版本 2.9.0（美区），更新说明命中：event。",
+      "sourceUrl": "https://apps.apple.com/us/app/id6443755785"
+    },
+    {
+      "id": "alert-20261112-us-app-merge-county-v5.12.0-version",
+      "date": "2026-11-12",
+      "type": "version",
+      "country": "us",
+      "gameId": "merge-county",
+      "appId": "1586279379",
+      "name": "Merge County",
+      "version": "v5.12.0",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Merge County 发布新版本 v5.12.0（美区），更新说明命中：event、update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1586279379"
+    },
+    {
+      "id": "alert-20261112-us-app-gossip-harbor-4.12.0-version",
+      "date": "2026-11-12",
+      "type": "version",
+      "country": "us",
+      "gameId": "gossip-harbor",
+      "appId": "1623318294",
+      "name": "Gossip Harbor",
+      "version": "4.12.0",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Gossip Harbor 发布新版本 4.12.0（美区），更新说明命中：event、chapter、update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1623318294"
+    },
+    {
+      "id": "alert-20261112-cn-app-gossip-harbor-4.12.0-version",
+      "date": "2026-11-12",
+      "type": "version",
+      "country": "cn",
+      "gameId": "gossip-harbor",
+      "appId": "6472696051",
+      "name": "Gossip Harbor",
+      "version": "4.12.0",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Gossip Harbor 发布新版本 4.12.0（中国区），更新说明命中：活动。",
+      "sourceUrl": "https://apps.apple.com/cn/app/id6472696051"
+    },
+    {
       "id": "alert-20261111-cn-puzzle-grossing-gossip-harbor-top5",
       "date": "2026-11-11",
       "type": "top5",
@@ -77,5 +137,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-11T10:27:33+08:00"
+  "updatedAt": "2026-11-12T11:32:21+08:00"
 }

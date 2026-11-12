@@ -1,6 +1,45 @@
 {
   "versions": [
     {
+      "id": "version-seaside-escape-us-2.9.0-2026-11-11",
+      "gameId": "seaside-escape",
+      "store": "us",
+      "version": "2.9.0",
+      "releasedAt": "2026-11-11",
+      "notes": "NEW CONTENT EVERY WEEK \n- Locations! Unlock a new location and its secrets!\n- Events! Spice up your gaming experience with this weeks' event!\n\nWe've also fixed bugs and added cool new features!",
+      "notesUrl": "https://apps.apple.com/us/app/seaside-escape-merge-story/id6443755785?uo=4",
+      "ratingCount": 31912,
+      "averageRating": 4.62591,
+      "highlights": [],
+      "fetchedAt": "2026-11-12T11:32:21+08:00"
+    },
+    {
+      "id": "version-merge-cooking-us-1.66.0-2026-11-11",
+      "gameId": "merge-cooking",
+      "store": "us",
+      "version": "1.66.0",
+      "releasedAt": "2026-11-11",
+      "notes": "Welcome back, Chef!\nA new version of Merge Cooking is available!\nTo provide a better experience, we're working hard to optimize the game performance as well as bring you exciting content.\nWe hope you can enjoy the time playing!\nNew to the game? Don't worry. We've prepared step-by-step instructions to guide you through. Join us and have some fun.",
+      "notesUrl": "https://apps.apple.com/us/app/merge-cooking/id1643509748?uo=4",
+      "ratingCount": 52290,
+      "averageRating": 4.74848,
+      "highlights": [],
+      "fetchedAt": "2026-11-12T11:32:21+08:00"
+    },
+    {
+      "id": "version-gossip-harbor-cn-4.12.0-2026-11-11",
+      "gameId": "gossip-harbor",
+      "store": "cn",
+      "version": "4.12.0",
+      "releasedAt": "2026-11-11",
+      "notes": "每周五更新剧情！\n- 剧情更新：每周五更新剧情，来和凯莉一起探索浪尾镇的秘密吧！\n- 新活动：踏入这座神秘又刺激的恐龙公园！远古巨兽潜伏在园区各处，危机四伏。快来帮助勇敢的露西，穿越重重险境，从凶猛霸王龙的利爪之下救出好友哈里，开启惊险的史前营救冒险！",
+      "notesUrl": "https://apps.apple.com/cn/app/%E6%B5%AA%E6%BC%AB%E9%A4%90%E5%8E%85-gossip-harbor/id6472696051?uo=4",
+      "ratingCount": 27612,
+      "averageRating": 4.64327,
+      "highlights": [],
+      "fetchedAt": "2026-11-12T11:32:21+08:00"
+    },
+    {
       "id": "version-tasty-travels-us-68.0-2026-11-10",
       "gameId": "tasty-travels",
       "store": "us",
@@ -12,6 +51,32 @@
       "averageRating": 4.61703,
       "highlights": [],
       "fetchedAt": "2026-11-10T12:27:20+08:00"
+    },
+    {
+      "id": "version-merge-county-us-v5.12.0-2026-11-10",
+      "gameId": "merge-county",
+      "store": "us",
+      "version": "v5.12.0",
+      "releasedAt": "2026-11-10",
+      "notes": "In Newburyton, surprises happen every day!\nMore and more people are moving to Newburyton! Like with any town, there's always trouble, but there's also a lot of happiness!\nCome experience new things and make new memories with them! \nUpdate the game to participate in the latest events!",
+      "notesUrl": "https://apps.apple.com/us/app/merge-county/id1586279379?uo=4",
+      "ratingCount": 24406,
+      "averageRating": 4.76321,
+      "highlights": [],
+      "fetchedAt": "2026-11-12T11:32:21+08:00"
+    },
+    {
+      "id": "version-gossip-harbor-us-4.12.0-2026-11-10",
+      "gameId": "gossip-harbor",
+      "store": "us",
+      "version": "4.12.0",
+      "releasedAt": "2026-11-10",
+      "notes": "NEW EPISODE EVERY FRIDAY!\n- NEW EPISODE: With new chapter updates every Friday; follow Quinn as she exposes secrets and solves puzzles.\n- NEW EVENT:Help Amala save Harrison from the terrifying T-Rex by exploring the dinosaur park's dangerous yet thrilling map!",
+      "notesUrl": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=4",
+      "ratingCount": 214259,
+      "averageRating": 4.61925,
+      "highlights": [],
+      "fetchedAt": "2026-11-12T11:32:21+08:00"
     },
     {
       "id": "version-merge-restaurant-us-2.40.28-2026-11-09",
@@ -313,5 +378,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-11T10:27:33+08:00"
+  "updatedAt": "2026-11-12T11:32:21+08:00"
 }
