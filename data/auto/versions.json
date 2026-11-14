@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "id": "version-merge-gardens-us-1.58.0-2026-11-13",
+      "gameId": "merge-gardens",
+      "store": "us",
+      "version": "1.58.0",
+      "releasedAt": "2026-11-13",
+      "notes": "Here comes a festive Merge Gardens update!\n\n- A Thankful Harvest\n- Petal Pairs\n\nNew wildlife!\n- Turkey\n\n- 50 new puzzles!\n- New in-level booster: Shuffle!\n- Bug fixes and improvements.",
+      "notesUrl": "https://apps.apple.com/us/app/merge-gardens/id1464675244?uo=4",
+      "ratingCount": 43183,
+      "averageRating": 4.62988,
+      "highlights": [],
+      "fetchedAt": "2026-11-14T10:51:34+08:00"
+    },
+    {
+      "id": "version-kongge-zhijing-cn-10.4-2026-11-13",
+      "gameId": "kongge-zhijing",
+      "store": "cn",
+      "version": "10.4",
+      "releasedAt": "2026-11-13",
+      "notes": "活动更新，快来玩吧",
+      "notesUrl": "https://apps.apple.com/cn/app/%E7%A9%BA%E6%A0%BC%E4%B9%8B%E5%A2%83/id6771265430?uo=4",
+      "ratingCount": 1432,
+      "averageRating": 4.88198,
+      "highlights": [],
+      "fetchedAt": "2026-11-14T10:51:34+08:00"
+    },
+    {
       "id": "version-seaside-escape-us-2.9.0-2026-11-11",
       "gameId": "seaside-escape",
       "store": "us",
@@ -378,5 +404,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-13T11:05:19+08:00"
+  "updatedAt": "2026-11-14T10:51:34+08:00"
 }

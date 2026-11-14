@@ -1,6 +1,36 @@
 {
   "alerts": [
     {
+      "id": "alert-20261114-us-app-merge-gardens-1.58.0-version",
+      "date": "2026-11-14",
+      "type": "version",
+      "country": "us",
+      "gameId": "merge-gardens",
+      "appId": "1464675244",
+      "name": "Merge Gardens",
+      "version": "1.58.0",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Merge Gardens 发布新版本 1.58.0（美区），更新说明命中：update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1464675244"
+    },
+    {
+      "id": "alert-20261114-cn-app-kongge-zhijing-10.4-version",
+      "date": "2026-11-14",
+      "type": "version",
+      "country": "cn",
+      "gameId": "kongge-zhijing",
+      "appId": "6771265430",
+      "name": "空格之境",
+      "version": "10.4",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "空格之境 发布新版本 10.4（中国区），更新说明命中：活动。",
+      "sourceUrl": "https://apps.apple.com/cn/app/id6771265430"
+    },
+    {
       "id": "alert-20261112-us-app-seaside-escape-2.9.0-version",
       "date": "2026-11-12",
       "type": "version",
@@ -137,5 +167,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-13T11:05:19+08:00"
+  "updatedAt": "2026-11-14T10:51:34+08:00"
 }
