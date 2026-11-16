@@ -1,6 +1,37 @@
 {
   "alerts": [
     {
+      "id": "alert-20261116-us-app-travel-town-2.12.1831-version",
+      "date": "2026-11-16",
+      "type": "version",
+      "country": "us",
+      "gameId": "travel-town",
+      "appId": "1521236603",
+      "name": "Travel Town",
+      "version": "2.12.1831",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Travel Town 发布新版本 2.12.1831（美区），更新说明命中：update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1521236603"
+    },
+    {
+      "id": "alert-20261116-cn-puzzle-grossing-gossip-harbor-top5",
+      "date": "2026-11-16",
+      "type": "top5",
+      "country": "cn",
+      "kindId": "puzzle-grossing",
+      "appId": "6472696051",
+      "name": "浪漫餐厅™-Gossip Harbor",
+      "rank": 5,
+      "prevRank": 6,
+      "confidence": "high",
+      "summary": "Gossip Harbor 进入中国区 Puzzle 畅销前 5，当前第 5（上次第 6）。",
+      "sourceUrl": "https://apps.apple.com/cn/app/id6472696051",
+      "gameId": "gossip-harbor",
+      "publisher": "柠檬曲奇"
+    },
+    {
       "id": "alert-20261114-us-app-merge-gardens-1.58.0-version",
       "date": "2026-11-14",
       "type": "version",
@@ -167,5 +198,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-15T10:19:45+08:00"
+  "updatedAt": "2026-11-16T10:31:15+08:00"
 }
