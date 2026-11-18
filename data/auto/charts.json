@@ -1,7 +1,7 @@
 {
   "latest": [
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "cn",
       "kindId": "casual-grossing",
       "kind": "topgrossingapplications",
@@ -46,15 +46,15 @@
         },
         {
           "rank": 7,
-          "appId": "6746321359",
-          "name": "我的花园世界",
-          "publisher": "厦门麟贝互娱科技有限公司"
-        },
-        {
-          "rank": 8,
           "appId": "1570790378",
           "name": "途游休闲捕鱼-百万倍街机王者大作战",
           "publisher": "TYSG Games"
+        },
+        {
+          "rank": 8,
+          "appId": "6746321359",
+          "name": "我的花园世界",
+          "publisher": "厦门麟贝互娱科技有限公司"
         },
         {
           "rank": 9,
@@ -70,33 +70,33 @@
         },
         {
           "rank": 11,
-          "appId": "6737974680",
-          "name": "保卫向日葵",
-          "publisher": "奇游工作室"
-        },
-        {
-          "rank": 12,
           "appId": "6758614459",
           "name": "肥鹅美食街",
           "publisher": "北京豪腾创想科技有限公司"
         },
         {
-          "rank": 13,
-          "appId": "1570403223",
-          "name": "梦幻家园 - Homescapes",
-          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
+          "rank": 12,
+          "appId": "6737974680",
+          "name": "保卫向日葵",
+          "publisher": "奇游工作室"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "appId": "6740756173",
           "name": "鹅鸭杀",
           "publisher": "Chengdu Kingsoft Shiyou Zhuoli Technology Co., Ltd."
         },
         {
+          "rank": 14,
+          "appId": "6821266319",
+          "name": "我在古代有座城",
+          "publisher": "安徽盈趣网络科技有限公司"
+        },
+        {
           "rank": 15,
-          "appId": "6472696051",
-          "name": "浪漫餐厅™-Gossip Harbor",
-          "publisher": "柠檬曲奇"
+          "appId": "1570403223",
+          "name": "梦幻家园 - Homescapes",
+          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
         },
         {
           "rank": 16,
@@ -106,27 +106,27 @@
         },
         {
           "rank": 17,
-          "appId": "1612426573",
-          "name": "梦想城镇 - Township",
-          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
+          "appId": "6472696051",
+          "name": "浪漫餐厅™-Gossip Harbor",
+          "publisher": "柠檬曲奇"
         },
         {
           "rank": 18,
+          "appId": "6739831341",
+          "name": "雷霆战机：集结",
+          "publisher": "爱乐游"
+        },
+        {
+          "rank": 19,
           "appId": "6789496517",
           "name": "弹壳战机！",
           "publisher": "北京猩球科技有限公司"
         },
         {
-          "rank": 19,
-          "appId": "1492415639",
-          "name": "指尖捕鱼-全民欢乐真人游戏",
-          "publisher": "上海愉趣网络科技有限公司"
-        },
-        {
           "rank": 20,
-          "appId": "1495166402",
-          "name": "偶像梦幻祭2",
-          "publisher": "乐元素游戏"
+          "appId": "1612426573",
+          "name": "梦想城镇 - Township",
+          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
         },
         {
           "rank": 21,
@@ -136,69 +136,69 @@
         },
         {
           "rank": 22,
-          "appId": "1123876959",
-          "name": "保卫萝卜4",
-          "publisher": "Beijing Kai Luo Tian Xia Technology Co., Ltd."
-        },
-        {
-          "rank": 23,
-          "appId": "1477923015",
-          "name": "捕鱼炸翻天-火爆重制版",
-          "publisher": "上海数渔信息科技有限公司"
-        },
-        {
-          "rank": 24,
-          "appId": "1563187313",
-          "name": "海王捕鱼-官方版",
-          "publisher": "Hainan Palm Entertainment Technology Co.,Ltd."
-        },
-        {
-          "rank": 25,
           "appId": "6746738620",
           "name": "一路狂飙",
           "publisher": "SHI YI NETWORK TECHNOLOGY (SHANGHAI) CO., LTD"
         },
         {
+          "rank": 23,
+          "appId": "1563187313",
+          "name": "海王捕鱼-官方版",
+          "publisher": "Hainan Palm Entertainment Technology Co.,Ltd."
+        },
+        {
+          "rank": 24,
+          "appId": "1477923015",
+          "name": "捕鱼炸翻天-火爆重制版",
+          "publisher": "上海数渔信息科技有限公司"
+        },
+        {
+          "rank": 25,
+          "appId": "1123876959",
+          "name": "保卫萝卜4",
+          "publisher": "Beijing Kai Luo Tian Xia Technology Co., Ltd."
+        },
+        {
           "rank": 26,
-          "appId": "1632570713",
-          "name": "乐鸿捕鱼-3D全民鸿运街机欢乐捕鱼高爆版",
-          "publisher": "Linzihuyu"
-        },
-        {
-          "rank": 27,
-          "appId": "6751826673",
-          "name": "向往的生活官方游戏",
-          "publisher": "BeeFun"
-        },
-        {
-          "rank": 28,
-          "appId": "6748513887",
-          "name": "梦幻消除战",
-          "publisher": "GuangZhou Xishi Network Technology Company Limited"
-        },
-        {
-          "rank": 29,
           "appId": "6740021287",
           "name": "假日乐消消",
           "publisher": "Shanghai Happy Elements Network Technology Development Co., Ltd."
         },
         {
+          "rank": 27,
+          "appId": "1492415639",
+          "name": "指尖捕鱼-全民欢乐真人游戏",
+          "publisher": "上海愉趣网络科技有限公司"
+        },
+        {
+          "rank": 28,
+          "appId": "1632570713",
+          "name": "乐鸿捕鱼-3D全民鸿运街机欢乐捕鱼高爆版",
+          "publisher": "Linzihuyu"
+        },
+        {
+          "rank": 29,
+          "appId": "6784163008",
+          "name": "俱乐大玩家",
+          "publisher": "光棱工作室"
+        },
+        {
           "rank": 30,
-          "appId": "6821266319",
-          "name": "我在古代有座城",
-          "publisher": "安徽盈趣网络科技有限公司"
+          "appId": "6751826673",
+          "name": "向往的生活官方游戏",
+          "publisher": "BeeFun"
         },
         {
           "rank": 31,
-          "appId": "1498402704",
-          "name": "江南百景图",
-          "publisher": "Coconut Island Games Limited"
-        },
-        {
-          "rank": 32,
           "appId": "1504236603",
           "name": "荒野乱斗",
           "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
+        },
+        {
+          "rank": 32,
+          "appId": "6748513887",
+          "name": "梦幻消除战",
+          "publisher": "GuangZhou Xishi Network Technology Company Limited"
         },
         {
           "rank": 33,
@@ -208,9 +208,9 @@
         },
         {
           "rank": 34,
-          "appId": "6784163008",
-          "name": "俱乐大玩家",
-          "publisher": "光棱工作室"
+          "appId": "1495166402",
+          "name": "偶像梦幻祭2",
+          "publisher": "乐元素游戏"
         },
         {
           "rank": 35,
@@ -220,33 +220,33 @@
         },
         {
           "rank": 36,
-          "appId": "6787906105",
-          "name": "奇幻果园",
-          "publisher": "Hangzhou Qiongxiao Network Technology Co., Ltd"
-        },
-        {
-          "rank": 37,
           "appId": "6795378556",
           "name": "正中靶心2",
           "publisher": "北京金海部落文化有限公司"
         },
         {
+          "rank": 37,
+          "appId": "1498402704",
+          "name": "江南百景图",
+          "publisher": "Coconut Island Games Limited"
+        },
+        {
           "rank": 38,
-          "appId": "6449214722",
-          "name": "次神：光之觉醒-动作冒险休闲闯关游戏",
-          "publisher": "Ark Game Limited"
+          "appId": "6787906105",
+          "name": "奇幻果园",
+          "publisher": "Hangzhou Qiongxiao Network Technology Co., Ltd"
         },
         {
           "rank": 39,
-          "appId": "1020071295",
-          "name": "忍者必须死3",
-          "publisher": "杭州炎魂网络科技有限公司"
-        },
-        {
-          "rank": 40,
           "appId": "6755514242",
           "name": "小镇派对",
           "publisher": "上海趣滋滋网络科技有限公司"
+        },
+        {
+          "rank": 40,
+          "appId": "1020071295",
+          "name": "忍者必须死3",
+          "publisher": "杭州炎魂网络科技有限公司"
         },
         {
           "rank": 41,
@@ -256,62 +256,62 @@
         },
         {
           "rank": 42,
-          "appId": "1628270358",
-          "name": "弹壳特攻队",
-          "publisher": "HABBY GAMES"
-        },
-        {
-          "rank": 43,
-          "appId": "731871690",
-          "name": "全民飞机大战",
-          "publisher": "Tencent Mobile Games"
-        },
-        {
-          "rank": 44,
-          "appId": "6746925059",
-          "name": "皇冠斗地主-小团团力荐",
-          "publisher": "弈趣玩科技(北京)有限公司"
-        },
-        {
-          "rank": 45,
-          "appId": "6479696944",
-          "name": "欢乐钓鱼大师",
+          "appId": "6449214722",
+          "name": "次神：光之觉醒-动作冒险休闲闯关游戏",
           "publisher": "Ark Game Limited"
         },
         {
-          "rank": 46,
-          "appId": "1510693003",
-          "name": "球球英雄",
-          "publisher": "Game Nianda"
-        },
-        {
-          "rank": 47,
+          "rank": 43,
           "appId": "1548409008",
           "name": "捕鱼大世界-欢乐3D千炮捕鱼游戏",
           "publisher": "SHI YI NETWORK TECHNOLOGY (SHANGHAI) CO., LTD"
         },
         {
+          "rank": 44,
+          "appId": "731871690",
+          "name": "全民飞机大战",
+          "publisher": "Tencent Mobile Games"
+        },
+        {
+          "rank": 45,
+          "appId": "6746925059",
+          "name": "皇冠斗地主-小团团力荐",
+          "publisher": "弈趣玩科技(北京)有限公司"
+        },
+        {
+          "rank": 46,
+          "appId": "1628270358",
+          "name": "弹壳特攻队",
+          "publisher": "HABBY GAMES"
+        },
+        {
+          "rank": 47,
+          "appId": "6479696944",
+          "name": "欢乐钓鱼大师",
+          "publisher": "Ark Game Limited"
+        },
+        {
           "rank": 48,
+          "appId": "1510693003",
+          "name": "球球英雄",
+          "publisher": "Game Nianda"
+        },
+        {
+          "rank": 49,
           "appId": "1669193324",
           "name": "我的休闲时光",
           "publisher": "Skydreams CO., LTD."
         },
         {
-          "rank": 49,
-          "appId": "1434377838",
-          "name": "狂野飙车9：竞速传奇",
-          "publisher": "Lingxi Games Inc."
-        },
-        {
           "rank": 50,
-          "appId": "6468249909",
-          "name": "四季合合",
-          "publisher": "Kunpo"
+          "appId": "1262305832",
+          "name": "猎鱼达人-在线街机高爆捕鱼游戏",
+          "publisher": "SHI YI NETWORK TECHNOLOGY (SHANGHAI) CO., LTD"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "cn",
       "kindId": "overall-free",
       "kind": "topfreeapplications",
@@ -374,9 +374,9 @@
         },
         {
           "rank": 10,
-          "appId": "1584095090",
-          "name": "2Camera 双摄相机 DualShot Recorder",
-          "publisher": "6X Studio LLC"
+          "appId": "1458072671",
+          "name": "剪映 - 抖音官方AI创作神器",
+          "publisher": "深圳市脸萌科技有限公司"
         },
         {
           "rank": 11,
@@ -386,51 +386,51 @@
         },
         {
           "rank": 12,
-          "appId": "1458072671",
-          "name": "剪映 - 抖音官方AI创作神器",
-          "publisher": "深圳市脸萌科技有限公司"
-        },
-        {
-          "rank": 13,
-          "appId": "736536022",
-          "name": "哔哩哔哩-弹幕番剧直播高清视频",
-          "publisher": "bilibili"
-        },
-        {
-          "rank": 14,
-          "appId": "414245413",
-          "name": "京东-又好又便宜",
-          "publisher": "Beijing Jingdong Century Trading Co., Ltd."
-        },
-        {
-          "rank": 15,
-          "appId": "583700738",
-          "name": "中国移动（手机营业厅）",
-          "publisher": "中移在线"
-        },
-        {
-          "rank": 16,
-          "appId": "461703208",
-          "name": "高德地图-高德打车,导航公交地铁出行",
-          "publisher": "AutoNavi Information Technology Co. Ltd."
-        },
-        {
-          "rank": 17,
-          "appId": "600273928",
-          "name": "云闪付-银行业统一移动支付App",
-          "publisher": "中国银联"
-        },
-        {
-          "rank": 18,
           "appId": "547166701",
           "name": "百度网盘",
           "publisher": "Beijing Duyou Science and Technology Co.,Ltd."
         },
         {
+          "rank": 13,
+          "appId": "414245413",
+          "name": "京东-又好又便宜",
+          "publisher": "Beijing Jingdong Century Trading Co., Ltd."
+        },
+        {
+          "rank": 14,
+          "appId": "583700738",
+          "name": "中国移动（手机营业厅）",
+          "publisher": "中移在线"
+        },
+        {
+          "rank": 15,
+          "appId": "736536022",
+          "name": "哔哩哔哩-弹幕番剧直播高清视频",
+          "publisher": "bilibili"
+        },
+        {
+          "rank": 16,
+          "appId": "1160172628",
+          "name": "夸克-AI旗舰应用",
+          "publisher": "广州市动悦信息技术有限公司"
+        },
+        {
+          "rank": 17,
+          "appId": "461703208",
+          "name": "高德地图-高德打车,导航公交地铁出行",
+          "publisher": "AutoNavi Information Technology Co. Ltd."
+        },
+        {
+          "rank": 18,
+          "appId": "600273928",
+          "name": "云闪付-银行业统一移动支付App",
+          "publisher": "中国银联"
+        },
+        {
           "rank": 19,
-          "appId": "1039727169",
-          "name": "交管12123",
-          "publisher": "公安部交通管理科学研究所"
+          "appId": "1584095090",
+          "name": "2Camera 双摄相机 DualShot Recorder",
+          "publisher": "6X Studio LLC"
         },
         {
           "rank": 20,
@@ -440,21 +440,21 @@
         },
         {
           "rank": 21,
-          "appId": "6756863766",
-          "name": "抖省省 - 抖音官方团购平台",
-          "publisher": "Beijing Douyin Technology Co., Ltd."
+          "appId": "741292507",
+          "name": "小红书 - 你的生活兴趣社区",
+          "publisher": "Xingin"
         },
         {
           "rank": 22,
-          "appId": "1160172628",
-          "name": "夸克-AI旗舰应用",
-          "publisher": "广州市动悦信息技术有限公司"
+          "appId": "1039727169",
+          "name": "交管12123",
+          "publisher": "公安部交通管理科学研究所"
         },
         {
           "rank": 23,
-          "appId": "564818797",
-          "name": "铁路12306",
-          "publisher": "中国铁道科学研究院集团有限公司"
+          "appId": "6756863766",
+          "name": "抖省省 - 抖音官方团购平台",
+          "publisher": "Beijing Douyin Technology Co., Ltd."
         },
         {
           "rank": 24,
@@ -464,33 +464,33 @@
         },
         {
           "rank": 25,
-          "appId": "350962117",
-          "name": "微博",
-          "publisher": "SINA Corporation"
+          "appId": "592331499",
+          "name": "美颜相机 - 双摄拍照，大家都在玩！",
+          "publisher": "Meitu Technology Co., Ltd."
         },
         {
           "rank": 26,
-          "appId": "741292507",
-          "name": "小红书 - 你的生活兴趣社区",
-          "publisher": "Xingin"
+          "appId": "564818797",
+          "name": "铁路12306",
+          "publisher": "中国铁道科学研究院集团有限公司"
         },
         {
           "rank": 27,
-          "appId": "387682726",
-          "name": "淘宝-万能的淘宝！",
-          "publisher": "浙江淘宝网络有限公司"
-        },
-        {
-          "rank": 28,
           "appId": "1142110895",
           "name": "抖音",
           "publisher": "Beijing Douyin Technology Co., Ltd."
         },
         {
+          "rank": 28,
+          "appId": "387682726",
+          "name": "淘宝-万能的淘宝！",
+          "publisher": "浙江淘宝网络有限公司"
+        },
+        {
           "rank": 29,
-          "appId": "1012871328",
-          "name": "得物 - 得到美好事物",
-          "publisher": "Shanghai Dewu Information Group Co., Ltd."
+          "appId": "440948110",
+          "name": "快手",
+          "publisher": "Beijing Kwai Technology Co., Ltd."
         },
         {
           "rank": 30,
@@ -500,99 +500,99 @@
         },
         {
           "rank": 31,
-          "appId": "440948110",
-          "name": "快手",
-          "publisher": "Beijing Kwai Technology Co., Ltd."
-        },
-        {
-          "rank": 32,
           "appId": "414478124",
           "name": "微信",
           "publisher": "WeChat"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "appId": "444934666",
           "name": "QQ",
           "publisher": "Tencent Technology (Shenzhen) Company Limited"
         },
         {
-          "rank": 34,
-          "appId": "1436002627",
-          "name": "个人所得税",
-          "publisher": "State Administration of Taxation"
-        },
-        {
-          "rank": 35,
-          "appId": "1500526240",
-          "name": "醒图 - 全能修图神器",
-          "publisher": "深圳市脸萌科技有限公司"
-        },
-        {
-          "rank": 36,
-          "appId": "629774477",
-          "name": "芒果TV",
-          "publisher": "快乐阳光"
-        },
-        {
-          "rank": 37,
+          "rank": 33,
           "appId": "507097717",
           "name": "阿里巴巴(1688)-货源批发采购进货市场",
           "publisher": "杭州阿里巴巴广告有限公司"
         },
         {
-          "rank": 38,
+          "rank": 34,
+          "appId": "1012871328",
+          "name": "得物 - 得到美好事物",
+          "publisher": "Shanghai Dewu Information Group Co., Ltd."
+        },
+        {
+          "rank": 35,
+          "appId": "1436002627",
+          "name": "个人所得税",
+          "publisher": "State Administration of Taxation"
+        },
+        {
+          "rank": 36,
           "appId": "1503466530",
           "name": "迅雷-高速传输,网盘,4K原画",
           "publisher": "深圳市迅雷网络技术有限公司"
         },
         {
+          "rank": 37,
+          "appId": "629774477",
+          "name": "芒果TV",
+          "publisher": "快乐阳光"
+        },
+        {
+          "rank": 38,
+          "appId": "1500526240",
+          "name": "醒图 - 全能修图神器",
+          "publisher": "深圳市脸萌科技有限公司"
+        },
+        {
           "rank": 39,
+          "appId": "350962117",
+          "name": "微博",
+          "publisher": "SINA Corporation"
+        },
+        {
+          "rank": 40,
           "appId": "515651240",
           "name": "中国农业银行",
           "publisher": "中国农业银行"
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "appId": "477927812",
+          "name": "百度贴吧",
+          "publisher": "Beijing Baidu Netcom Science & Technology Co.,Ltd"
+        },
+        {
+          "rank": 42,
           "appId": "586871187",
           "name": "UC浏览器-随心搜·畅快看",
           "publisher": "UCWeb Mobile Private Limited"
         },
         {
-          "rank": 41,
+          "rank": 43,
           "appId": "423514795",
           "name": "中国工商银行",
           "publisher": "Industrial and Commercial Bank of China"
         },
         {
-          "rank": 42,
-          "appId": "592331499",
-          "name": "美颜相机 - 双摄拍照，大家都在玩！",
-          "publisher": "Meitu Technology Co., Ltd."
-        },
-        {
-          "rank": 43,
-          "appId": "1319071502",
-          "name": "今日水印相机-时间地点经纬度打卡拍照",
-          "publisher": "北京小嘿科技有限责任公司"
-        },
-        {
           "rank": 44,
-          "appId": "1087897068",
-          "name": "企业微信",
-          "publisher": "Tencent Technology (Shenzhen) Company Limited"
+          "appId": "1484048379",
+          "name": "腾讯会议-多人实时视频会议软件",
+          "publisher": "Tencent Technology (Shanghai) Company Limited"
         },
         {
           "rank": 45,
-          "appId": "1002355194",
-          "name": "转转-二手官方验",
-          "publisher": "Zhuanzhuan Co.,Ltd."
-        },
-        {
-          "rank": 46,
           "appId": "473225145",
           "name": "QQ邮箱",
           "publisher": "Tencent Technology (Shenzhen) Company Limited"
+        },
+        {
+          "rank": 46,
+          "appId": "1002355194",
+          "name": "转转-二手官方验",
+          "publisher": "Zhuanzhuan Co.,Ltd."
         },
         {
           "rank": 47,
@@ -602,26 +602,26 @@
         },
         {
           "rank": 48,
-          "appId": "1484048379",
-          "name": "腾讯会议-多人实时视频会议软件",
-          "publisher": "Tencent Technology (Shanghai) Company Limited"
+          "appId": "1087897068",
+          "name": "企业微信",
+          "publisher": "Tencent Technology (Shenzhen) Company Limited"
         },
         {
           "rank": 49,
-          "appId": "391965015",
-          "name": "中国建设银行",
-          "publisher": "中国建设银行"
+          "appId": "1319071502",
+          "name": "今日水印相机-时间地点经纬度打卡拍照",
+          "publisher": "北京小嘿科技有限责任公司"
         },
         {
           "rank": 50,
-          "appId": "1435602536",
-          "name": "多闪",
-          "publisher": "Beijing Douyin Technology Co., Ltd."
+          "appId": "887314963",
+          "name": "BOSS直聘-招聘求职找工作招人",
+          "publisher": "北京华品博睿网络技术有限公司"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "cn",
       "kindId": "overall-grossing",
       "kind": "topgrossingapplications",
@@ -672,15 +672,15 @@
         },
         {
           "rank": 8,
-          "appId": "1321803705",
-          "name": "和平精英",
-          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
-        },
-        {
-          "rank": 9,
           "appId": "333206289",
           "name": "支付宝-你的AI生活伙伴",
           "publisher": "Alipay (Hangzhou) Technology Co., Ltd."
+        },
+        {
+          "rank": 9,
+          "appId": "1321803705",
+          "name": "和平精英",
+          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
         },
         {
           "rank": 10,
@@ -696,39 +696,39 @@
         },
         {
           "rank": 12,
-          "appId": "736536022",
-          "name": "哔哩哔哩-弹幕番剧直播高清视频",
-          "publisher": "bilibili"
-        },
-        {
-          "rank": 13,
           "appId": "472208016",
           "name": "酷狗音乐 - 就是歌多",
           "publisher": "Guangzhou KuGou Technology CO. , LTD"
         },
         {
-          "rank": 14,
-          "appId": "1605585211",
-          "name": "汽水音乐 - 随时听好歌",
-          "publisher": "Beijing Douyin Technology Co., Ltd."
-        },
-        {
-          "rank": 15,
-          "appId": "547166701",
-          "name": "百度网盘",
-          "publisher": "Beijing Duyou Science and Technology Co.,Ltd."
-        },
-        {
-          "rank": 16,
+          "rank": 13,
           "appId": "887314963",
           "name": "BOSS直聘-招聘求职找工作招人",
           "publisher": "北京华品博睿网络技术有限公司"
         },
         {
-          "rank": 17,
+          "rank": 14,
+          "appId": "736536022",
+          "name": "哔哩哔哩-弹幕番剧直播高清视频",
+          "publisher": "bilibili"
+        },
+        {
+          "rank": 15,
           "appId": "336141475",
           "name": "优酷视频-《谷雨》全网独播",
           "publisher": "Youku.com Inc."
+        },
+        {
+          "rank": 16,
+          "appId": "1605585211",
+          "name": "汽水音乐 - 随时听好歌",
+          "publisher": "Beijing Douyin Technology Co., Ltd."
+        },
+        {
+          "rank": 17,
+          "appId": "547166701",
+          "name": "百度网盘",
+          "publisher": "Beijing Duyou Science and Technology Co.,Ltd."
         },
         {
           "rank": 18,
@@ -738,87 +738,87 @@
         },
         {
           "rank": 19,
-          "appId": "6535673811",
-          "name": "无畏契约：源能行动",
-          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
-        },
-        {
-          "rank": 20,
           "appId": "6478492012",
           "name": "无尽冬日",
           "publisher": "Shanghai Qingdi Technology Company Limited"
         },
         {
-          "rank": 21,
-          "appId": "1455054000",
-          "name": "英雄联盟手游",
+          "rank": 20,
+          "appId": "6535673811",
+          "name": "无畏契约：源能行动",
           "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "appId": "1500526240",
           "name": "醒图 - 全能修图神器",
           "publisher": "深圳市脸萌科技有限公司"
         },
         {
-          "rank": 23,
-          "appId": "791532221",
-          "name": "开心消消乐",
-          "publisher": "乐元素"
+          "rank": 22,
+          "appId": "1455054000",
+          "name": "英雄联盟手游",
+          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "appId": "1478101301",
           "name": "金铲铲之战",
           "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
         },
         {
+          "rank": 24,
+          "appId": "791532221",
+          "name": "开心消消乐",
+          "publisher": "乐元素"
+        },
+        {
           "rank": 25,
-          "appId": "1525863146",
-          "name": "捕鱼大作战-街机打鱼游戏王者",
-          "publisher": "Tuyoo Online HK Limited"
-        },
-        {
-          "rank": 26,
-          "appId": "416048305",
-          "name": "美图秀秀:视频/图片/Live人像精修工具",
-          "publisher": "Meitu Technology Co., Ltd."
-        },
-        {
-          "rank": 27,
-          "appId": "440948110",
-          "name": "快手",
-          "publisher": "Beijing Kwai Technology Co., Ltd."
-        },
-        {
-          "rank": 28,
-          "appId": "1160172628",
-          "name": "夸克-AI旗舰应用",
-          "publisher": "广州市动悦信息技术有限公司"
-        },
-        {
-          "rank": 29,
-          "appId": "955396648",
-          "name": "火影忍者",
-          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
-        },
-        {
-          "rank": 30,
           "appId": "629774477",
           "name": "芒果TV",
           "publisher": "快乐阳光"
         },
         {
-          "rank": 31,
-          "appId": "1523037824",
-          "name": "崩坏：星穹铁道",
-          "publisher": "miHoYo Games"
+          "rank": 26,
+          "appId": "440948110",
+          "name": "快手",
+          "publisher": "Beijing Kwai Technology Co., Ltd."
         },
         {
-          "rank": 32,
+          "rank": 27,
+          "appId": "1525863146",
+          "name": "捕鱼大作战-街机打鱼游戏王者",
+          "publisher": "Tuyoo Online HK Limited"
+        },
+        {
+          "rank": 28,
+          "appId": "416048305",
+          "name": "美图秀秀:视频/图片/Live人像精修工具",
+          "publisher": "Meitu Technology Co., Ltd."
+        },
+        {
+          "rank": 29,
+          "appId": "1160172628",
+          "name": "夸克-AI旗舰应用",
+          "publisher": "广州市动悦信息技术有限公司"
+        },
+        {
+          "rank": 30,
           "appId": "6474293468",
           "name": "向僵尸开炮-尸潮来袭",
           "publisher": "Hainan Shengchang Network Technology Co., Ltd."
+        },
+        {
+          "rank": 31,
+          "appId": "955396648",
+          "name": "火影忍者",
+          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
+        },
+        {
+          "rank": 32,
+          "appId": "539988420",
+          "name": "他趣-主动就有故事",
+          "publisher": "Hubei Haibao Taqu Entertainment Technology Co., Ltd"
         },
         {
           "rank": 33,
@@ -828,33 +828,33 @@
         },
         {
           "rank": 34,
-          "appId": "539988420",
-          "name": "他趣-主动就有故事",
-          "publisher": "Hubei Haibao Taqu Entertainment Technology Co., Ltd"
-        },
-        {
-          "rank": 35,
           "appId": "6752632961",
           "name": "时尚百货城",
           "publisher": "深圳市爱的番茄科技有限公司"
         },
         {
+          "rank": 35,
+          "appId": "1523037824",
+          "name": "崩坏：星穹铁道",
+          "publisher": "miHoYo Games"
+        },
+        {
           "rank": 36,
-          "appId": "1282917929",
-          "name": "幻唐志：逍遥外传",
-          "publisher": "Guangzhou Duoyi Network Co., Ltd."
-        },
-        {
-          "rank": 37,
-          "appId": "388627783",
-          "name": "扫描全能王-手机扫描仪 & PDF图片转文字",
-          "publisher": "INTSIG Information Co., Ltd"
-        },
-        {
-          "rank": 38,
           "appId": "446324234",
           "name": "腾讯欢乐斗地主",
           "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
+        },
+        {
+          "rank": 37,
+          "appId": "741292507",
+          "name": "小红书 - 你的生活兴趣社区",
+          "publisher": "Xingin"
+        },
+        {
+          "rank": 38,
+          "appId": "444934666",
+          "name": "QQ",
+          "publisher": "Tencent Technology (Shenzhen) Company Limited"
         },
         {
           "rank": 39,
@@ -870,68 +870,68 @@
         },
         {
           "rank": 41,
-          "appId": "741292507",
-          "name": "小红书 - 你的生活兴趣社区",
-          "publisher": "Xingin"
-        },
-        {
-          "rank": 42,
-          "appId": "1474572440",
-          "name": "三国志·战略版",
-          "publisher": "Lingxi Games Inc."
-        },
-        {
-          "rank": 43,
           "appId": "1477031443",
           "name": "抖音极速版",
           "publisher": "Beijing Douyin Technology Co., Ltd."
         },
         {
-          "rank": 44,
+          "rank": 42,
           "appId": "820847275",
           "name": "多乐够级",
           "publisher": "Beijing Pengqu Technology Co.,Ltd."
         },
         {
-          "rank": 45,
+          "rank": 43,
           "appId": "891616303",
           "name": "指尖四川麻将",
           "publisher": "Shenzhen Zen-Game Technology CO.,LTD"
         },
         {
-          "rank": 46,
-          "appId": "444934666",
-          "name": "QQ",
-          "publisher": "Tencent Technology (Shenzhen) Company Limited"
+          "rank": 44,
+          "appId": "388627783",
+          "name": "扫描全能王-手机扫描仪 & PDF图片转文字",
+          "publisher": "INTSIG Information Co., Ltd"
         },
         {
-          "rank": 47,
+          "rank": 45,
           "appId": "432274380",
           "name": "知乎",
           "publisher": "Beijing Zhizhetianxia Technology Co., Ltd."
         },
         {
-          "rank": 48,
+          "rank": 46,
           "appId": "1561105019",
           "name": "捕鱼大咖-畅爽3D街机捕鱼游戏",
           "publisher": "游酷盛世科技(北京)有限公司"
         },
         {
+          "rank": 47,
+          "appId": "1474572440",
+          "name": "三国志·战略版",
+          "publisher": "Lingxi Games Inc."
+        },
+        {
+          "rank": 48,
+          "appId": "1032287195",
+          "name": "Soul-年轻人的社交元宇宙",
+          "publisher": "Shanghai Soul Gate Technology Limited Corporation"
+        },
+        {
           "rank": 49,
-          "appId": "1467190251",
-          "name": "原神",
-          "publisher": "miHoYo Games"
+          "appId": "1042545880",
+          "name": "穿越火线-枪战王者",
+          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
         },
         {
           "rank": 50,
-          "appId": "1544884479",
-          "name": "蛋仔派对",
-          "publisher": "网易移动游戏"
+          "appId": "1467190251",
+          "name": "原神",
+          "publisher": "miHoYo Games"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "cn",
       "kindId": "puzzle-grossing",
       "kind": "topgrossingapplications",
@@ -976,15 +976,15 @@
         },
         {
           "rank": 7,
-          "appId": "1612426573",
-          "name": "梦想城镇 - Township",
-          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
-        },
-        {
-          "rank": 8,
           "appId": "897447840",
           "name": "宾果消消消",
           "publisher": "柠檬微趣"
+        },
+        {
+          "rank": 8,
+          "appId": "1612426573",
+          "name": "梦想城镇 - Township",
+          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
         },
         {
           "rank": 9,
@@ -994,15 +994,15 @@
         },
         {
           "rank": 10,
-          "appId": "6748513887",
-          "name": "梦幻消除战",
-          "publisher": "GuangZhou Xishi Network Technology Company Limited"
-        },
-        {
-          "rank": 11,
           "appId": "6740021287",
           "name": "假日乐消消",
           "publisher": "Shanghai Happy Elements Network Technology Development Co., Ltd."
+        },
+        {
+          "rank": 11,
+          "appId": "6748513887",
+          "name": "梦幻消除战",
+          "publisher": "GuangZhou Xishi Network Technology Company Limited"
         },
         {
           "rank": 12,
@@ -1042,15 +1042,15 @@
         },
         {
           "rank": 18,
-          "appId": "6742597160",
-          "name": "植物大战僵尸3",
-          "publisher": "Hainan Mengxing Technology Co.,Ltd"
-        },
-        {
-          "rank": 19,
           "appId": "6444305375",
           "name": "麦吉大改造",
           "publisher": "北京乐益时空科技有限公司"
+        },
+        {
+          "rank": 19,
+          "appId": "6742597160",
+          "name": "植物大战僵尸3",
+          "publisher": "Hainan Mengxing Technology Co.,Ltd"
         },
         {
           "rank": 20,
@@ -1060,87 +1060,87 @@
         },
         {
           "rank": 21,
-          "appId": "1633596279",
-          "name": "消消英雄2",
-          "publisher": "Beijing Meila Technology Partnership (Limited Partnership)"
-        },
-        {
-          "rank": 22,
           "appId": "680514349",
           "name": "欢乐升级",
           "publisher": "Tencent Mobile Games"
         },
         {
-          "rank": 23,
-          "appId": "6747665159",
-          "name": "萤火夜话 - 纸嫁衣休闲合成游戏",
-          "publisher": "Xingchi Entertainment Technology Co., Ltd."
+          "rank": 22,
+          "appId": "1633596279",
+          "name": "消消英雄2",
+          "publisher": "Beijing Meila Technology Partnership (Limited Partnership)"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "appId": "1644374326",
           "name": "羊了个羊：星球",
           "publisher": "Beijing Jianyou Technology Co., Ltd."
         },
         {
-          "rank": 25,
+          "rank": 24,
           "appId": "1464496261",
           "name": "花儿爱消除",
           "publisher": "Shanghai Guyue Network Technology Co.,Ltd"
         },
         {
-          "rank": 26,
-          "appId": "1022258543",
-          "name": "梦王国与沉睡的100王子",
-          "publisher": "BILIBILI HK LIMITED"
+          "rank": 25,
+          "appId": "6747665159",
+          "name": "萤火夜话 - 纸嫁衣休闲合成游戏",
+          "publisher": "Xingchi Entertainment Technology Co., Ltd."
         },
         {
-          "rank": 27,
+          "rank": 26,
           "appId": "834878585",
           "name": "消灭星星全新版",
           "publisher": "ZPLAY (Beijing) Information Technology Co.,Ltd."
         },
         {
-          "rank": 28,
+          "rank": 27,
           "appId": "6474996515",
           "name": "同盟神探-每周四案情更新",
           "publisher": "Martian Interactive Entertainment Limited"
         },
         {
+          "rank": 28,
+          "appId": "1022258543",
+          "name": "梦王国与沉睡的100王子",
+          "publisher": "BILIBILI HK LIMITED"
+        },
+        {
           "rank": 29,
-          "appId": "1290933887",
-          "name": "巴达木斗地主-Badam Oyuni",
-          "publisher": "Guangzhou Bawan Information Technology Co., Ltd."
-        },
-        {
-          "rank": 30,
-          "appId": "6740612457",
-          "name": "喵呜庄园 - 猫咪餐厅动物治愈系游戏",
-          "publisher": "Happy Bubble Information Technology Co., Ltd."
-        },
-        {
-          "rank": 31,
-          "appId": "1447072116",
-          "name": "梦境侦探",
-          "publisher": "DianDian Interactive (Beijing) Technology Ltd"
-        },
-        {
-          "rank": 32,
-          "appId": "1470559079",
-          "name": "吉祥棋牌斗地主移动版 - 欢乐单机游戏",
-          "publisher": "XZe Network Technology Co.,Ltd"
-        },
-        {
-          "rank": 33,
           "appId": "979859989",
           "name": "JJ象棋-经典中国象棋游戏",
           "publisher": "JJWorld(Beijing) Network Technology Company Limited"
         },
         {
-          "rank": 34,
+          "rank": 30,
           "appId": "940292587",
           "name": "探寻者记：迷城奇案",
           "publisher": "Mytona"
+        },
+        {
+          "rank": 31,
+          "appId": "1290933887",
+          "name": "巴达木斗地主-Badam Oyuni",
+          "publisher": "Guangzhou Bawan Information Technology Co., Ltd."
+        },
+        {
+          "rank": 32,
+          "appId": "6740612457",
+          "name": "喵呜庄园 - 猫咪餐厅动物治愈系游戏",
+          "publisher": "Happy Bubble Information Technology Co., Ltd."
+        },
+        {
+          "rank": 33,
+          "appId": "1112044292",
+          "name": "牌乐门",
+          "publisher": "Hainan Golden Chess Entertainment Technology Co., Ltd."
+        },
+        {
+          "rank": 34,
+          "appId": "1447072116",
+          "name": "梦境侦探",
+          "publisher": "DianDian Interactive (Beijing) Technology Ltd"
         },
         {
           "rank": 35,
@@ -1150,21 +1150,21 @@
         },
         {
           "rank": 36,
-          "appId": "1112044292",
-          "name": "牌乐门",
-          "publisher": "Hainan Golden Chess Entertainment Technology Co., Ltd."
+          "appId": "1470559079",
+          "name": "吉祥棋牌斗地主移动版 - 欢乐单机游戏",
+          "publisher": "XZe Network Technology Co.,Ltd"
         },
         {
           "rank": 37,
-          "appId": "6776200247",
-          "name": "梦幻合厨 - 趣味合成小游戏",
-          "publisher": "Shanghai Diguo Network Technology Co., Ltd."
-        },
-        {
-          "rank": 38,
           "appId": "1664066060",
           "name": "整理师的任务 - 货柜爱消除 收纳消除游戏",
           "publisher": "Togother Many Information Technology Co, Ltd."
+        },
+        {
+          "rank": 38,
+          "appId": "6776200247",
+          "name": "梦幻合厨 - 趣味合成小游戏",
+          "publisher": "Shanghai Diguo Network Technology Co., Ltd."
         },
         {
           "rank": 39,
@@ -1174,39 +1174,39 @@
         },
         {
           "rank": 40,
-          "appId": "6738722534",
-          "name": "密室逃脱求生系列1极地冒险",
-          "publisher": "STAR GAME"
-        },
-        {
-          "rank": 41,
-          "appId": "1582832845",
-          "name": "纪念碑谷",
-          "publisher": "ustwo games"
-        },
-        {
-          "rank": 42,
           "appId": "6786576345",
           "name": "吃遍全宇宙",
           "publisher": "广州趣远网络科技有限公司"
         },
         {
-          "rank": 43,
-          "appId": "1238778050",
-          "name": "纪念碑谷2",
-          "publisher": "ustwo games"
-        },
-        {
-          "rank": 44,
+          "rank": 41,
           "appId": "1625660954",
           "name": "甜点消消-趣味合成家装",
           "publisher": "CreativeWorks"
         },
         {
+          "rank": 42,
+          "appId": "6738722534",
+          "name": "密室逃脱求生系列1极地冒险",
+          "publisher": "STAR GAME"
+        },
+        {
+          "rank": 43,
+          "appId": "1582832845",
+          "name": "纪念碑谷",
+          "publisher": "ustwo games"
+        },
+        {
+          "rank": 44,
+          "appId": "1238778050",
+          "name": "纪念碑谷2",
+          "publisher": "ustwo games"
+        },
+        {
           "rank": 45,
-          "appId": "6755811785",
-          "name": "暖暖庄园-拯救母女计划:休闲合成家装模拟经营游戏",
-          "publisher": "Shenzhen Erxiang Technology Co., Ltd."
+          "appId": "6596785286",
+          "name": "盗墓笔记：启程",
+          "publisher": "Shangrao Shengluo Network Technology Co., Ltd."
         },
         {
           "rank": 46,
@@ -1216,21 +1216,21 @@
         },
         {
           "rank": 47,
-          "appId": "6451040417",
-          "name": "麦吉庄园",
-          "publisher": "北京乐益时空科技有限公司"
-        },
-        {
-          "rank": 48,
-          "appId": "6443928984",
-          "name": "糖果精灵传奇-爱丽丝合合仙境",
-          "publisher": "HiPlay"
-        },
-        {
-          "rank": 49,
           "appId": "6470335925",
           "name": "豆豆的村庄",
           "publisher": "LT Fun Inc."
+        },
+        {
+          "rank": 48,
+          "appId": "6755811785",
+          "name": "暖暖庄园-拯救母女计划:休闲合成家装模拟经营游戏",
+          "publisher": "Shenzhen Erxiang Technology Co., Ltd."
+        },
+        {
+          "rank": 49,
+          "appId": "6451040417",
+          "name": "麦吉庄园",
+          "publisher": "北京乐益时空科技有限公司"
         },
         {
           "rank": 50,
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "jp",
       "kindId": "casual-grossing",
       "kind": "topgrossingapplications",
@@ -1256,15 +1256,15 @@
         },
         {
           "rank": 2,
-          "appId": "1482155847",
-          "name": "ロイヤルマッチ（Royal Match)",
-          "publisher": "Dream Games"
-        },
-        {
-          "rank": 3,
           "appId": "1176027022",
           "name": "トゥーンブラスト",
           "publisher": "Peak Games"
+        },
+        {
+          "rank": 3,
+          "appId": "1482155847",
+          "name": "ロイヤルマッチ（Royal Match)",
+          "publisher": "Dream Games"
         },
         {
           "rank": 4,
@@ -1286,45 +1286,45 @@
         },
         {
           "rank": 7,
-          "appId": "6755455500",
-          "name": "ハリウッドマージ",
-          "publisher": "VoyagerOne"
-        },
-        {
-          "rank": 8,
           "appId": "1105855019",
           "name": "ガーデンスケイプ (Gardenscapes)",
           "publisher": "Playrix"
         },
         {
-          "rank": 9,
-          "appId": "638689075",
-          "name": "タウンシップ (Township)",
-          "publisher": "Playrix"
+          "rank": 8,
+          "appId": "6755455500",
+          "name": "ハリウッドマージ",
+          "publisher": "VoyagerOne"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "appId": "1195621598",
           "name": "ホームスケイプ (Homescapes)",
           "publisher": "Playrix"
         },
         {
+          "rank": 10,
+          "appId": "638689075",
+          "name": "タウンシップ (Township)",
+          "publisher": "Playrix"
+        },
+        {
           "rank": 11,
+          "appId": "1229016807",
+          "name": "ブロスタ",
+          "publisher": "Supercell"
+        },
+        {
+          "rank": 12,
           "appId": "1606549505",
           "name": "ロイヤルキングダム (Royal Kingdom)",
           "publisher": "Dream Games"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "appId": "664575829",
           "name": "フィッシュダム(Fishdom)",
           "publisher": "Playrix"
-        },
-        {
-          "rank": 13,
-          "appId": "6741567125",
-          "name": "モンスターサバイバル",
-          "publisher": "Farlight Games"
         },
         {
           "rank": 14,
@@ -1334,9 +1334,9 @@
         },
         {
           "rank": 15,
-          "appId": "1229016807",
-          "name": "ブロスタ",
-          "publisher": "Supercell"
+          "appId": "6741567125",
+          "name": "モンスターサバイバル",
+          "publisher": "Farlight Games"
         },
         {
           "rank": 16,
@@ -1346,33 +1346,33 @@
         },
         {
           "rank": 17,
-          "appId": "1556357398",
-          "name": "Pikmin Bloom",
-          "publisher": "Scopely Explore, Inc."
-        },
-        {
-          "rank": 18,
-          "appId": "6755585789",
-          "name": "チート勇者～インベントリ攻略ゲー～RPG",
-          "publisher": "5minlab Co., Ltd."
-        },
-        {
-          "rank": 19,
-          "appId": "1020109860",
-          "name": "ゴールデンホイヤー スロット〜パチンコ·パチスロカジノゲーム",
-          "publisher": "International Games System Co., Ltd."
-        },
-        {
-          "rank": 20,
           "appId": "6742937695",
           "name": "ペタペタペンギン団",
           "publisher": "MOREFUN (H.K.) LIMITED"
         },
         {
+          "rank": 18,
+          "appId": "1020109860",
+          "name": "ゴールデンホイヤー スロット〜パチンコ·パチスロカジノゲーム",
+          "publisher": "International Games System Co., Ltd."
+        },
+        {
+          "rank": 19,
+          "appId": "6755585789",
+          "name": "チート勇者～インベントリ攻略ゲー～RPG",
+          "publisher": "5minlab Co., Ltd."
+        },
+        {
+          "rank": 20,
+          "appId": "1556357398",
+          "name": "Pikmin Bloom",
+          "publisher": "Scopely Explore, Inc."
+        },
+        {
           "rank": 21,
-          "appId": "6756044415",
-          "name": "今生は恋より茶に生きる",
-          "publisher": "FUNDOLL GLOBAL LIMITED"
+          "appId": "6757722046",
+          "name": "Butcher Hero：放置系アクションRPG",
+          "publisher": "MULTICAST GAMES LIMITED"
         },
         {
           "rank": 22,
@@ -1382,27 +1382,27 @@
         },
         {
           "rank": 23,
+          "appId": "6756044415",
+          "name": "今生は恋より茶に生きる",
+          "publisher": "FUNDOLL GLOBAL LIMITED"
+        },
+        {
+          "rank": 24,
           "appId": "6618142292",
           "name": "フランベシェフ：マージ＆クッキング",
           "publisher": "Microfun Limited"
         },
         {
-          "rank": 24,
-          "appId": "6757722046",
-          "name": "Butcher Hero：放置系アクションRPG",
-          "publisher": "MULTICAST GAMES LIMITED"
-        },
-        {
           "rank": 25,
-          "appId": "6444043291",
-          "name": "Domino Dreams™ ドミノドリームス",
-          "publisher": "SuperPlay"
-        },
-        {
-          "rank": 26,
           "appId": "6789467258",
           "name": "ダダエース",
           "publisher": "Gorilla Games"
+        },
+        {
+          "rank": 26,
+          "appId": "6444043291",
+          "name": "Domino Dreams™ ドミノドリームス",
+          "publisher": "SuperPlay"
         },
         {
           "rank": 27,
@@ -1412,45 +1412,45 @@
         },
         {
           "rank": 28,
-          "appId": "6449094229",
-          "name": "マッチファクトリー(Match Factory)!",
-          "publisher": "Peak Games"
-        },
-        {
-          "rank": 29,
           "appId": "6749109552",
           "name": "X-Clash: サバイバル",
           "publisher": "9z Games(HK)"
         },
         {
+          "rank": 29,
+          "appId": "6449094229",
+          "name": "マッチファクトリー(Match Factory)!",
+          "publisher": "Peak Games"
+        },
+        {
           "rank": 30,
+          "appId": "6742122160",
+          "name": "TopTop(トップトップ): サクッと遊んで、パッと友達",
+          "publisher": "MX INNOVATION PTE. LTD."
+        },
+        {
+          "rank": 31,
           "appId": "878506376",
           "name": "LINE POP2 - 簡単マッチ3パズルゲーム",
           "publisher": "LINE Corporation"
         },
         {
-          "rank": 31,
-          "appId": "406889139",
-          "name": "Coin Master - コインマスター",
-          "publisher": "Moon Active"
-        },
-        {
           "rank": 32,
-          "appId": "6752886832",
-          "name": "ホテル・ミステリア",
-          "publisher": "Century Games Innovation Pte. Ltd."
-        },
-        {
-          "rank": 33,
           "appId": "6740043080",
           "name": "Screwdom : ボルトパズルゲーム",
           "publisher": "Zego Global Pte Ltd"
         },
         {
+          "rank": 33,
+          "appId": "6752886832",
+          "name": "ホテル・ミステリア",
+          "publisher": "Century Games Innovation Pte. Ltd."
+        },
+        {
           "rank": 34,
-          "appId": "6764201639",
-          "name": "にゃんこ銃士：放置育成RPG",
-          "publisher": "Neptune Company"
+          "appId": "895761422",
+          "name": "LINE バブル2 - シューティングパズル",
+          "publisher": "LINE Corporation"
         },
         {
           "rank": 35,
@@ -1460,75 +1460,75 @@
         },
         {
           "rank": 36,
-          "appId": "6742122160",
-          "name": "TopTop(トップトップ): サクッと遊んで、パッと友達",
-          "publisher": "MX INNOVATION PTE. LTD."
-        },
-        {
-          "rank": 37,
-          "appId": "6761531281",
-          "name": "マージ・デザート：復讐は蜜の味",
-          "publisher": "Century Games Innovation Pte. Ltd."
-        },
-        {
-          "rank": 38,
-          "appId": "895761422",
-          "name": "LINE バブル2 - シューティングパズル",
-          "publisher": "LINE Corporation"
-        },
-        {
-          "rank": 39,
-          "appId": "1117841866",
-          "name": "エンパイア&パズル（エンパズ）：マッチ3RPG",
-          "publisher": "Small Giant Games"
-        },
-        {
-          "rank": 40,
-          "appId": "6502820653",
-          "name": "アーチャー伝説2",
-          "publisher": "HABBY"
-        },
-        {
-          "rank": 41,
           "appId": "6752672568",
           "name": "Block Out! - Color Sort Puzzle",
           "publisher": "Grand Games A.Ş."
         },
         {
-          "rank": 42,
-          "appId": "6462012491",
-          "name": "ぽちゃガチョ！",
-          "publisher": "QCPlay Inc."
-        },
-        {
-          "rank": 43,
-          "appId": "6745761596",
-          "name": "Coin Master - Board Adventure",
-          "publisher": "Moon Active"
-        },
-        {
-          "rank": 44,
+          "rank": 37,
           "appId": "6769314786",
           "name": "Food Hunt: Pixel Puzzle",
           "publisher": "FUNFINITY PTE. LTD"
         },
         {
-          "rank": 45,
-          "appId": "6760998152",
-          "name": "Family Farm Merge",
+          "rank": 38,
+          "appId": "6761531281",
+          "name": "マージ・デザート：復讐は蜜の味",
           "publisher": "Century Games Innovation Pte. Ltd."
         },
         {
-          "rank": 46,
+          "rank": 39,
+          "appId": "406889139",
+          "name": "Coin Master - コインマスター",
+          "publisher": "Moon Active"
+        },
+        {
+          "rank": 40,
+          "appId": "6764201639",
+          "name": "にゃんこ銃士：放置育成RPG",
+          "publisher": "Neptune Company"
+        },
+        {
+          "rank": 41,
+          "appId": "6462012491",
+          "name": "ぽちゃガチョ！",
+          "publisher": "QCPlay Inc."
+        },
+        {
+          "rank": 42,
           "appId": "6759763476",
           "name": "Bus Traffic Fever!",
           "publisher": "GOODROID,Inc."
         },
         {
-          "rank": 47,
+          "rank": 43,
           "appId": "6503284107",
           "name": "オールインホール (All in Hole)",
           "publisher": "HOMA GAMES"
+        },
+        {
+          "rank": 44,
+          "appId": "6760998152",
+          "name": "Family Farm Merge",
+          "publisher": "Century Games Innovation Pte. Ltd."
+        },
+        {
+          "rank": 45,
+          "appId": "1117841866",
+          "name": "エンパイア&パズル（エンパズ）：マッチ3RPG",
+          "publisher": "Small Giant Games"
+        },
+        {
+          "rank": 46,
+          "appId": "1558803930",
+          "name": "Matching Story - Merge & Match",
+          "publisher": "VERTEX GAMES PTE. LTD."
+        },
+        {
+          "rank": 47,
+          "appId": "6502820653",
+          "name": "アーチャー伝説2",
+          "publisher": "HABBY"
         },
         {
           "rank": 48,
@@ -1538,20 +1538,20 @@
         },
         {
           "rank": 49,
-          "appId": "1558803930",
-          "name": "Matching Story - Merge & Match",
-          "publisher": "VERTEX GAMES PTE. LTD."
+          "appId": "6745761596",
+          "name": "Coin Master - Board Adventure",
+          "publisher": "Moon Active"
         },
         {
           "rank": 50,
-          "appId": "850417475",
-          "name": "キャンディークラッシュソーダ",
-          "publisher": "King"
+          "appId": "1205999125",
+          "name": "Arcaea",
+          "publisher": "lowiro"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "jp",
       "kindId": "overall-free",
       "kind": "topfreeapplications",
@@ -1566,69 +1566,69 @@
         },
         {
           "rank": 2,
+          "appId": "570060128",
+          "name": "Duolingo：英語、韓国語、中国語を学ぼう",
+          "publisher": "Duolingo"
+        },
+        {
+          "rank": 3,
           "appId": "6448311069",
           "name": "ChatGPT",
           "publisher": "OpenAI OpCo, LLC"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "6587576438",
           "name": "setlog",
           "publisher": "new chat"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "appId": "6477489729",
           "name": "Google Gemini",
           "publisher": "Google"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "appId": "882477693",
           "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題",
           "publisher": "U-NEXT Co.,Ltd."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "appId": "6471519217",
           "name": "Bump（旧Zenly）",
           "publisher": "amo"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "appId": "1476359069",
           "name": "マイナアプリ（旧マイナポータルアプリ）",
           "publisher": "デジタル庁"
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "appId": "290033990",
+          "name": "ホットペッパーグルメ",
+          "publisher": "Recruit Co.,Ltd."
+        },
+        {
+          "rank": 10,
+          "appId": "6791493176",
+          "name": "033",
+          "publisher": "Nippon Design Center, Inc."
+        },
+        {
+          "rank": 11,
           "appId": "6473753684",
           "name": "Claude by Anthropic",
           "publisher": "Anthropic PBC"
         },
         {
-          "rank": 9,
-          "appId": "6448176203",
-          "name": "GoodShort(グッドショート)-ショートドラマいつでも",
-          "publisher": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD."
-        },
-        {
-          "rank": 10,
-          "appId": "6451037644",
-          "name": "マツキヨココカラ公式アプリ",
-          "publisher": "株式会社マツキヨココカラ&カンパニー"
-        },
-        {
-          "rank": 11,
-          "appId": "983156458",
-          "name": "Microsoft Authenticator",
-          "publisher": "Microsoft Corporation"
-        },
-        {
           "rank": 12,
-          "appId": "570060128",
-          "name": "Duolingo：英語、韓国語、中国語を学ぼう",
-          "publisher": "Duolingo"
+          "appId": "830340223",
+          "name": "TVer(ティーバー) 民放公式テレビ配信サービス",
+          "publisher": "TVer INC."
         },
         {
           "rank": 13,
@@ -1638,45 +1638,45 @@
         },
         {
           "rank": 14,
-          "appId": "290033990",
-          "name": "ホットペッパーグルメ",
-          "publisher": "Recruit Co.,Ltd."
+          "appId": "6448176203",
+          "name": "GoodShort(グッドショート)-ショートドラマいつでも",
+          "publisher": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD."
         },
         {
           "rank": 15,
-          "appId": "1563102530",
-          "name": "M3デジカルスマート診察券",
-          "publisher": "DigiKar, Inc"
+          "appId": "983156458",
+          "name": "Microsoft Authenticator",
+          "publisher": "Microsoft Corporation"
         },
         {
           "rank": 16,
-          "appId": "1630058362",
-          "name": "はま楽",
-          "publisher": "HAMAZUSHI CO., LTD."
+          "appId": "6451037644",
+          "name": "マツキヨココカラ公式アプリ",
+          "publisher": "株式会社マツキヨココカラ&カンパニー"
         },
         {
           "rank": 17,
-          "appId": "6450435935",
-          "name": "郵便局公式アプリ - 荷物の配送状況の確認や再配達が簡単に",
-          "publisher": "Japan Post Co., Ltd."
-        },
-        {
-          "rank": 18,
           "appId": "1223471316",
           "name": "Shop：追跡・購入・発見",
           "publisher": "Shopify Inc."
         },
         {
-          "rank": 19,
+          "rank": 18,
           "appId": "6446901002",
           "name": "Threads",
           "publisher": "Instagram, Inc."
         },
         {
+          "rank": 19,
+          "appId": "1563102530",
+          "name": "M3デジカルスマート診察券",
+          "publisher": "DigiKar, Inc"
+        },
+        {
           "rank": 20,
-          "appId": "1416481094",
-          "name": "My SoftBank",
-          "publisher": "SoftBank Corp."
+          "appId": "6450435935",
+          "name": "郵便局公式アプリ - 荷物の配送状況の確認や再配達が簡単に",
+          "publisher": "Japan Post Co., Ltd."
         },
         {
           "rank": 21,
@@ -1686,21 +1686,21 @@
         },
         {
           "rank": 22,
-          "appId": "1552990335",
-          "name": "かんたんnetprint－セブン‐イレブンでかんたん印刷",
-          "publisher": "FUJIFILM Business Innovation Corp."
+          "appId": "1630058362",
+          "name": "はま楽",
+          "publisher": "HAMAZUSHI CO., LTD."
         },
         {
           "rank": 23,
-          "appId": "1562641276",
-          "name": "セブン-イレブン マルチコピー",
-          "publisher": "FUJIFILM Business Innovation Corp."
+          "appId": "732775964",
+          "name": "しまむらパーク",
+          "publisher": "しまむら"
         },
         {
           "rank": 24,
-          "appId": "532097000",
-          "name": "ユニバーサル・スタジオ・ジャパン 公式アプリ",
-          "publisher": "NBCUniversal Media, LLC"
+          "appId": "1416481094",
+          "name": "My SoftBank",
+          "publisher": "SoftBank Corp."
         },
         {
           "rank": 25,
@@ -1710,158 +1710,158 @@
         },
         {
           "rank": 26,
-          "appId": "1153448703",
-          "name": "EXアプリ | JR東海公式",
-          "publisher": "Central Japan Railway Company"
-        },
-        {
-          "rank": 27,
-          "appId": "1496925861",
-          "name": "ゆうちょ通帳アプリ-銀行 アプリ",
-          "publisher": "Japan Post Bank Co., Ltd."
-        },
-        {
-          "rank": 28,
-          "appId": "1113037275",
-          "name": "スターバックス ジャパン公式モバイルアプリ",
-          "publisher": "Starbucks Coffee Company"
-        },
-        {
-          "rank": 29,
-          "appId": "535886823",
-          "name": "Google Chrome - ウェブブラウザ",
-          "publisher": "Google"
-        },
-        {
-          "rank": 30,
-          "appId": "507874739",
-          "name": "Google ドライブ - 安全なオンライン ストレージ",
-          "publisher": "Google"
-        },
-        {
-          "rank": 31,
           "appId": "1254341709",
           "name": "GO タクシーが呼べるアプリ - AI予約・配車・迎車・決済",
           "publisher": "GO Inc."
         },
         {
-          "rank": 32,
-          "appId": "1156875272",
-          "name": "Suica",
-          "publisher": "East Japan Railway Company"
-        },
-        {
-          "rank": 33,
-          "appId": "962194608",
-          "name": "Google フォト",
-          "publisher": "Google"
-        },
-        {
-          "rank": 34,
-          "appId": "551942662",
-          "name": "PrintSmash",
-          "publisher": "Sharp Corporation"
-        },
-        {
-          "rank": 35,
-          "appId": "897446215",
-          "name": "Canva(キャンバ): 画像・動画編集 & AIデザイン",
-          "publisher": "Canva"
-        },
-        {
-          "rank": 36,
-          "appId": "6466987025",
-          "name": "DAISOアプリ",
-          "publisher": "株式会社大創産業"
-        },
-        {
-          "rank": 37,
-          "appId": "662011115",
-          "name": "松屋フーズ公式アプリ",
-          "publisher": "Matsuya Foods Co., Ltd."
-        },
-        {
-          "rank": 38,
-          "appId": "1636235979",
-          "name": "ReelShort - オリジナル短尺ドラマ見放題",
-          "publisher": "NewLeaf Publishing"
-        },
-        {
-          "rank": 39,
-          "appId": "6739188587",
-          "name": "Rocket Now : 出前/フードデリバリー",
-          "publisher": "CP One Japan G.K."
-        },
-        {
-          "rank": 40,
+          "rank": 27,
           "appId": "681752345",
           "name": "Trip.com-航空券･ホテルの予約はトリップドットコムで",
           "publisher": "Trip.com Travel Singapore Pte. Ltd."
         },
         {
-          "rank": 41,
+          "rank": 28,
+          "appId": "1552990335",
+          "name": "かんたんnetprint－セブン‐イレブンでかんたん印刷",
+          "publisher": "FUJIFILM Business Innovation Corp."
+        },
+        {
+          "rank": 29,
+          "appId": "1562641276",
+          "name": "セブン-イレブン マルチコピー",
+          "publisher": "FUJIFILM Business Innovation Corp."
+        },
+        {
+          "rank": 30,
+          "appId": "1153448703",
+          "name": "EXアプリ | JR東海公式",
+          "publisher": "Central Japan Railway Company"
+        },
+        {
+          "rank": 31,
+          "appId": "897446215",
+          "name": "Canva(キャンバ): 画像・動画編集 & AIデザイン",
+          "publisher": "Canva"
+        },
+        {
+          "rank": 32,
+          "appId": "6739188587",
+          "name": "Rocket Now : 出前/フードデリバリー",
+          "publisher": "CP One Japan G.K."
+        },
+        {
+          "rank": 33,
+          "appId": "535886823",
+          "name": "Google Chrome - ウェブブラウザ",
+          "publisher": "Google"
+        },
+        {
+          "rank": 34,
+          "appId": "1496925861",
+          "name": "ゆうちょ通帳アプリ-銀行 アプリ",
+          "publisher": "Japan Post Bank Co., Ltd."
+        },
+        {
+          "rank": 35,
+          "appId": "507874739",
+          "name": "Google ドライブ - 安全なオンライン ストレージ",
+          "publisher": "Google"
+        },
+        {
+          "rank": 36,
+          "appId": "1113037275",
+          "name": "スターバックス ジャパン公式モバイルアプリ",
+          "publisher": "Starbucks Coffee Company"
+        },
+        {
+          "rank": 37,
+          "appId": "1156875272",
+          "name": "Suica",
+          "publisher": "East Japan Railway Company"
+        },
+        {
+          "rank": 38,
+          "appId": "532097000",
+          "name": "ユニバーサル・スタジオ・ジャパン 公式アプリ",
+          "publisher": "NBCUniversal Media, LLC"
+        },
+        {
+          "rank": 39,
           "appId": "284815942",
           "name": "Google アプリ",
           "publisher": "Google"
         },
         {
-          "rank": 42,
+          "rank": 40,
           "appId": "1235601864",
           "name": "TikTok ティックトック",
           "publisher": "TikTok Ltd."
         },
         {
-          "rank": 43,
-          "appId": "1138196572",
-          "name": "ファミマのアプリ「ファミペイ」",
-          "publisher": "FamilyMart Co.,Ltd."
-        },
-        {
-          "rank": 44,
-          "appId": "6667104573",
-          "name": "ジハンピ",
-          "publisher": "SUNTORY BEVERAGE SOLUTION LIMITED"
-        },
-        {
-          "rank": 45,
+          "rank": 41,
           "appId": "1527218749",
           "name": "KAUCHE（カウシェ） - ショッピングアプリ",
           "publisher": "KAUCHE, Inc."
         },
         {
+          "rank": 42,
+          "appId": "662011115",
+          "name": "松屋フーズ公式アプリ",
+          "publisher": "Matsuya Foods Co., Ltd."
+        },
+        {
+          "rank": 43,
+          "appId": "1672881483",
+          "name": "7NOW(byセブン-イレブン)デリバリー/フードデリバリー",
+          "publisher": "Seven-Eleven Japan Co., Ltd."
+        },
+        {
+          "rank": 44,
+          "appId": "1409383333",
+          "name": "タイミー｜スキマバイト・単発バイト・短期バイトの求人アプリ",
+          "publisher": "Timee, inc."
+        },
+        {
+          "rank": 45,
+          "appId": "551942662",
+          "name": "PrintSmash",
+          "publisher": "Sharp Corporation"
+        },
+        {
           "rank": 46,
-          "appId": "910133705",
-          "name": "31Club サーティワン公式アプリ",
-          "publisher": "B-R 31 ICE CREAM CO., LTD."
-        },
-        {
-          "rank": 47,
-          "appId": "1435783608",
-          "name": "PayPay",
-          "publisher": "PayPay Corporation"
-        },
-        {
-          "rank": 48,
           "appId": "333903271",
           "name": "X",
           "publisher": "X Corp."
         },
         {
+          "rank": 47,
+          "appId": "6466987025",
+          "name": "DAISOアプリ",
+          "publisher": "株式会社大創産業"
+        },
+        {
+          "rank": 48,
+          "appId": "1138196572",
+          "name": "ファミマのアプリ「ファミペイ」",
+          "publisher": "FamilyMart Co.,Ltd."
+        },
+        {
           "rank": 49,
-          "appId": "585027354",
-          "name": "Google マップ",
-          "publisher": "Google"
+          "appId": "763377066",
+          "name": "食べログ - おいしいお店を見つけて予約できるグルメアプリ",
+          "publisher": "Kakaku.com, Inc."
         },
         {
           "rank": 50,
-          "appId": "1672881483",
-          "name": "7NOW(byセブン-イレブン)デリバリー/フードデリバリー",
-          "publisher": "Seven-Eleven Japan Co., Ltd."
+          "appId": "1113153706",
+          "name": "Microsoft Teams",
+          "publisher": "Microsoft Corporation"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "jp",
       "kindId": "overall-grossing",
       "kind": "topgrossingapplications",
@@ -1870,39 +1870,39 @@
       "entries": [
         {
           "rank": 1,
-          "appId": "1015521325",
-          "name": "Fate/Grand Order",
-          "publisher": "Aniplex Inc."
-        },
-        {
-          "rank": 2,
           "appId": "6448311069",
           "name": "ChatGPT",
           "publisher": "OpenAI OpCo, LLC"
         },
         {
-          "rank": 3,
-          "appId": "6446659989",
-          "name": "学園アイドルマスター",
-          "publisher": "Bandai Namco Entertainment Inc."
+          "rank": 2,
+          "appId": "1015521325",
+          "name": "Fate/Grand Order",
+          "publisher": "Aniplex Inc."
         },
         {
-          "rank": 4,
+          "rank": 3,
           "appId": "544007664",
           "name": "YouTube",
           "publisher": "Google"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "appId": "1091496983",
           "name": "ピッコマ",
           "publisher": "Kakao piccoma Corp."
         },
         {
+          "rank": 5,
+          "appId": "1235601864",
+          "name": "TikTok ティックトック",
+          "publisher": "TikTok Ltd."
+        },
+        {
           "rank": 6,
-          "appId": "1117270703",
-          "name": "eFootball™",
-          "publisher": "KONAMI"
+          "appId": "443904275",
+          "name": "LINE",
+          "publisher": "LINE Corporation"
         },
         {
           "rank": 7,
@@ -1912,27 +1912,27 @@
         },
         {
           "rank": 8,
-          "appId": "1094591345",
-          "name": "Pokémon GO",
-          "publisher": "Scopely Explore, Inc."
-        },
-        {
-          "rank": 9,
-          "appId": "443904275",
-          "name": "LINE",
-          "publisher": "LINE Corporation"
-        },
-        {
-          "rank": 10,
-          "appId": "1235601864",
-          "name": "TikTok ティックトック",
-          "publisher": "TikTok Ltd."
-        },
-        {
-          "rank": 11,
           "appId": "882477693",
           "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題",
           "publisher": "U-NEXT Co.,Ltd."
+        },
+        {
+          "rank": 9,
+          "appId": "1117270703",
+          "name": "eFootball™",
+          "publisher": "KONAMI"
+        },
+        {
+          "rank": 10,
+          "appId": "6446659989",
+          "name": "学園アイドルマスター",
+          "publisher": "Bandai Namco Entertainment Inc."
+        },
+        {
+          "rank": 11,
+          "appId": "1439417234",
+          "name": "ドラゴンクエストウォーク 歩く楽しみが増える位置情報ゲーム",
+          "publisher": "SQUARE ENIX"
         },
         {
           "rank": 12,
@@ -1942,21 +1942,21 @@
         },
         {
           "rank": 13,
+          "appId": "1094591345",
+          "name": "Pokémon GO",
+          "publisher": "Scopely Explore, Inc."
+        },
+        {
+          "rank": 14,
           "appId": "658511662",
           "name": "モンスターストライク",
           "publisher": "XFLAG, Inc."
         },
         {
-          "rank": 14,
+          "rank": 15,
           "appId": "1585915174",
           "name": "勝利の女神：NIKKE",
           "publisher": "Level Infinite"
-        },
-        {
-          "rank": 15,
-          "appId": "1623318294",
-          "name": "ゴシップハーバー：マージ & ストーリー",
-          "publisher": "Microfun Limited"
         },
         {
           "rank": 16,
@@ -1966,33 +1966,33 @@
         },
         {
           "rank": 17,
-          "appId": "6443575749",
-          "name": "ホワイトアウト・サバイバル",
-          "publisher": "Century Games Pte. Ltd."
-        },
-        {
-          "rank": 18,
           "appId": "966142320",
           "name": "音楽 LINE MUSIC 最新の歌や曲・ミュージック多数！",
           "publisher": "LINE MUSIC CORPORATION"
         },
         {
-          "rank": 19,
-          "appId": "1478990007",
-          "name": "アークナイツ",
-          "publisher": "Yostar, Inc."
+          "rank": 18,
+          "appId": "1623318294",
+          "name": "ゴシップハーバー：マージ & ストーリー",
+          "publisher": "Microfun Limited"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "appId": "1599719154",
           "name": "崩壊：スターレイル",
           "publisher": "COGNOSPHERE PTE. LTD."
         },
         {
+          "rank": 20,
+          "appId": "6443575749",
+          "name": "ホワイトアウト・サバイバル",
+          "publisher": "Century Games Pte. Ltd."
+        },
+        {
           "rank": 21,
-          "appId": "940320341",
-          "name": "プロ野球スピリッツＡ",
-          "publisher": "KONAMI"
+          "appId": "6747736697",
+          "name": "ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG",
+          "publisher": "SQUARE ENIX"
         },
         {
           "rank": 22,
@@ -2002,75 +2002,75 @@
         },
         {
           "rank": 23,
-          "appId": "1273064549",
-          "name": "eFootball™ウイコレ CHAMPION SQUADS",
-          "publisher": "KONAMI"
-        },
-        {
-          "rank": 24,
           "appId": "583376064",
           "name": "マッチングアプリ Pairs(ペアーズ) 出会い・恋活・婚活",
           "publisher": "eureka,Inc."
         },
         {
+          "rank": 24,
+          "appId": "940320341",
+          "name": "プロ野球スピリッツＡ",
+          "publisher": "KONAMI"
+        },
+        {
           "rank": 25,
-          "appId": "1482155847",
-          "name": "ロイヤルマッチ（Royal Match)",
-          "publisher": "Dream Games"
+          "appId": "6760274605",
+          "name": "ディズニー スパークリンク・スターズ",
+          "publisher": "coly, Inc."
         },
         {
           "rank": 26,
-          "appId": "389801252",
-          "name": "Instagram",
-          "publisher": "Instagram, Inc."
-        },
-        {
-          "rank": 27,
           "appId": "1176027022",
           "name": "トゥーンブラスト",
           "publisher": "Peak Games"
         },
         {
+          "rank": 27,
+          "appId": "389801252",
+          "name": "Instagram",
+          "publisher": "Instagram, Inc."
+        },
+        {
           "rank": 28,
+          "appId": "852801905",
+          "name": "マッチングアプリ タップル",
+          "publisher": "Tapple, Inc."
+        },
+        {
+          "rank": 29,
+          "appId": "1482155847",
+          "name": "ロイヤルマッチ（Royal Match)",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 30,
           "appId": "1553045339",
           "name": "リヴリーアイランド ペットと暮らす小さな箱庭サイズの島",
           "publisher": "ENSAPIA Corporation"
         },
         {
-          "rank": 29,
-          "appId": "6473753684",
-          "name": "Claude by Anthropic",
-          "publisher": "Anthropic PBC"
-        },
-        {
-          "rank": 30,
+          "rank": 31,
           "appId": "1080235090",
           "name": "マッチングアプリ with(ウィズ) -出会い",
           "publisher": "with, Inc."
         },
         {
-          "rank": 31,
-          "appId": "6756641135",
-          "name": "ホロライブドリームス",
-          "publisher": "QualiArts, Inc."
-        },
-        {
           "rank": 32,
-          "appId": "1579464667",
-          "name": "Pokémon Sleep",
-          "publisher": "The Pokemon Company"
+          "appId": "6448786147",
+          "name": "ラストウォー：サバイバル",
+          "publisher": "FUNFLY PTE. LTD."
         },
         {
           "rank": 33,
-          "appId": "6739554056",
-          "name": "キングショット",
-          "publisher": "Century Games Pte. Ltd."
+          "appId": "1478990007",
+          "name": "アークナイツ",
+          "publisher": "Yostar, Inc."
         },
         {
           "rank": 34,
-          "appId": "1517980891",
-          "name": "パズル&サバイバル",
-          "publisher": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED"
+          "appId": "6473753684",
+          "name": "Claude by Anthropic",
+          "publisher": "Anthropic PBC"
         },
         {
           "rank": 35,
@@ -2080,98 +2080,98 @@
         },
         {
           "rank": 36,
-          "appId": "6471045672",
-          "name": "グルメ・ジャーニー",
-          "publisher": "Century Games Pte. Ltd."
-        },
-        {
-          "rank": 37,
-          "appId": "549416492",
-          "name": "Hulu / フールー 人気ドラマや映画、アニメなどが見放題",
-          "publisher": "HJ Holdings, Inc."
-        },
-        {
-          "rank": 38,
           "appId": "547145938",
           "name": "にゃんこ大戦争",
           "publisher": "ponos corporation"
         },
         {
+          "rank": 37,
+          "appId": "6471045672",
+          "name": "グルメ・ジャーニー",
+          "publisher": "Century Games Pte. Ltd."
+        },
+        {
+          "rank": 38,
+          "appId": "1273064549",
+          "name": "eFootball™ウイコレ CHAMPION SQUADS",
+          "publisher": "KONAMI"
+        },
+        {
           "rank": 39,
+          "appId": "6447160980",
+          "name": "TikTok Lite",
+          "publisher": "TikTok Ltd."
+        },
+        {
+          "rank": 40,
+          "appId": "1517980891",
+          "name": "パズル&サバイバル",
+          "publisher": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED"
+        },
+        {
+          "rank": 41,
+          "appId": "549416492",
+          "name": "Hulu / フールー 人気ドラマや映画、アニメなどが見放題",
+          "publisher": "HJ Holdings, Inc."
+        },
+        {
+          "rank": 42,
           "appId": "6479970832",
           "name": "Pokémon TCG Pocket",
           "publisher": "The Pokemon Company"
         },
         {
-          "rank": 40,
+          "rank": 43,
+          "appId": "6739554056",
+          "name": "キングショット",
+          "publisher": "Century Games Pte. Ltd."
+        },
+        {
+          "rank": 44,
           "appId": "547702041",
           "name": "Tinder (ティンダー) - 出会い・マッチングアプリ",
           "publisher": "Tinder LLC"
         },
         {
-          "rank": 41,
-          "appId": "6475757306",
-          "name": "Disney Solitaire ディズニー ソリティア",
-          "publisher": "SuperPlay"
-        },
-        {
-          "rank": 42,
+          "rank": 45,
           "appId": "945241274",
           "name": "FOD ドラマやアニメなどテレビの動画が見放題！見逃し配信も",
           "publisher": "FujiTV"
         },
         {
-          "rank": 43,
+          "rank": 46,
+          "appId": "998542154",
+          "name": "マガポケ - 人気マンガが毎日楽しめるコミックアプリ",
+          "publisher": "Kodansha Ltd."
+        },
+        {
+          "rank": 47,
+          "appId": "6756641135",
+          "name": "ホロライブドリームス",
+          "publisher": "QualiArts, Inc."
+        },
+        {
+          "rank": 48,
           "appId": "1407165119",
           "name": "めちゃコミック",
           "publisher": "AMUTUS CORPORATION"
         },
         {
-          "rank": 44,
+          "rank": 49,
           "appId": "570060128",
           "name": "Duolingo：英語、韓国語、中国語を学ぼう",
           "publisher": "Duolingo"
         },
         {
-          "rank": 45,
-          "appId": "1322310031",
-          "name": "ONE PIECE バウンティラッシュ - アクションゲーム",
-          "publisher": "Bandai Namco Entertainment Inc."
-        },
-        {
-          "rank": 46,
-          "appId": "6767834940",
-          "name": "トップロード",
-          "publisher": "GAME SPARK PTE. LTD."
-        },
-        {
-          "rank": 47,
-          "appId": "510855668",
-          "name": "Amazon Music: 音楽やポッドキャスト",
-          "publisher": "AMZN Mobile LLC"
-        },
-        {
-          "rank": 48,
-          "appId": "6448786147",
-          "name": "ラストウォー：サバイバル",
-          "publisher": "FUNFLY PTE. LTD."
-        },
-        {
-          "rank": 49,
-          "appId": "6670430706",
-          "name": "DramaWave - 日本 / 韓国 / 人気短編ドラマ",
-          "publisher": "SKYWORK AI PTE LTD"
-        },
-        {
           "rank": 50,
-          "appId": "852801905",
-          "name": "マッチングアプリ タップル",
-          "publisher": "Tapple, Inc."
+          "appId": "6475757306",
+          "name": "Disney Solitaire ディズニー ソリティア",
+          "publisher": "SuperPlay"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "jp",
       "kindId": "puzzle-grossing",
       "kind": "topgrossingapplications",
@@ -2186,9 +2186,9 @@
         },
         {
           "rank": 2,
-          "appId": "1482155847",
-          "name": "ロイヤルマッチ（Royal Match)",
-          "publisher": "Dream Games"
+          "appId": "6760274605",
+          "name": "ディズニー スパークリンク・スターズ",
+          "publisher": "coly, Inc."
         },
         {
           "rank": 3,
@@ -2198,75 +2198,75 @@
         },
         {
           "rank": 4,
+          "appId": "1482155847",
+          "name": "ロイヤルマッチ（Royal Match)",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 5,
           "appId": "6471045672",
           "name": "グルメ・ジャーニー",
           "publisher": "Century Games Pte. Ltd."
         },
         {
-          "rank": 5,
-          "appId": "493470467",
-          "name": "パズル＆ドラゴンズ",
-          "publisher": "GungHo Online Entertainment, Inc."
-        },
-        {
           "rank": 6,
-          "appId": "6755455500",
-          "name": "ハリウッドマージ",
-          "publisher": "VoyagerOne"
-        },
-        {
-          "rank": 7,
           "appId": "1105855019",
           "name": "ガーデンスケイプ (Gardenscapes)",
           "publisher": "Playrix"
         },
         {
-          "rank": 8,
-          "appId": "638689075",
-          "name": "タウンシップ (Township)",
-          "publisher": "Playrix"
+          "rank": 7,
+          "appId": "6755455500",
+          "name": "ハリウッドマージ",
+          "publisher": "VoyagerOne"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "appId": "888615473",
           "name": "LINE ポコポコ：3マッチパズルゲーム",
           "publisher": "LINE Corporation"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "appId": "1195621598",
           "name": "ホームスケイプ (Homescapes)",
           "publisher": "Playrix"
         },
         {
+          "rank": 10,
+          "appId": "493470467",
+          "name": "パズル＆ドラゴンズ",
+          "publisher": "GungHo Online Entertainment, Inc."
+        },
+        {
           "rank": 11,
+          "appId": "638689075",
+          "name": "タウンシップ (Township)",
+          "publisher": "Playrix"
+        },
+        {
+          "rank": 12,
           "appId": "1606549505",
           "name": "ロイヤルキングダム (Royal Kingdom)",
           "publisher": "Dream Games"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "appId": "664575829",
           "name": "フィッシュダム(Fishdom)",
           "publisher": "Playrix"
         },
         {
-          "rank": 13,
-          "appId": "6760274605",
-          "name": "ディズニー スパークリンク・スターズ",
-          "publisher": "coly, Inc."
-        },
-        {
           "rank": 14,
-          "appId": "1032346221",
-          "name": "妖怪ウォッチ ぷにぷに",
-          "publisher": "Level-5 Inc."
-        },
-        {
-          "rank": 15,
           "appId": "724594093",
           "name": "LINE：ディズニー ツムツム",
           "publisher": "LINE Corporation"
+        },
+        {
+          "rank": 15,
+          "appId": "1032346221",
+          "name": "妖怪ウォッチ ぷにぷに",
+          "publisher": "Level-5 Inc."
         },
         {
           "rank": 16,
@@ -2276,9 +2276,9 @@
         },
         {
           "rank": 17,
-          "appId": "951627670",
-          "name": "ドラゴンボールZ ドッカンバトル",
-          "publisher": "Bandai Namco Entertainment Inc."
+          "appId": "1643509748",
+          "name": "マージクッキング テーマレストラン",
+          "publisher": "Happibits"
         },
         {
           "rank": 18,
@@ -2288,87 +2288,87 @@
         },
         {
           "rank": 19,
+          "appId": "951627670",
+          "name": "ドラゴンボールZ ドッカンバトル",
+          "publisher": "Bandai Namco Entertainment Inc."
+        },
+        {
+          "rank": 20,
           "appId": "6503603603",
           "name": "ミステリータウン：マージゲーム (Mystery Town)",
           "publisher": "Cedar Games Studio"
         },
         {
-          "rank": 20,
-          "appId": "1643509748",
-          "name": "マージクッキング テーマレストラン",
-          "publisher": "Happibits"
-        },
-        {
           "rank": 21,
-          "appId": "1521236603",
-          "name": "Travel Town - マージアドベンチャー",
-          "publisher": "Moon Active"
-        },
-        {
-          "rank": 22,
-          "appId": "6753862216",
-          "name": "フードスター（Foodstars）:マージ & クック",
-          "publisher": "Happibits"
-        },
-        {
-          "rank": 23,
           "appId": "1484442152",
           "name": "マージマンション : パズル & ストーリー",
           "publisher": "Metacore Games Oy"
         },
         {
-          "rank": 24,
-          "appId": "6618142292",
-          "name": "フランベシェフ：マージ＆クッキング",
-          "publisher": "Microfun Limited"
+          "rank": 22,
+          "appId": "1521236603",
+          "name": "Travel Town - マージアドベンチャー",
+          "publisher": "Moon Active"
         },
         {
-          "rank": 25,
+          "rank": 23,
+          "appId": "6753862216",
+          "name": "フードスター（Foodstars）:マージ & クック",
+          "publisher": "Happibits"
+        },
+        {
+          "rank": 24,
           "appId": "6779167923",
           "name": "Colony Flow!",
           "publisher": "ABI GLOBAL LTD."
         },
         {
+          "rank": 25,
+          "appId": "6618142292",
+          "name": "フランベシェフ：マージ＆クッキング",
+          "publisher": "Microfun Limited"
+        },
+        {
           "rank": 26,
-          "appId": "6736896540",
-          "name": "ハローキティ：マイドリームストア",
-          "publisher": "ACTGames Co., Ltd."
-        },
-        {
-          "rank": 27,
-          "appId": "6449094229",
-          "name": "マッチファクトリー(Match Factory)!",
-          "publisher": "Peak Games"
-        },
-        {
-          "rank": 28,
           "appId": "6464543369",
           "name": "コナステ メダルコーナー | コナミの メダルゲームが遊べる",
           "publisher": "KONAMI"
         },
         {
+          "rank": 27,
+          "appId": "6736896540",
+          "name": "ハローキティ：マイドリームストア",
+          "publisher": "ACTGames Co., Ltd."
+        },
+        {
+          "rank": 28,
+          "appId": "6449094229",
+          "name": "マッチファクトリー(Match Factory)!",
+          "publisher": "Peak Games"
+        },
+        {
           "rank": 29,
-          "appId": "878506376",
-          "name": "LINE POP2 - 簡単マッチ3パズルゲーム",
-          "publisher": "LINE Corporation"
-        },
-        {
-          "rank": 30,
-          "appId": "6752886832",
-          "name": "ホテル・ミステリア",
-          "publisher": "Century Games Innovation Pte. Ltd."
-        },
-        {
-          "rank": 31,
           "appId": "6504332779",
           "name": "Color Block Jam",
           "publisher": "Rollic Games"
         },
         {
-          "rank": 32,
+          "rank": 30,
+          "appId": "878506376",
+          "name": "LINE POP2 - 簡単マッチ3パズルゲーム",
+          "publisher": "LINE Corporation"
+        },
+        {
+          "rank": 31,
           "appId": "6740043080",
           "name": "Screwdom : ボルトパズルゲーム",
           "publisher": "Zego Global Pte Ltd"
+        },
+        {
+          "rank": 32,
+          "appId": "6747331078",
+          "name": "刀剣乱舞ぱずぎり",
+          "publisher": "EXNOA LLC"
         },
         {
           "rank": 33,
@@ -2378,8 +2378,8 @@
         },
         {
           "rank": 34,
-          "appId": "6761531281",
-          "name": "マージ・デザート：復讐は蜜の味",
+          "appId": "6752886832",
+          "name": "ホテル・ミステリア",
           "publisher": "Century Games Innovation Pte. Ltd."
         },
         {
@@ -2390,9 +2390,9 @@
         },
         {
           "rank": 36,
-          "appId": "1117841866",
-          "name": "エンパイア&パズル（エンパズ）：マッチ3RPG",
-          "publisher": "Small Giant Games"
+          "appId": "1483058899",
+          "name": "プロジェクトメイクオーバー Project Makeover",
+          "publisher": "Magic Tavern, Inc."
         },
         {
           "rank": 37,
@@ -2408,63 +2408,63 @@
         },
         {
           "rank": 39,
-          "appId": "1298368256",
-          "name": "コトダマン-共闘ことばRPG",
-          "publisher": "XFLAG, Inc."
-        },
-        {
-          "rank": 40,
-          "appId": "6462012491",
-          "name": "ぽちゃガチョ！",
-          "publisher": "QCPlay Inc."
-        },
-        {
-          "rank": 41,
           "appId": "6769314786",
           "name": "Food Hunt: Pixel Puzzle",
           "publisher": "FUNFINITY PTE. LTD"
         },
         {
-          "rank": 42,
-          "appId": "1483058899",
-          "name": "プロジェクトメイクオーバー Project Makeover",
-          "publisher": "Magic Tavern, Inc."
-        },
-        {
-          "rank": 43,
-          "appId": "6747331078",
-          "name": "刀剣乱舞ぱずぎり",
-          "publisher": "EXNOA LLC"
-        },
-        {
-          "rank": 44,
-          "appId": "6760998152",
-          "name": "Family Farm Merge",
+          "rank": 40,
+          "appId": "6761531281",
+          "name": "マージ・デザート：復讐は蜜の味",
           "publisher": "Century Games Innovation Pte. Ltd."
         },
         {
-          "rank": 45,
+          "rank": 41,
+          "appId": "6462012491",
+          "name": "ぽちゃガチョ！",
+          "publisher": "QCPlay Inc."
+        },
+        {
+          "rank": 42,
           "appId": "6759763476",
           "name": "Bus Traffic Fever!",
           "publisher": "GOODROID,Inc."
         },
         {
-          "rank": 46,
+          "rank": 43,
+          "appId": "1298368256",
+          "name": "コトダマン-共闘ことばRPG",
+          "publisher": "XFLAG, Inc."
+        },
+        {
+          "rank": 44,
           "appId": "6503284107",
           "name": "オールインホール (All in Hole)",
           "publisher": "HOMA GAMES"
         },
         {
-          "rank": 47,
+          "rank": 45,
+          "appId": "6760998152",
+          "name": "Family Farm Merge",
+          "publisher": "Century Games Innovation Pte. Ltd."
+        },
+        {
+          "rank": 46,
           "appId": "6751056652",
           "name": "Pixel Flow!",
           "publisher": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi"
         },
         {
+          "rank": 47,
+          "appId": "1117841866",
+          "name": "エンパイア&パズル（エンパズ）：マッチ3RPG",
+          "publisher": "Small Giant Games"
+        },
+        {
           "rank": 48,
-          "appId": "1628457619",
-          "name": "東京リベンジャーズ ぱずりべ！全国制覇への道",
-          "publisher": "GOODROID,Inc."
+          "appId": "1558803930",
+          "name": "Matching Story - Merge & Match",
+          "publisher": "VERTEX GAMES PTE. LTD."
         },
         {
           "rank": 49,
@@ -2474,14 +2474,14 @@
         },
         {
           "rank": 50,
-          "appId": "1216575026",
-          "name": "マッチングトン·マンション",
-          "publisher": "Magic Tavern, Inc."
+          "appId": "850417475",
+          "name": "キャンディークラッシュソーダ",
+          "publisher": "King"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "us",
       "kindId": "casual-grossing",
       "kind": "topgrossingapplications",
@@ -2551,7 +2551,7 @@
         {
           "rank": 11,
           "appId": "1195621598",
-          "name": "Homescapes",
+          "name": "Homescapes: Cafe Makeover",
           "publisher": "Playrix"
         },
         {
@@ -2574,21 +2574,21 @@
         },
         {
           "rank": 15,
-          "appId": "6499209744",
-          "name": "Magic Sort!",
-          "publisher": "Grand Games A.Ş."
-        },
-        {
-          "rank": 16,
           "appId": "6756058501",
           "name": "Jelly Busters: Puzzle Game",
           "publisher": "Moon Active"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "appId": "6740043080",
           "name": "Screwdom",
           "publisher": "Zego Global Pte Ltd"
+        },
+        {
+          "rank": 17,
+          "appId": "6499209744",
+          "name": "Magic Sort!",
+          "publisher": "Grand Games A.Ş."
         },
         {
           "rank": 18,
@@ -2598,27 +2598,27 @@
         },
         {
           "rank": 19,
-          "appId": "1484468651",
-          "name": "Dice Dreams™",
-          "publisher": "SuperPlay"
+          "appId": "6479970832",
+          "name": "Pokémon TCG Pocket",
+          "publisher": "The Pokemon Company"
         },
         {
           "rank": 20,
-          "appId": "6618142292",
-          "name": "Flambé®: Merge and Cook",
-          "publisher": "Microfun Limited"
-        },
-        {
-          "rank": 21,
           "appId": "850417475",
           "name": "Candy Crush Soda Saga",
           "publisher": "King"
         },
         {
+          "rank": 21,
+          "appId": "6618142292",
+          "name": "Flambé®: Merge and Cook",
+          "publisher": "Microfun Limited"
+        },
+        {
           "rank": 22,
-          "appId": "6767834940",
-          "name": "Top Lords",
-          "publisher": "GAME SPARK PTE. LTD."
+          "appId": "1484468651",
+          "name": "Dice Dreams™",
+          "publisher": "SuperPlay"
         },
         {
           "rank": 23,
@@ -2628,15 +2628,15 @@
         },
         {
           "rank": 24,
-          "appId": "6479970832",
-          "name": "Pokémon TCG Pocket",
-          "publisher": "The Pokemon Company"
-        },
-        {
-          "rank": 25,
           "appId": "6745761596",
           "name": "Coin Master - Board Adventure",
           "publisher": "Moon Active"
+        },
+        {
+          "rank": 25,
+          "appId": "6767834940",
+          "name": "Top Lords",
+          "publisher": "GAME SPARK PTE. LTD."
         },
         {
           "rank": 26,
@@ -2646,9 +2646,9 @@
         },
         {
           "rank": 27,
-          "appId": "6752886832",
-          "name": "Hotel Legacy: Merge Game",
-          "publisher": "Century Games Innovation Pte. Ltd."
+          "appId": "890378044",
+          "name": "Toy Blast",
+          "publisher": "Peak Games"
         },
         {
           "rank": 28,
@@ -2658,51 +2658,51 @@
         },
         {
           "rank": 29,
-          "appId": "890378044",
-          "name": "Toy Blast",
-          "publisher": "Peak Games"
+          "appId": "6752886832",
+          "name": "Hotel Legacy: Merge Game",
+          "publisher": "Century Games Innovation Pte. Ltd."
         },
         {
           "rank": 30,
-          "appId": "6443755785",
-          "name": "Seaside Escape®: Merge & Story",
-          "publisher": "Microfun Limited"
-        },
-        {
-          "rank": 31,
           "appId": "6762192889",
           "name": "Maze Out! - Tap Puzzle",
           "publisher": "Grand Games A.Ş."
         },
         {
+          "rank": 31,
+          "appId": "6443755785",
+          "name": "Seaside Escape®: Merge & Story",
+          "publisher": "Microfun Limited"
+        },
+        {
           "rank": 32,
-          "appId": "6747028173",
-          "name": "Hole Stars: Puzzle Game",
-          "publisher": "Moon Active"
-        },
-        {
-          "rank": 33,
-          "appId": "6797530374",
-          "name": "Jam Bus:Sandfall",
-          "publisher": "Nova Games Technology Limited"
-        },
-        {
-          "rank": 34,
           "appId": "1607122287",
           "name": "Triple Match 3D",
           "publisher": "Boombox Games LTD"
         },
         {
-          "rank": 35,
-          "appId": "6755455500",
-          "name": "Hollywood Merge",
-          "publisher": "VoyagerOne"
+          "rank": 33,
+          "appId": "6747028173",
+          "name": "Hole Stars: Puzzle Game",
+          "publisher": "Moon Active"
         },
         {
-          "rank": 36,
+          "rank": 34,
+          "appId": "6797530374",
+          "name": "Jam Bus:Sandfall",
+          "publisher": "Nova Games Technology Limited"
+        },
+        {
+          "rank": 35,
           "appId": "6757722046",
           "name": "Butcher Hero: Monster Idle RPG",
           "publisher": "MULTICAST GAMES LIMITED"
+        },
+        {
+          "rank": 36,
+          "appId": "6755455500",
+          "name": "Hollywood Merge",
+          "publisher": "VoyagerOne"
         },
         {
           "rank": 37,
@@ -2712,15 +2712,15 @@
         },
         {
           "rank": 38,
-          "appId": "1223338261",
-          "name": "Solitaire Grand Harvest",
-          "publisher": "Supertreat"
+          "appId": "1229016807",
+          "name": "Brawl Stars",
+          "publisher": "Supercell"
         },
         {
           "rank": 39,
-          "appId": "1562817072",
-          "name": "Mob Control",
-          "publisher": "Voodoo"
+          "appId": "1223338261",
+          "name": "Solitaire Grand Harvest",
+          "publisher": "Supertreat"
         },
         {
           "rank": 40,
@@ -2736,15 +2736,15 @@
         },
         {
           "rank": 42,
-          "appId": "6739792763",
-          "name": "Jackpot Go: Slots Casino",
-          "publisher": "WISE WISHES STUDIO LIMITED"
+          "appId": "6754558455",
+          "name": "Marble Sort: Ball Color Puzzle",
+          "publisher": "Voodoo"
         },
         {
           "rank": 43,
-          "appId": "6446005634",
-          "name": "Hunting Sniper",
-          "publisher": "SPARKS INFORMATION (SINGAPORE) PTE. LTD."
+          "appId": "6740699102",
+          "name": "Hole It 3D",
+          "publisher": "SUPERSONIC STUDIOS LTD"
         },
         {
           "rank": 44,
@@ -2754,27 +2754,27 @@
         },
         {
           "rank": 45,
-          "appId": "6754558455",
-          "name": "Marble Sort: Ball Color Puzzle",
+          "appId": "1562817072",
+          "name": "Mob Control",
           "publisher": "Voodoo"
         },
         {
           "rank": 46,
-          "appId": "6740699102",
-          "name": "Hole It 3D",
-          "publisher": "SUPERSONIC STUDIOS LTD"
-        },
-        {
-          "rank": 47,
           "appId": "6446197181",
           "name": "Glow Fashion Idol",
           "publisher": "Crazy Labs"
         },
         {
+          "rank": 47,
+          "appId": "6739792763",
+          "name": "Jackpot Go: Slots Casino",
+          "publisher": "WISE WISHES STUDIO LIMITED"
+        },
+        {
           "rank": 48,
-          "appId": "1229016807",
-          "name": "Brawl Stars",
-          "publisher": "Supercell"
+          "appId": "6446005634",
+          "name": "Hunting Sniper",
+          "publisher": "SPARKS INFORMATION (SINGAPORE) PTE. LTD."
         },
         {
           "rank": 49,
@@ -2791,7 +2791,7 @@
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "us",
       "kindId": "overall-free",
       "kind": "topfreeapplications",
@@ -2824,45 +2824,45 @@
         },
         {
           "rank": 5,
-          "appId": "1605170923",
-          "name": "GoWish - Your Digital Wishlist",
-          "publisher": "Onskeskyen ApS"
-        },
-        {
-          "rank": 6,
           "appId": "6473753684",
           "name": "Claude by Anthropic",
           "publisher": "Anthropic PBC"
         },
         {
+          "rank": 6,
+          "appId": "1089294040",
+          "name": "Capital One Shopping: Save Now",
+          "publisher": "Wikibuy, LLC"
+        },
+        {
           "rank": 7,
-          "appId": "6754134922",
-          "name": "PineDrama - Short Dramas",
-          "publisher": "TikTok Ltd."
-        },
-        {
-          "rank": 8,
-          "appId": "1632713844",
-          "name": "Kalshi: Trade Sports & Events",
-          "publisher": "KalshiEX LLC"
-        },
-        {
-          "rank": 9,
           "appId": "6477489729",
           "name": "Google Gemini",
           "publisher": "Google"
         },
         {
+          "rank": 8,
+          "appId": "6754134922",
+          "name": "PineDrama - Short Dramas",
+          "publisher": "TikTok Ltd."
+        },
+        {
+          "rank": 9,
+          "appId": "1605170923",
+          "name": "GoWish - Your Digital Wishlist",
+          "publisher": "Onskeskyen ApS"
+        },
+        {
           "rank": 10,
-          "appId": "1500855883",
-          "name": "CapCut: Photo & Video Editor",
-          "publisher": "Bytedance Pte. Ltd"
+          "appId": "983156458",
+          "name": "Microsoft Authenticator",
+          "publisher": "Microsoft Corporation"
         },
         {
           "rank": 11,
-          "appId": "1641486558",
-          "name": "Temu: Shop Like a Billionaire",
-          "publisher": "Temu"
+          "appId": "1632713844",
+          "name": "Kalshi: Trade Sports & Events",
+          "publisher": "KalshiEX LLC"
         },
         {
           "rank": 12,
@@ -2872,9 +2872,9 @@
         },
         {
           "rank": 13,
-          "appId": "284815942",
-          "name": "Google",
-          "publisher": "Google"
+          "appId": "1500855883",
+          "name": "CapCut: Photo & Video Editor",
+          "publisher": "Bytedance Pte. Ltd"
         },
         {
           "rank": 14,
@@ -2884,224 +2884,224 @@
         },
         {
           "rank": 15,
-          "appId": "338137227",
-          "name": "Walmart: Shopping & Savings",
-          "publisher": "Walmart"
+          "appId": "284815942",
+          "name": "Google",
+          "publisher": "Google"
         },
         {
           "rank": 16,
-          "appId": "920098546",
-          "name": "lululemon",
-          "publisher": "lululemon athletica canada inc."
-        },
-        {
-          "rank": 17,
-          "appId": "518684914",
-          "name": "Depop - Buy & Sell Clothes",
-          "publisher": "Depop Ltd"
-        },
-        {
-          "rank": 18,
-          "appId": "310633997",
-          "name": "WhatsApp",
-          "publisher": "WhatsApp Inc."
-        },
-        {
-          "rank": 19,
-          "appId": "835599320",
-          "name": "TikTok - Videos, Shop & LIVE",
-          "publisher": "TikTok Ltd."
-        },
-        {
-          "rank": 20,
-          "appId": "1054033219",
-          "name": "VIZIO Remote (Official)",
-          "publisher": "VIZIO"
-        },
-        {
-          "rank": 21,
-          "appId": "1223471316",
-          "name": "Shop: Track, Pay, Discover",
-          "publisher": "Shopify Inc."
-        },
-        {
-          "rank": 22,
           "appId": "422689480",
           "name": "Gmail - Email by Google",
           "publisher": "Google"
         },
         {
-          "rank": 23,
-          "appId": "983156458",
-          "name": "Microsoft Authenticator",
-          "publisher": "Microsoft Corporation"
+          "rank": 17,
+          "appId": "310633997",
+          "name": "WhatsApp",
+          "publisher": "WhatsApp Inc."
         },
         {
-          "rank": 24,
-          "appId": "1488269261",
-          "name": "Whatnot: Shop, Sell, Connect",
-          "publisher": "Whatnot Inc."
+          "rank": 18,
+          "appId": "1641486558",
+          "name": "Temu: Shop Like a Billionaire",
+          "publisher": "Temu"
         },
         {
-          "rank": 25,
-          "appId": "1636235979",
-          "name": "ReelShort - Stream Drama & TV",
-          "publisher": "NewLeaf Publishing"
+          "rank": 19,
+          "appId": "1223471316",
+          "name": "Shop: Track, Pay, Discover",
+          "publisher": "Shopify Inc."
         },
         {
-          "rank": 26,
-          "appId": "6745274862",
-          "name": "DealSeek: Coupons & Discounts",
-          "publisher": "DealSeek LLC"
+          "rank": 20,
+          "appId": "835599320",
+          "name": "TikTok - Videos, Shop & LIVE",
+          "publisher": "TikTok Ltd."
         },
         {
-          "rank": 27,
-          "appId": "6472232952",
-          "name": "Koupon: Promo Codes & Deals",
-          "publisher": "Koupon Inc."
+          "rank": 21,
+          "appId": "338137227",
+          "name": "Walmart: Shopping & Savings",
+          "publisher": "Walmart"
         },
         {
-          "rank": 28,
-          "appId": "284882215",
-          "name": "Facebook",
-          "publisher": "Meta Platforms, Inc."
-        },
-        {
-          "rank": 29,
-          "appId": "297606951",
-          "name": "Amazon Shopping",
-          "publisher": "AMZN Mobile LLC"
-        },
-        {
-          "rank": 30,
-          "appId": "389801252",
-          "name": "Instagram",
-          "publisher": "Instagram, Inc."
-        },
-        {
-          "rank": 31,
-          "appId": "585027354",
-          "name": "Google Maps",
-          "publisher": "Google"
-        },
-        {
-          "rank": 32,
-          "appId": "544007664",
-          "name": "YouTube",
-          "publisher": "Google"
-        },
-        {
-          "rank": 33,
-          "appId": "6751921248",
-          "name": "Rips by Triumph",
-          "publisher": "Triumph Arcade"
-        },
-        {
-          "rank": 34,
-          "appId": "333903271",
-          "name": "X",
-          "publisher": "X Corp."
-        },
-        {
-          "rank": 35,
-          "appId": "1089294040",
-          "name": "Capital One Shopping: Save Now",
-          "publisher": "Wikibuy, LLC"
-        },
-        {
-          "rank": 36,
-          "appId": "6447582581",
-          "name": "Netflix Game Controller",
-          "publisher": "Netflix, Inc."
-        },
-        {
-          "rank": 37,
-          "appId": "686449807",
-          "name": "Telegram Messenger",
-          "publisher": "Telegram FZ-LLC"
-        },
-        {
-          "rank": 38,
-          "appId": "719972451",
-          "name": "DoorDash: Food, Grocery, More",
-          "publisher": "DoorDash, Inc."
-        },
-        {
-          "rank": 39,
-          "appId": "535886823",
-          "name": "Google Chrome",
-          "publisher": "Google"
-        },
-        {
-          "rank": 40,
-          "appId": "6768593043",
-          "name": "BlinkDrama - Short Dramas",
-          "publisher": "Atlas Ventures Culture & Technology Limited"
-        },
-        {
-          "rank": 41,
-          "appId": "324684580",
-          "name": "Spotify: Music and Podcasts",
-          "publisher": "Spotify"
-        },
-        {
-          "rank": 42,
-          "appId": "711923939",
-          "name": "Cash App",
-          "publisher": "Block, Inc."
-        },
-        {
-          "rank": 43,
-          "appId": "570060128",
-          "name": "Duolingo: Learn Languages",
-          "publisher": "Duolingo"
-        },
-        {
-          "rank": 44,
-          "appId": "1450175505",
-          "name": "Giftful - Wishlist & Registry",
-          "publisher": "Giftful LLC"
-        },
-        {
-          "rank": 45,
-          "appId": "283646709",
-          "name": "PayPal - Pay, Send, Save",
-          "publisher": "PayPal, Inc."
-        },
-        {
-          "rank": 46,
+          "rank": 22,
           "appId": "1113153706",
           "name": "Microsoft Teams",
           "publisher": "Microsoft Corporation"
         },
         {
-          "rank": 47,
+          "rank": 23,
+          "appId": "518684914",
+          "name": "Depop - Buy & Sell Clothes",
+          "publisher": "Depop Ltd"
+        },
+        {
+          "rank": 24,
+          "appId": "1636235979",
+          "name": "ReelShort - Stream Drama & TV",
+          "publisher": "NewLeaf Publishing"
+        },
+        {
+          "rank": 25,
+          "appId": "585027354",
+          "name": "Google Maps",
+          "publisher": "Google"
+        },
+        {
+          "rank": 26,
+          "appId": "284882215",
+          "name": "Facebook",
+          "publisher": "Meta Platforms, Inc."
+        },
+        {
+          "rank": 27,
+          "appId": "1488269261",
+          "name": "Whatnot: Shop, Sell, Connect",
+          "publisher": "Whatnot Inc."
+        },
+        {
+          "rank": 28,
+          "appId": "389801252",
+          "name": "Instagram",
+          "publisher": "Instagram, Inc."
+        },
+        {
+          "rank": 29,
+          "appId": "920098546",
+          "name": "lululemon",
+          "publisher": "lululemon athletica canada inc."
+        },
+        {
+          "rank": 30,
+          "appId": "544007664",
+          "name": "YouTube",
+          "publisher": "Google"
+        },
+        {
+          "rank": 31,
+          "appId": "686449807",
+          "name": "Telegram Messenger",
+          "publisher": "Telegram FZ-LLC"
+        },
+        {
+          "rank": 32,
+          "appId": "570060128",
+          "name": "Duolingo: Learn Languages",
+          "publisher": "Duolingo"
+        },
+        {
+          "rank": 33,
+          "appId": "333903271",
+          "name": "X",
+          "publisher": "X Corp."
+        },
+        {
+          "rank": 34,
+          "appId": "535886823",
+          "name": "Google Chrome",
+          "publisher": "Google"
+        },
+        {
+          "rank": 35,
+          "appId": "6745274862",
+          "name": "DealSeek: Coupons & Discounts",
+          "publisher": "DealSeek LLC"
+        },
+        {
+          "rank": 36,
+          "appId": "6472232952",
+          "name": "Koupon: Promo Codes & Deals",
+          "publisher": "Koupon Inc."
+        },
+        {
+          "rank": 37,
+          "appId": "297606951",
+          "name": "Amazon Shopping",
+          "publisher": "AMZN Mobile LLC"
+        },
+        {
+          "rank": 38,
+          "appId": "6751921248",
+          "name": "Rips by Triumph",
+          "publisher": "Triumph Arcade"
+        },
+        {
+          "rank": 39,
+          "appId": "6768593043",
+          "name": "BlinkDrama - Short Dramas",
+          "publisher": "Atlas Ventures Culture & Technology Limited"
+        },
+        {
+          "rank": 40,
+          "appId": "6803276000",
+          "name": "Claude Duet by Anthropic",
+          "publisher": "Anthropic PBC"
+        },
+        {
+          "rank": 41,
+          "appId": "1054033219",
+          "name": "VIZIO Remote (Official)",
+          "publisher": "VIZIO"
+        },
+        {
+          "rank": 42,
+          "appId": "324684580",
+          "name": "Spotify: Music and Podcasts",
+          "publisher": "Spotify"
+        },
+        {
+          "rank": 43,
+          "appId": "382952264",
+          "name": "MyChart",
+          "publisher": "Epic"
+        },
+        {
+          "rank": 44,
           "appId": "6670324846",
           "name": "Grok",
           "publisher": "X Corp."
         },
         {
+          "rank": 45,
+          "appId": "309735670",
+          "name": "Indeed Job Search",
+          "publisher": "Indeed Inc."
+        },
+        {
+          "rank": 46,
+          "appId": "719972451",
+          "name": "DoorDash: Food, Grocery, More",
+          "publisher": "DoorDash, Inc."
+        },
+        {
+          "rank": 47,
+          "appId": "1370293473",
+          "name": "VPN - Super Unlimited Proxy",
+          "publisher": "Mobile Jump Pte Ltd"
+        },
+        {
           "rank": 48,
-          "appId": "384830320",
-          "name": "Life360: Family Safety & GPS",
-          "publisher": "Life360"
+          "appId": "283646709",
+          "name": "PayPal - Pay, Send, Save",
+          "publisher": "PayPal, Inc."
         },
         {
           "rank": 49,
-          "appId": "1494523953",
-          "name": "OnePay – Mobile Banking",
-          "publisher": "One Finance, Inc."
+          "appId": "1673567402",
+          "name": "Freecash - Get Paid Real Money",
+          "publisher": "Freecash - Get Paid Real Money"
         },
         {
           "rank": 50,
-          "appId": "545519333",
-          "name": "Amazon Prime Video",
-          "publisher": "AMZN Mobile LLC"
+          "appId": "711923939",
+          "name": "Cash App",
+          "publisher": "Block, Inc."
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "us",
       "kindId": "overall-grossing",
       "kind": "topgrossingapplications",
@@ -3134,15 +3134,15 @@
         },
         {
           "rank": 5,
-          "appId": "447188370",
-          "name": "Snapchat",
-          "publisher": "Snap, Inc."
-        },
-        {
-          "rank": 6,
           "appId": "1508186374",
           "name": "Peacock TV: Stream TV & Movies",
           "publisher": "Peacock TV LLC"
+        },
+        {
+          "rank": 6,
+          "appId": "447188370",
+          "name": "Snapchat",
+          "publisher": "Snap, Inc."
         },
         {
           "rank": 7,
@@ -3158,69 +3158,69 @@
         },
         {
           "rank": 9,
-          "appId": "1621328561",
-          "name": "MONOPOLY GO!",
-          "publisher": "Scopely, Inc."
-        },
-        {
-          "rank": 10,
-          "appId": "1094591345",
-          "name": "Pokémon GO",
-          "publisher": "Scopely Explore, Inc."
-        },
-        {
-          "rank": 11,
-          "appId": "329913454",
-          "name": "Crunchyroll",
-          "publisher": "Crunchyroll, LLC"
-        },
-        {
-          "rank": 12,
           "appId": "1666653815",
           "name": "HBO Max: Stream Movies & TV",
           "publisher": "WarnerMedia Global Digital Services, LLC"
         },
         {
-          "rank": 13,
-          "appId": "431946152",
-          "name": "Roblox",
-          "publisher": "Roblox Corporation"
+          "rank": 10,
+          "appId": "329913454",
+          "name": "Crunchyroll",
+          "publisher": "Crunchyroll, LLC"
         },
         {
-          "rank": 14,
-          "appId": "1623318294",
-          "name": "Gossip Harbor®: Merge & Story",
-          "publisher": "Microfun Limited"
+          "rank": 11,
+          "appId": "1621328561",
+          "name": "MONOPOLY GO!",
+          "publisher": "Scopely, Inc."
         },
         {
-          "rank": 15,
-          "appId": "1482155847",
-          "name": "Royal Match",
-          "publisher": "Dream Games"
-        },
-        {
-          "rank": 16,
+          "rank": 12,
           "appId": "1500855883",
           "name": "CapCut: Photo & Video Editor",
           "publisher": "Bytedance Pte. Ltd"
         },
         {
-          "rank": 17,
+          "rank": 13,
           "appId": "288429040",
           "name": "LinkedIn: Community & Network",
           "publisher": "LinkedIn Corporation"
         },
         {
-          "rank": 18,
+          "rank": 14,
           "appId": "1017492454",
           "name": "YouTube Music",
           "publisher": "Google"
         },
         {
-          "rank": 19,
+          "rank": 15,
           "appId": "422689480",
           "name": "Gmail - Email by Google",
           "publisher": "Google"
+        },
+        {
+          "rank": 16,
+          "appId": "384830320",
+          "name": "Life360: Family Safety & GPS",
+          "publisher": "Life360"
+        },
+        {
+          "rank": 17,
+          "appId": "284035177",
+          "name": "Pandora: Personalized Music",
+          "publisher": "Pandora Media, LLC"
+        },
+        {
+          "rank": 18,
+          "appId": "1623318294",
+          "name": "Gossip Harbor®: Merge & Story",
+          "publisher": "Microfun Limited"
+        },
+        {
+          "rank": 19,
+          "appId": "431946152",
+          "name": "Roblox",
+          "publisher": "Roblox Corporation"
         },
         {
           "rank": 20,
@@ -3230,39 +3230,39 @@
         },
         {
           "rank": 21,
-          "appId": "384830320",
-          "name": "Life360: Family Safety & GPS",
-          "publisher": "Life360"
-        },
-        {
-          "rank": 22,
-          "appId": "553834731",
-          "name": "Candy Crush Saga",
-          "publisher": "King"
-        },
-        {
-          "rank": 23,
-          "appId": "284035177",
-          "name": "Pandora: Personalized Music",
-          "publisher": "Pandora Media, LLC"
-        },
-        {
-          "rank": 24,
           "appId": "1446075923",
           "name": "Disney+",
           "publisher": "Disney"
         },
         {
-          "rank": 25,
-          "appId": "547702041",
-          "name": "Tinder Dating App: Date & Chat",
-          "publisher": "Tinder LLC"
+          "rank": 22,
+          "appId": "545519333",
+          "name": "Amazon Prime Video",
+          "publisher": "AMZN Mobile LLC"
         },
         {
-          "rank": 26,
+          "rank": 23,
+          "appId": "1482155847",
+          "name": "Royal Match",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 24,
           "appId": "570060128",
           "name": "Duolingo: Learn Languages",
           "publisher": "Duolingo"
+        },
+        {
+          "rank": 25,
+          "appId": "553834731",
+          "name": "Candy Crush Saga",
+          "publisher": "King"
+        },
+        {
+          "rank": 26,
+          "appId": "547702041",
+          "name": "Tinder Dating App: Date & Chat",
+          "publisher": "Tinder LLC"
         },
         {
           "rank": 27,
@@ -3272,51 +3272,51 @@
         },
         {
           "rank": 28,
-          "appId": "545519333",
-          "name": "Amazon Prime Video",
-          "publisher": "AMZN Mobile LLC"
+          "appId": "1094591345",
+          "name": "Pokémon GO",
+          "publisher": "Scopely Explore, Inc."
         },
         {
           "rank": 29,
-          "appId": "1606549505",
-          "name": "Royal Kingdom",
-          "publisher": "Dream Games"
-        },
-        {
-          "rank": 30,
-          "appId": "6739554056",
-          "name": "Kingshot",
-          "publisher": "Century Games Pte. Ltd."
-        },
-        {
-          "rank": 31,
           "appId": "962194608",
           "name": "Google Photos: Backup & Edit",
           "publisher": "Google"
         },
         {
-          "rank": 32,
-          "appId": "376510438",
-          "name": "Hulu: Stream TV shows & movies",
-          "publisher": "Hulu, LLC"
-        },
-        {
-          "rank": 33,
+          "rank": 30,
           "appId": "379693831",
           "name": "Audible: Audiobooks & Podcasts",
           "publisher": "Audible, Inc."
         },
         {
-          "rank": 34,
+          "rank": 31,
+          "appId": "376510438",
+          "name": "Hulu: Stream TV shows & movies",
+          "publisher": "Hulu, LLC"
+        },
+        {
+          "rank": 32,
           "appId": "672902340",
           "name": "onX Hunt: GPS Hunting Maps",
           "publisher": "onXmaps, Inc."
         },
         {
+          "rank": 33,
+          "appId": "897446215",
+          "name": "Canva AI Photo & Video Editor",
+          "publisher": "Canva"
+        },
+        {
+          "rank": 34,
+          "appId": "327630330",
+          "name": "Dropbox: Cloud Storage Backup",
+          "publisher": "Dropbox, Inc."
+        },
+        {
           "rank": 35,
-          "appId": "6443575749",
-          "name": "Whiteout Survival",
-          "publisher": "Century Games Pte. Ltd."
+          "appId": "1606549505",
+          "name": "Royal Kingdom",
+          "publisher": "Dream Games"
         },
         {
           "rank": 36,
@@ -3326,15 +3326,15 @@
         },
         {
           "rank": 37,
-          "appId": "897446215",
-          "name": "Canva AI Photo & Video Editor",
-          "publisher": "Canva"
+          "appId": "6739554056",
+          "name": "Kingshot",
+          "publisher": "Century Games Pte. Ltd."
         },
         {
           "rank": 38,
-          "appId": "327630330",
-          "name": "Dropbox: Cloud Storage Backup",
-          "publisher": "Dropbox, Inc."
+          "appId": "333903271",
+          "name": "X",
+          "publisher": "X Corp."
         },
         {
           "rank": 39,
@@ -3344,74 +3344,74 @@
         },
         {
           "rank": 40,
-          "appId": "686449807",
-          "name": "Telegram Messenger",
-          "publisher": "Telegram FZ-LLC"
-        },
-        {
-          "rank": 41,
-          "appId": "529479190",
-          "name": "Clash of Clans",
-          "publisher": "Supercell"
-        },
-        {
-          "rank": 42,
-          "appId": "333903271",
-          "name": "X",
-          "publisher": "X Corp."
-        },
-        {
-          "rank": 43,
-          "appId": "6670430706",
-          "name": "DramaWave - Dramas & Reels",
-          "publisher": "SKYWORK AI PTE LTD"
-        },
-        {
-          "rank": 44,
           "appId": "1510944943",
           "name": "Cleanup: Phone Storage Cleaner",
           "publisher": "DEEP FLOW SOFTWARE SERVICES"
         },
         {
-          "rank": 45,
-          "appId": "595287172",
-          "name": "Hinge Dating App: Match & Date",
-          "publisher": "Hinge, Inc."
+          "rank": 41,
+          "appId": "686449807",
+          "name": "Telegram Messenger",
+          "publisher": "Telegram FZ-LLC"
         },
         {
-          "rank": 46,
-          "appId": "1149994032",
-          "name": "Facetune: Photo & Video Editor",
-          "publisher": "Lightricks Ltd."
+          "rank": 42,
+          "appId": "6443575749",
+          "name": "Whiteout Survival",
+          "publisher": "Century Games Pte. Ltd."
         },
         {
-          "rank": 47,
-          "appId": "1176027022",
-          "name": "Toon Blast",
-          "publisher": "Peak Games"
-        },
-        {
-          "rank": 48,
+          "rank": 43,
           "appId": "985746746",
           "name": "Discord - Talk, Play, Hang Out",
           "publisher": "Discord Inc."
         },
         {
+          "rank": 44,
+          "appId": "595287172",
+          "name": "Hinge Dating App: Match & Date",
+          "publisher": "Hinge, Inc."
+        },
+        {
+          "rank": 45,
+          "appId": "1149994032",
+          "name": "Facetune: Photo & Video Editor",
+          "publisher": "Lightricks Ltd."
+        },
+        {
+          "rank": 46,
+          "appId": "341232718",
+          "name": "MyFitnessPal: Calorie Counter",
+          "publisher": "MyFitnessPal, Inc."
+        },
+        {
+          "rank": 47,
+          "appId": "6448786147",
+          "name": "Last War:Survival",
+          "publisher": "FUNFLY PTE. LTD."
+        },
+        {
+          "rank": 48,
+          "appId": "1274132545",
+          "name": "Total Battle: War Strategy",
+          "publisher": "Scorewarrior"
+        },
+        {
           "rank": 49,
-          "appId": "638689075",
-          "name": "Township",
-          "publisher": "Playrix"
+          "appId": "6670430706",
+          "name": "DramaWave - Dramas & Reels",
+          "publisher": "SKYWORK AI PTE LTD"
         },
         {
           "rank": 50,
-          "appId": "406889139",
-          "name": "Coin Master",
-          "publisher": "Moon Active"
+          "appId": "510855668",
+          "name": "Amazon Music: Songs & Podcasts",
+          "publisher": "AMZN Mobile LLC"
         }
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "country": "us",
       "kindId": "puzzle-grossing",
       "kind": "topgrossingapplications",
@@ -3462,15 +3462,15 @@
         },
         {
           "rank": 8,
-          "appId": "6471045672",
-          "name": "Tasty Travels: Merge Game",
-          "publisher": "Century Games Pte. Ltd."
-        },
-        {
-          "rank": 9,
           "appId": "6779167923",
           "name": "Colony Flow!",
           "publisher": "ABI GLOBAL LTD."
+        },
+        {
+          "rank": 9,
+          "appId": "6471045672",
+          "name": "Tasty Travels: Merge Game",
+          "publisher": "Century Games Pte. Ltd."
         },
         {
           "rank": 10,
@@ -3480,15 +3480,15 @@
         },
         {
           "rank": 11,
-          "appId": "6751056652",
-          "name": "Pixel Flow!",
-          "publisher": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi"
+          "appId": "1195621598",
+          "name": "Homescapes: Cafe Makeover",
+          "publisher": "Playrix"
         },
         {
           "rank": 12,
-          "appId": "1195621598",
-          "name": "Homescapes",
-          "publisher": "Playrix"
+          "appId": "6751056652",
+          "name": "Pixel Flow!",
+          "publisher": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi"
         },
         {
           "rank": 13,
@@ -3510,39 +3510,39 @@
         },
         {
           "rank": 16,
-          "appId": "6499209744",
-          "name": "Magic Sort!",
-          "publisher": "Grand Games A.Ş."
-        },
-        {
-          "rank": 17,
           "appId": "6756058501",
           "name": "Jelly Busters: Puzzle Game",
           "publisher": "Moon Active"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "appId": "6740043080",
           "name": "Screwdom",
           "publisher": "Zego Global Pte Ltd"
         },
         {
+          "rank": 18,
+          "appId": "6499209744",
+          "name": "Magic Sort!",
+          "publisher": "Grand Games A.Ş."
+        },
+        {
           "rank": 19,
+          "appId": "307569751",
+          "name": "NYT Games: Wordle & Crossword",
+          "publisher": "The New York Times Company"
+        },
+        {
+          "rank": 20,
           "appId": "1643509748",
           "name": "Merge Cooking®",
           "publisher": "Happibits"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "appId": "6755183085",
           "name": "Yarn Loop: Knit Puzzle",
           "publisher": "Combo Games"
-        },
-        {
-          "rank": 21,
-          "appId": "307569751",
-          "name": "NYT Games: Wordle & Crossword",
-          "publisher": "The New York Times Company"
         },
         {
           "rank": 22,
@@ -3552,9 +3552,9 @@
         },
         {
           "rank": 23,
-          "appId": "6618142292",
-          "name": "Flambé®: Merge and Cook",
-          "publisher": "Microfun Limited"
+          "appId": "6504332779",
+          "name": "Color Block Jam",
+          "publisher": "Rollic Games"
         },
         {
           "rank": 24,
@@ -3564,63 +3564,63 @@
         },
         {
           "rank": 25,
-          "appId": "6504332779",
-          "name": "Color Block Jam",
-          "publisher": "Rollic Games"
+          "appId": "6618142292",
+          "name": "Flambé®: Merge and Cook",
+          "publisher": "Microfun Limited"
         },
         {
           "rank": 26,
-          "appId": "6503603603",
-          "name": "Mystery Town: Merge Games",
-          "publisher": "Cedar Games Studio"
-        },
-        {
-          "rank": 27,
           "appId": "1521236603",
           "name": "Travel Town - Merge Adventure",
           "publisher": "Moon Active"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "appId": "6503284107",
           "name": "All in Hole: Black Hole Games",
           "publisher": "HOMA GAMES"
         },
         {
+          "rank": 28,
+          "appId": "6503603603",
+          "name": "Mystery Town: Merge Games",
+          "publisher": "Cedar Games Studio"
+        },
+        {
           "rank": 29,
+          "appId": "1484442152",
+          "name": "Merge Mansion: Mystery Story",
+          "publisher": "Metacore Games Oy"
+        },
+        {
+          "rank": 30,
           "appId": "6769314786",
           "name": "Food Hunt: Pixel Puzzle",
           "publisher": "FUNFINITY PTE. LTD"
         },
         {
-          "rank": 30,
-          "appId": "6752886832",
-          "name": "Hotel Legacy: Merge Game",
-          "publisher": "Century Games Innovation Pte. Ltd."
-        },
-        {
           "rank": 31,
-          "appId": "1558803930",
-          "name": "Matching Story - Merge & Match",
-          "publisher": "VERTEX GAMES PTE. LTD."
-        },
-        {
-          "rank": 32,
           "appId": "890378044",
           "name": "Toy Blast",
           "publisher": "Peak Games"
         },
         {
+          "rank": 32,
+          "appId": "1558803930",
+          "name": "Matching Story - Merge & Match",
+          "publisher": "VERTEX GAMES PTE. LTD."
+        },
+        {
           "rank": 33,
-          "appId": "6753862216",
-          "name": "Foodstars: Merge & Cook",
-          "publisher": "Happibits"
+          "appId": "6752886832",
+          "name": "Hotel Legacy: Merge Game",
+          "publisher": "Century Games Innovation Pte. Ltd."
         },
         {
           "rank": 34,
-          "appId": "1484442152",
-          "name": "Merge Mansion: Mystery Story",
-          "publisher": "Metacore Games Oy"
+          "appId": "6753862216",
+          "name": "Foodstars: Merge & Cook",
+          "publisher": "Happibits"
         },
         {
           "rank": 35,
@@ -3630,51 +3630,51 @@
         },
         {
           "rank": 36,
-          "appId": "6443755785",
-          "name": "Seaside Escape®: Merge & Story",
-          "publisher": "Microfun Limited"
-        },
-        {
-          "rank": 37,
           "appId": "6762192889",
           "name": "Maze Out! - Tap Puzzle",
           "publisher": "Grand Games A.Ş."
         },
         {
+          "rank": 37,
+          "appId": "6443755785",
+          "name": "Seaside Escape®: Merge & Story",
+          "publisher": "Microfun Limited"
+        },
+        {
           "rank": 38,
-          "appId": "6747028173",
-          "name": "Hole Stars: Puzzle Game",
-          "publisher": "Moon Active"
-        },
-        {
-          "rank": 39,
-          "appId": "6797530374",
-          "name": "Jam Bus:Sandfall",
-          "publisher": "Nova Games Technology Limited"
-        },
-        {
-          "rank": 40,
           "appId": "1607122287",
           "name": "Triple Match 3D",
           "publisher": "Boombox Games LTD"
         },
         {
-          "rank": 41,
+          "rank": 39,
+          "appId": "6747028173",
+          "name": "Hole Stars: Puzzle Game",
+          "publisher": "Moon Active"
+        },
+        {
+          "rank": 40,
           "appId": "6450110217",
           "name": "Triple Match City",
           "publisher": "Breeze Games L.L.C-FZ"
         },
         {
-          "rank": 42,
-          "appId": "6755455500",
-          "name": "Hollywood Merge",
-          "publisher": "VoyagerOne"
+          "rank": 41,
+          "appId": "6797530374",
+          "name": "Jam Bus:Sandfall",
+          "publisher": "Nova Games Technology Limited"
         },
         {
-          "rank": 43,
+          "rank": 42,
           "appId": "6760325543",
           "name": "CubeAway - 3DPuzzle",
           "publisher": "GOODROID,Inc."
+        },
+        {
+          "rank": 43,
+          "appId": "6755455500",
+          "name": "Hollywood Merge",
+          "publisher": "VoyagerOne"
         },
         {
           "rank": 44,
@@ -3690,38 +3690,482 @@
         },
         {
           "rank": 46,
-          "appId": "1635337354",
-          "name": "Piggy Kingdom - Match 3 Games",
-          "publisher": "Olleyo Games"
-        },
-        {
-          "rank": 47,
           "appId": "1483058899",
           "name": "Project Makeover",
           "publisher": "Magic Tavern, Inc."
         },
         {
-          "rank": 48,
+          "rank": 47,
           "appId": "6786206777",
           "name": "Cube Smash - Puzzle Game",
           "publisher": "Combo Games"
         },
         {
-          "rank": 49,
-          "appId": "6760998152",
-          "name": "Family Farm Merge",
-          "publisher": "Century Games Innovation Pte. Ltd."
+          "rank": 48,
+          "appId": "1635337354",
+          "name": "Piggy Kingdom - Match 3 Games",
+          "publisher": "Olleyo Games"
         },
         {
-          "rank": 50,
+          "rank": 49,
           "appId": "6754558455",
           "name": "Marble Sort: Ball Color Puzzle",
           "publisher": "Voodoo"
+        },
+        {
+          "rank": 50,
+          "appId": "6740699102",
+          "name": "Hole It 3D",
+          "publisher": "SUPERSONIC STUDIOS LTD"
         }
       ]
     }
   ],
   "top5": [
+    {
+      "date": "2026-11-18",
+      "country": "us",
+      "kindId": "puzzle-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "1623318294",
+          "name": "Gossip Harbor®: Merge & Story",
+          "publisher": "Microfun Limited"
+        },
+        {
+          "rank": 2,
+          "appId": "1482155847",
+          "name": "Royal Match",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 3,
+          "appId": "553834731",
+          "name": "Candy Crush Saga",
+          "publisher": "King"
+        },
+        {
+          "rank": 4,
+          "appId": "1606549505",
+          "name": "Royal Kingdom",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 5,
+          "appId": "1176027022",
+          "name": "Toon Blast",
+          "publisher": "Peak Games"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "us",
+      "kindId": "overall-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "6448311069",
+          "name": "ChatGPT",
+          "publisher": "OpenAI OpCo, LLC"
+        },
+        {
+          "rank": 2,
+          "appId": "544007664",
+          "name": "YouTube",
+          "publisher": "Google"
+        },
+        {
+          "rank": 3,
+          "appId": "835599320",
+          "name": "TikTok - Videos, Shop & LIVE",
+          "publisher": "TikTok Ltd."
+        },
+        {
+          "rank": 4,
+          "appId": "530168168",
+          "name": "Paramount+",
+          "publisher": "CBS Interactive"
+        },
+        {
+          "rank": 5,
+          "appId": "1508186374",
+          "name": "Peacock TV: Stream TV & Movies",
+          "publisher": "Peacock TV LLC"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "us",
+      "kindId": "overall-free",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "6741796873",
+          "name": "TikTok Pro - Events",
+          "publisher": "TikTok Ltd."
+        },
+        {
+          "rank": 2,
+          "appId": "6760173601",
+          "name": "Muse from Meta",
+          "publisher": "Meta Platforms, Inc."
+        },
+        {
+          "rank": 3,
+          "appId": "632064380",
+          "name": "Vinted: Pre-loved marketplace",
+          "publisher": "Vinted Limited"
+        },
+        {
+          "rank": 4,
+          "appId": "6448311069",
+          "name": "ChatGPT",
+          "publisher": "OpenAI OpCo, LLC"
+        },
+        {
+          "rank": 5,
+          "appId": "6473753684",
+          "name": "Claude by Anthropic",
+          "publisher": "Anthropic PBC"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "us",
+      "kindId": "casual-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "1623318294",
+          "name": "Gossip Harbor®: Merge & Story",
+          "publisher": "Microfun Limited"
+        },
+        {
+          "rank": 2,
+          "appId": "1482155847",
+          "name": "Royal Match",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 3,
+          "appId": "553834731",
+          "name": "Candy Crush Saga",
+          "publisher": "King"
+        },
+        {
+          "rank": 4,
+          "appId": "1606549505",
+          "name": "Royal Kingdom",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 5,
+          "appId": "1176027022",
+          "name": "Toon Blast",
+          "publisher": "Peak Games"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "jp",
+      "kindId": "puzzle-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "1623318294",
+          "name": "ゴシップハーバー：マージ & ストーリー",
+          "publisher": "Microfun Limited"
+        },
+        {
+          "rank": 2,
+          "appId": "6760274605",
+          "name": "ディズニー スパークリンク・スターズ",
+          "publisher": "coly, Inc."
+        },
+        {
+          "rank": 3,
+          "appId": "1176027022",
+          "name": "トゥーンブラスト",
+          "publisher": "Peak Games"
+        },
+        {
+          "rank": 4,
+          "appId": "1482155847",
+          "name": "ロイヤルマッチ（Royal Match)",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 5,
+          "appId": "6471045672",
+          "name": "グルメ・ジャーニー",
+          "publisher": "Century Games Pte. Ltd."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "jp",
+      "kindId": "overall-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "6448311069",
+          "name": "ChatGPT",
+          "publisher": "OpenAI OpCo, LLC"
+        },
+        {
+          "rank": 2,
+          "appId": "1015521325",
+          "name": "Fate/Grand Order",
+          "publisher": "Aniplex Inc."
+        },
+        {
+          "rank": 3,
+          "appId": "544007664",
+          "name": "YouTube",
+          "publisher": "Google"
+        },
+        {
+          "rank": 4,
+          "appId": "1091496983",
+          "name": "ピッコマ",
+          "publisher": "Kakao piccoma Corp."
+        },
+        {
+          "rank": 5,
+          "appId": "1235601864",
+          "name": "TikTok ティックトック",
+          "publisher": "TikTok Ltd."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "jp",
+      "kindId": "overall-free",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "6760173601",
+          "name": "Muse from Meta",
+          "publisher": "Meta Platforms, Inc."
+        },
+        {
+          "rank": 2,
+          "appId": "570060128",
+          "name": "Duolingo：英語、韓国語、中国語を学ぼう",
+          "publisher": "Duolingo"
+        },
+        {
+          "rank": 3,
+          "appId": "6448311069",
+          "name": "ChatGPT",
+          "publisher": "OpenAI OpCo, LLC"
+        },
+        {
+          "rank": 4,
+          "appId": "6587576438",
+          "name": "setlog",
+          "publisher": "new chat"
+        },
+        {
+          "rank": 5,
+          "appId": "6477489729",
+          "name": "Google Gemini",
+          "publisher": "Google"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "jp",
+      "kindId": "casual-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "1623318294",
+          "name": "ゴシップハーバー：マージ & ストーリー",
+          "publisher": "Microfun Limited"
+        },
+        {
+          "rank": 2,
+          "appId": "1176027022",
+          "name": "トゥーンブラスト",
+          "publisher": "Peak Games"
+        },
+        {
+          "rank": 3,
+          "appId": "1482155847",
+          "name": "ロイヤルマッチ（Royal Match)",
+          "publisher": "Dream Games"
+        },
+        {
+          "rank": 4,
+          "appId": "6471045672",
+          "name": "グルメ・ジャーニー",
+          "publisher": "Century Games Pte. Ltd."
+        },
+        {
+          "rank": 5,
+          "appId": "6479970832",
+          "name": "Pokémon TCG Pocket",
+          "publisher": "The Pokemon Company"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "cn",
+      "kindId": "puzzle-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "791532221",
+          "name": "开心消消乐",
+          "publisher": "乐元素"
+        },
+        {
+          "rank": 2,
+          "appId": "1570403558",
+          "name": "梦幻花园 - Gardenscapes",
+          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
+        },
+        {
+          "rank": 3,
+          "appId": "1570403223",
+          "name": "梦幻家园 - Homescapes",
+          "publisher": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd"
+        },
+        {
+          "rank": 4,
+          "appId": "654897098",
+          "name": "天天爱消除",
+          "publisher": "Tencent Mobile Games"
+        },
+        {
+          "rank": 5,
+          "appId": "6472696051",
+          "name": "浪漫餐厅™-Gossip Harbor",
+          "publisher": "柠檬曲奇"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "cn",
+      "kindId": "overall-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "1142110895",
+          "name": "抖音",
+          "publisher": "Beijing Douyin Technology Co., Ltd."
+        },
+        {
+          "rank": 2,
+          "appId": "989673964",
+          "name": "王者荣耀",
+          "publisher": "Shenzhen Tencent Tianyou Technology Ltd"
+        },
+        {
+          "rank": 3,
+          "appId": "414478124",
+          "name": "微信",
+          "publisher": "WeChat"
+        },
+        {
+          "rank": 4,
+          "appId": "458318329",
+          "name": "腾讯视频-《斗破苍穹剧场版》国漫史诗终章",
+          "publisher": "Tencent Technology (Shenzhen) Company Limited"
+        },
+        {
+          "rank": 5,
+          "appId": "414603431",
+          "name": "QQ音乐 - 听我想听",
+          "publisher": "Tencent Technology (Shenzhen) Company Limited"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "cn",
+      "kindId": "overall-free",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "1485191072",
+          "name": "抖音商城-下单返积分、退货包运费",
+          "publisher": "Beijing Douyin Technology Co., Ltd."
+        },
+        {
+          "rank": 2,
+          "appId": "6745890963",
+          "name": "红果漫剧 - 热门精彩漫剧",
+          "publisher": "Hainan Yuyue Technology Co., Ltd."
+        },
+        {
+          "rank": 3,
+          "appId": "6451407032",
+          "name": "红果短剧 - 好内容多品类随心看",
+          "publisher": "Beijing Bimo Liuxiang Technology Co., Ltd."
+        },
+        {
+          "rank": 4,
+          "appId": "6459478672",
+          "name": "豆包 - 生活工作 AI 助手",
+          "publisher": "Beijing Chuntian Zhiyun Technology Co., Ltd."
+        },
+        {
+          "rank": 5,
+          "appId": "6466733523",
+          "name": "千问 - 阿里AI助手",
+          "publisher": "Shanghai Zhixin Puhui Technology Co., Ltd."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "country": "cn",
+      "kindId": "casual-grossing",
+      "entries": [
+        {
+          "rank": 1,
+          "appId": "791532221",
+          "name": "开心消消乐",
+          "publisher": "乐元素"
+        },
+        {
+          "rank": 2,
+          "appId": "6474293468",
+          "name": "向僵尸开炮-尸潮来袭",
+          "publisher": "Hainan Shengchang Network Technology Co., Ltd."
+        },
+        {
+          "rank": 3,
+          "appId": "6752632961",
+          "name": "时尚百货城",
+          "publisher": "深圳市爱的番茄科技有限公司"
+        },
+        {
+          "rank": 4,
+          "appId": "820847275",
+          "name": "多乐够级",
+          "publisher": "Beijing Pengqu Technology Co.,Ltd."
+        },
+        {
+          "rank": 5,
+          "appId": "1561105019",
+          "name": "捕鱼大咖-畅爽3D街机捕鱼游戏",
+          "publisher": "游酷盛世科技(北京)有限公司"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "country": "us",
@@ -10446,6 +10890,10 @@
           [
             "2026-11-17",
             14
+          ],
+          [
+            "2026-11-18",
+            18
           ]
         ],
         "puzzle-grossing": [
@@ -10508,6 +10956,10 @@
           [
             "2026-11-17",
             1
+          ],
+          [
+            "2026-11-18",
+            1
           ]
         ],
         "casual-grossing": [
@@ -10569,6 +11021,10 @@
           ],
           [
             "2026-11-17",
+            1
+          ],
+          [
+            "2026-11-18",
             1
           ]
         ]
@@ -10634,6 +11090,10 @@
           [
             "2026-11-17",
             5
+          ],
+          [
+            "2026-11-18",
+            5
           ]
         ],
         "casual-grossing": [
@@ -10696,6 +11156,10 @@
           [
             "2026-11-17",
             15
+          ],
+          [
+            "2026-11-18",
+            17
           ]
         ]
       }
@@ -10762,6 +11226,10 @@
           [
             "2026-11-17",
             8
+          ],
+          [
+            "2026-11-18",
+            9
           ]
         ],
         "casual-grossing": [
@@ -10823,6 +11291,10 @@
           ],
           [
             "2026-11-17",
+            9
+          ],
+          [
+            "2026-11-18",
             9
           ]
         ]
@@ -10890,6 +11362,10 @@
           [
             "2026-11-17",
             19
+          ],
+          [
+            "2026-11-18",
+            20
           ]
         ]
       }
@@ -10956,6 +11432,10 @@
           [
             "2026-11-17",
             23
+          ],
+          [
+            "2026-11-18",
+            25
           ]
         ],
         "casual-grossing": [
@@ -11018,6 +11498,10 @@
           [
             "2026-11-17",
             20
+          ],
+          [
+            "2026-11-18",
+            21
           ]
         ]
       }
@@ -11084,6 +11568,10 @@
           [
             "2026-11-17",
             27
+          ],
+          [
+            "2026-11-18",
+            26
           ]
         ]
       }
@@ -11150,6 +11638,10 @@
           [
             "2026-11-17",
             36
+          ],
+          [
+            "2026-11-18",
+            37
           ]
         ],
         "casual-grossing": [
@@ -11212,6 +11704,10 @@
           [
             "2026-11-17",
             30
+          ],
+          [
+            "2026-11-18",
+            31
           ]
         ]
       }
@@ -11278,6 +11774,10 @@
           [
             "2026-11-17",
             34
+          ],
+          [
+            "2026-11-18",
+            29
           ]
         ]
       }
@@ -11344,6 +11844,10 @@
           [
             "2026-11-17",
             10
+          ],
+          [
+            "2026-11-18",
+            11
           ]
         ],
         "casual-grossing": [
@@ -11406,6 +11910,10 @@
           [
             "2026-11-17",
             28
+          ],
+          [
+            "2026-11-18",
+            32
           ]
         ]
       }
@@ -11472,10 +11980,14 @@
           [
             "2026-11-17",
             12
+          ],
+          [
+            "2026-11-18",
+            11
           ]
         ]
       }
     }
   },
-  "updatedAt": "2026-11-17T12:55:13+08:00"
+  "updatedAt": "2026-11-18T11:59:07+08:00"
 }

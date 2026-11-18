@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "id": "version-flambe-us-1.55.1-2026-11-17",
+      "gameId": "flambe",
+      "store": "us",
+      "version": "1.55.1",
+      "releasedAt": "2026-11-17",
+      "notes": "NEW CONTENT\nGet ready to spice up your kitchens because our latest update is here, and it's hotter than ever!\nNEW DISHES & INGREDIENTS: Dive into an array of fresh ingredients and delectable dishes!\nNEW LOCATION: We've added a new location for you to explore and renovate!\nBUG FIXES: We’ve been busy behind the scenes squashing pesky bugs!",
+      "notesUrl": "https://apps.apple.com/us/app/flamb%C3%A9-merge-and-cook/id6618142292?uo=4",
+      "ratingCount": 16081,
+      "averageRating": 4.81325,
+      "highlights": [],
+      "fetchedAt": "2026-11-18T11:59:07+08:00"
+    },
+    {
       "id": "version-travel-town-us-2.12.1831-2026-11-15",
       "gameId": "travel-town",
       "store": "us",
@@ -417,5 +430,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-17T12:55:13+08:00"
+  "updatedAt": "2026-11-18T11:59:07+08:00"
 }

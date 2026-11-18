@@ -1,6 +1,21 @@
 {
   "alerts": [
     {
+      "id": "alert-20261118-us-app-flambe-1.55.1-version",
+      "date": "2026-11-18",
+      "type": "version",
+      "country": "us",
+      "gameId": "flambe",
+      "appId": "6618142292",
+      "name": "Flambé",
+      "version": "1.55.1",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Flambé 发布新版本 1.55.1（美区），更新说明命中：update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
+    },
+    {
       "id": "alert-20261116-us-app-travel-town-2.12.1831-version",
       "date": "2026-11-16",
       "type": "version",
@@ -198,5 +213,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-17T12:55:13+08:00"
+  "updatedAt": "2026-11-18T11:59:07+08:00"
 }
