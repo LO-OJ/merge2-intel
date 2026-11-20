@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "id": "version-travel-town-us-2.12.1832-2026-11-18",
+      "gameId": "travel-town",
+      "store": "us",
+      "version": "2.12.1832",
+      "releasedAt": "2026-11-18",
+      "notes": "Welcome to the latest update of Travel Town!\nWe’ve been busy improving the game and addressing bugs for you. \nEnjoy!",
+      "notesUrl": "https://apps.apple.com/us/app/travel-town-merge-adventure/id1521236603?uo=4",
+      "ratingCount": 193905,
+      "averageRating": 4.81235,
+      "highlights": [],
+      "fetchedAt": "2026-11-20T11:50:00+08:00"
+    },
+    {
+      "id": "version-merge-cooking-us-1.67.2-2026-11-18",
+      "gameId": "merge-cooking",
+      "store": "us",
+      "version": "1.67.2",
+      "releasedAt": "2026-11-18",
+      "notes": "Welcome back, Chef!\nA new version of Merge Cooking is available!\nTo provide a better experience, we're working hard to optimize the game performance as well as bring you exciting content.\nWe hope you can enjoy the time playing!\nNew to the game? Don't worry. We've prepared step-by-step instructions to guide you through. Join us and have some fun.",
+      "notesUrl": "https://apps.apple.com/us/app/merge-cooking/id1643509748?uo=4",
+      "ratingCount": 52649,
+      "averageRating": 4.74852,
+      "highlights": [],
+      "fetchedAt": "2026-11-20T11:50:00+08:00"
+    },
+    {
       "id": "version-flambe-us-1.55.1-2026-11-17",
       "gameId": "flambe",
       "store": "us",
@@ -430,5 +456,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-19T11:56:22+08:00"
+  "updatedAt": "2026-11-20T11:50:00+08:00"
 }
