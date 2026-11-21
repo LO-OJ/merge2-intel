@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "id": "version-kongge-zhijing-cn-10.5-2026-11-20",
+      "gameId": "kongge-zhijing",
+      "store": "cn",
+      "version": "10.5",
+      "releasedAt": "2026-11-20",
+      "notes": "活动更新，快来玩吧",
+      "notesUrl": "https://apps.apple.com/cn/app/%E7%A9%BA%E6%A0%BC%E4%B9%8B%E5%A2%83/id6771265430?uo=4",
+      "ratingCount": 1460,
+      "averageRating": 4.88218,
+      "highlights": [],
+      "fetchedAt": "2026-11-21T11:41:40+08:00"
+    },
+    {
       "id": "version-travel-town-us-2.12.1832-2026-11-18",
       "gameId": "travel-town",
       "store": "us",
@@ -456,5 +469,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-20T11:50:00+08:00"
+  "updatedAt": "2026-11-21T11:41:40+08:00"
 }

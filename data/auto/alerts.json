@@ -1,6 +1,37 @@
 {
   "alerts": [
     {
+      "id": "alert-20261121-us-puzzle-grossing-merge-mansion-rank-jump",
+      "date": "2026-11-21",
+      "type": "rank-jump",
+      "country": "us",
+      "kindId": "puzzle-grossing",
+      "appId": "1484442152",
+      "name": "Merge Mansion: Mystery Story",
+      "rank": 12,
+      "prevRank": 33,
+      "confidence": "medium",
+      "summary": "Merge Mansion 在美区 Puzzle 畅销上升 21 名，第 33 → 第 12。",
+      "sourceUrl": "https://apps.apple.com/us/app/id1484442152",
+      "gameId": "merge-mansion",
+      "publisher": "Metacore Games Oy"
+    },
+    {
+      "id": "alert-20261121-cn-app-kongge-zhijing-10.5-version",
+      "date": "2026-11-21",
+      "type": "version",
+      "country": "cn",
+      "gameId": "kongge-zhijing",
+      "appId": "6771265430",
+      "name": "空格之境",
+      "version": "10.5",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "空格之境 发布新版本 10.5（中国区），更新说明命中：活动。",
+      "sourceUrl": "https://apps.apple.com/cn/app/id6771265430"
+    },
+    {
       "id": "alert-20261120-us-app-travel-town-2.12.1832-version",
       "date": "2026-11-20",
       "type": "version",
@@ -228,5 +259,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-20T11:50:00+08:00"
+  "updatedAt": "2026-11-21T11:41:40+08:00"
 }
