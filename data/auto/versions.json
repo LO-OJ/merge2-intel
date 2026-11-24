@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "id": "version-travel-town-us-2.12.1841-2026-11-23",
+      "gameId": "travel-town",
+      "store": "us",
+      "version": "2.12.1841",
+      "releasedAt": "2026-11-23",
+      "notes": "Welcome to the latest update of Travel Town!\nWe’ve been busy improving the game and addressing bugs for you. \nEnjoy!",
+      "notesUrl": "https://apps.apple.com/us/app/travel-town-merge-adventure/id1521236603?uo=4",
+      "ratingCount": 194679,
+      "averageRating": 4.81269,
+      "highlights": [],
+      "fetchedAt": "2026-11-24T14:40:26+08:00"
+    },
+    {
       "id": "version-kongge-zhijing-cn-10.5-2026-11-20",
       "gameId": "kongge-zhijing",
       "store": "cn",
@@ -469,5 +482,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-23T11:26:04+08:00"
+  "updatedAt": "2026-11-24T14:40:26+08:00"
 }
