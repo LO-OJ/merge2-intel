@@ -1,6 +1,58 @@
 {
   "versions": [
     {
+      "id": "version-gossip-harbor-cn-4.13.0-2026-11-25",
+      "gameId": "gossip-harbor",
+      "store": "cn",
+      "version": "4.13.0",
+      "releasedAt": "2026-11-25",
+      "notes": "每周五更新剧情！\n- 剧情更新：每周五更新剧情，来和凯莉一起探索浪尾镇的秘密吧！\n- 新活动：参加胡桃夹子奇妙夜，收集积分，完成活动，解锁雪夜双人舞等装饰！",
+      "notesUrl": "https://apps.apple.com/cn/app/%E6%B5%AA%E6%BC%AB%E9%A4%90%E5%8E%85-gossip-harbor/id6472696051?uo=4",
+      "ratingCount": 27747,
+      "averageRating": 4.64126,
+      "highlights": [],
+      "fetchedAt": "2026-11-25T13:11:44+08:00"
+    },
+    {
+      "id": "version-seaside-escape-us-2.10.0-2026-11-24",
+      "gameId": "seaside-escape",
+      "store": "us",
+      "version": "2.10.0",
+      "releasedAt": "2026-11-24",
+      "notes": "NEW CONTENT EVERY WEEK \n- Locations! Unlock a new location and its secrets!\n- Events! Spice up your gaming experience with this weeks' event!\n\nWe've also fixed bugs and added cool new features!",
+      "notesUrl": "https://apps.apple.com/us/app/seaside-escape-merge-story/id6443755785?uo=4",
+      "ratingCount": 32030,
+      "averageRating": 4.6265,
+      "highlights": [],
+      "fetchedAt": "2026-11-25T13:11:44+08:00"
+    },
+    {
+      "id": "version-merge-county-us-v5.14.0-2026-11-24",
+      "gameId": "merge-county",
+      "store": "us",
+      "version": "v5.14.0",
+      "releasedAt": "2026-11-24",
+      "notes": "In Newburyton, surprises happen every day!\nMore and more people are moving to Newburyton! Like with any town, there's always trouble, but there's also a lot of happiness!\nCome experience new things and make new memories with them! \nUpdate the game to participate in the latest events!",
+      "notesUrl": "https://apps.apple.com/us/app/merge-county/id1586279379?uo=4",
+      "ratingCount": 24420,
+      "averageRating": 4.76327,
+      "highlights": [],
+      "fetchedAt": "2026-11-25T13:11:44+08:00"
+    },
+    {
+      "id": "version-gossip-harbor-us-4.13.0-2026-11-24",
+      "gameId": "gossip-harbor",
+      "store": "us",
+      "version": "4.13.0",
+      "releasedAt": "2026-11-24",
+      "notes": "NEW EPISODE EVERY FRIDAY!\n- NEW EPISODE: With new chapter updates every Friday; follow Quinn as she exposes secrets and solves puzzles.\n- NEW EVENT:Visit the Night of the Nutcracker and unlock the December Duo and other decor to collect points and complete the event.",
+      "notesUrl": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=4",
+      "ratingCount": 216633,
+      "averageRating": 4.61864,
+      "highlights": [],
+      "fetchedAt": "2026-11-25T13:11:44+08:00"
+    },
+    {
       "id": "version-travel-town-us-2.12.1841-2026-11-23",
       "gameId": "travel-town",
       "store": "us",
@@ -482,5 +534,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-24T14:40:26+08:00"
+  "updatedAt": "2026-11-25T13:11:44+08:00"
 }
