@@ -1,6 +1,21 @@
 {
   "alerts": [
     {
+      "id": "alert-20261126-us-app-merge-survival-1.59.0-version",
+      "date": "2026-11-26",
+      "type": "version",
+      "country": "us",
+      "gameId": "merge-survival",
+      "appId": "6443908990",
+      "name": "Merge Survival: Wasteland",
+      "version": "1.59.0",
+      "rank": null,
+      "prevRank": null,
+      "confidence": "medium",
+      "summary": "Merge Survival: Wasteland 发布新版本 1.59.0（美区），更新说明命中：event、update。",
+      "sourceUrl": "https://apps.apple.com/us/app/id6443908990"
+    },
+    {
       "id": "alert-20261125-us-app-seaside-escape-2.10.0-version",
       "date": "2026-11-25",
       "type": "version",
@@ -350,5 +365,5 @@
       "sourceUrl": "https://apps.apple.com/us/app/id6618142292"
     }
   ],
-  "updatedAt": "2026-11-25T13:11:44+08:00"
+  "updatedAt": "2026-11-26T12:38:43+08:00"
 }
