@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "id": "version-merge-survival-us-1.59.1-2026-11-26",
+      "gameId": "merge-survival",
+      "store": "us",
+      "version": "1.59.1",
+      "releasedAt": "2026-11-26",
+      "notes": "[1.59.1 Hotfix]\n- Other bug fixes and improvements",
+      "notesUrl": "https://apps.apple.com/us/app/merge-survival-wasteland/id6443908990?uo=4",
+      "ratingCount": 5038,
+      "averageRating": 4.73879,
+      "highlights": [],
+      "fetchedAt": "2026-11-27T12:42:01+08:00"
+    },
+    {
       "id": "version-merge-survival-us-1.59.0-2026-11-26",
       "gameId": "merge-survival",
       "store": "us",
@@ -12,6 +25,19 @@
       "averageRating": 4.73873,
       "highlights": [],
       "fetchedAt": "2026-11-26T12:38:43+08:00"
+    },
+    {
+      "id": "version-merge-gardens-us-1.58.4-2026-11-26",
+      "gameId": "merge-gardens",
+      "store": "us",
+      "version": "1.58.4",
+      "releasedAt": "2026-11-26",
+      "notes": "Get ready for a spectacular Merge Gardens update!\n- Bug fixes and improvements.",
+      "notesUrl": "https://apps.apple.com/us/app/merge-gardens/id1464675244?uo=4",
+      "ratingCount": 43238,
+      "averageRating": 4.62986,
+      "highlights": [],
+      "fetchedAt": "2026-11-27T12:42:01+08:00"
     },
     {
       "id": "version-tasty-travels-us-69.0-2026-11-25",
@@ -560,5 +586,5 @@
       "fetchedAt": "2026-11-03T16:07:29+08:00"
     }
   ],
-  "updatedAt": "2026-11-26T12:38:43+08:00"
+  "updatedAt": "2026-11-27T12:42:01+08:00"
 }
